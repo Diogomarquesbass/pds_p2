@@ -1,0 +1,566 @@
+,Name,Area,GlobalID,geometry,Access,Stage
+0,Escola Profissional Metropolitana de Lisboa,Alcântara,707e37d5-e1b5-45fc-85f8-cc7095308431,POINT (-9.18158997715356 38.699297532228),Public,Pre-School
+1,Conservatório Metropolitano de Música de Lisboa,Alcântara,83edfbca-6558-460e-93d1-0475467960a1,POINT (-9.1813018524282 38.6993993202234),Public,Pre-School
+2,Academia de Música de Luisboa - Os Violinos,Belém,a421d20f-eb13-4126-a30c-2158b07fe2fd,POINT (-9.1944372593028 38.7001317342682),Public,Pre-School
+3,Acordarte - Academia de Música de Lisboa,Belém,24aa8435-1660-4cdd-a993-5113daefd230,POINT (-9.1944372593028 38.7001317342682),Public,Pre-School
+4,Escola Profissional de Imagem (ETIC),Misericórdia,049de07d-4405-4a0f-8946-4ddce0c71d28,POINT (-9.14745713248909 38.7078031160822),Public,Pre-School
+5,Escola Profissional de Comunicação e Imagem,Santa Maria Maior,31991e9f-8111-410e-9e86-6f988aff69ef,POINT (-9.1401900679017 38.7079260134512),Public,Pre-School
+6,Escola Profissional Bento de Jesus Caraça,Santa Maria Maior,cb5e1d68-3e51-4701-b4aa-11bf9781f688,POINT (-9.14006362486191 38.707927104291),Public,Pre-School
+7,Escola Profissional Artes e Ofícios do Espectáculo - Chapitô,Santa Maria Maior,737d34cd-4614-4ddc-a46a-a9fd3f2a08e5,POINT (-9.13364540911357 38.7115545961778),Public,Pre-School
+8,Academia de Amadores de Música,Santa Maria Maior,40172af3-6534-4af2-8292-97d446fc783e,POINT (-9.14221949681003 38.7123038225042),Public,Pre-School
+9,Escola Profissional Almirante Domingos Tasso de Figueiredo,Alcântara,3ae7e655-5a9a-4602-a9d7-cf1437bb26c8,POINT (-9.17589499977919 38.7127078585714),Public,Pre-School
+10,Escola Profissional de Agentes de Serviço e Apoio Social Fund. Monsenhor Alves Brás,Estrela,c1e9cb7b-4132-4010-8313-a724c09b7f4e,POINT (-9.16466706287088 38.712819824054),Public,Pre-School
+11,Instituto de Artes e Ofícios,Santa Maria Maior,1c9501ea-ac1c-42aa-b702-5a3591a3bd5b,POINT (-9.12773476547131 38.7134263458889),Public,Pre-School
+12,Escola Profissional Almirante Reis,São Vicente,3cc19a8f-3945-4b73-bd87-4f10b48b374e,POINT (-9.1235093105705 38.7146083598408),Public,Pre-School
+13,Escola Profissional Pedagogia Social,Estrela,06d8b578-782c-4510-a3b7-85ab1f595a6d,POINT (-9.16233255209167 38.7142739937903),Public,Pre-School
+14,Escola Profissional Nicolau Breyner,São Vicente,b50f54d8-11ab-47b1-9c49-a87af360214c,POINT (-9.11836887316333 38.7192767809997),Public,Pre-School
+15,Escola Profissional de Hotelaria e Turismo do Chiado,Santo António,6689fb86-3851-4819-8a05-3515b59c842b,POINT (-9.15613595596272 38.7245161295831),Public,Pre-School
+16,Escola Profissional de Hotelaria e Turismo de Lisboa,Penha de França,b23ec3d6-9bad-4b32-b82f-ffb252d6126e,POINT (-9.11679425133223 38.7260463830341),Public,Pre-School
+17,Escola Profissional de Comunicação e Imagem,Avenidas Novas,3ab18790-86ac-484a-b09c-b9de925c59c1,POINT (-9.14944138938897 38.7300327904031),Public,Pre-School
+18,Instituto de Educação Técnica - INETE,Arroios,b81bc966-1a3b-4b7e-b463-7f52ef4d2bc0,POINT (-9.13992331284981 38.7305683326718),Public,Pre-School
+19,"Escola Profissional de Artes, Tecnologia e Desporto",Arroios,e7b273c0-68ac-4e17-9528-4c691ab612f2,POINT (-9.13717681942878 38.7350575216487),Public,Pre-School
+20,Escola Profissional Profitecla (Delegação),Avenidas Novas,2f6acacf-9613-4df2-b7f9-9c7b1eff870b,POINT (-9.14812780345887 38.7399520142051),Public,Pre-School
+21,Escola Profissional de Estudos Técnicos,Benfica,bfd1516d-9d4a-4216-b43f-d91db8d15ad3,POINT (-9.2003224314728 38.7507471344428),Public,Pre-School
+22,IEDP - Instituto de Educação e Desenvolvimento Profissional,Alvalade,84abeaaf-6cb7-409b-becf-d2c2436421c6,POINT (-9.14921772700145 38.7518158791511),Public,Pre-School
+23,Escola Profissional Magestil,Alvalade,08952e3c-4f87-4cde-8c02-66e02ec3e38f,POINT (-9.13086081572053 38.753676318062),Public,Pre-School
+24,Escola Profissional CEFAD,São Domingos de Benfica,84f27f60-0131-45ac-bcfe-763925762510,POINT (-9.17777568498708 38.7546174750305),Public,Pre-School
+25,Escola Profissional Agostinho Roseta,Parque das Nações,0248bcbc-bf66-496e-b0c5-97010473defc,POINT (-9.09701675161669 38.756752358443),Public,Pre-School
+26,Escola Técnica Psicossocial de Lisboa,Lumiar,21466a8f-3b51-4d63-8fe9-03eebcdb02f1,POINT (-9.16763432541539 38.7597117086986),Public,Pre-School
+27,Instituto para o Desenvolvimento Social ,Carnide,ac9f0dcb-844b-400b-934a-b4907fea09e8,POINT (-9.18515138531935 38.7627911410324),Public,Pre-School
+28,Escola Profissional Gustave Eiffel (Delegação),Lumiar,5d2586a2-78d5-469d-b226-fbad7e938e53,POINT (-9.15730503546951 38.7645422537616),Public,Pre-School
+29,Escolas de Jardinagem e de Calceteiros,Olivais,87374cdf-7272-4ca4-b971-c90190562bf2,POINT (-9.1097095433145 38.7730647311762),Public,Pre-School
+30,Escola de Comércio de Lisboa,Olivais,7528a757-7fca-4d70-bc51-cdf5e5eef01e,POINT (-9.12075336506073 38.7811038283038),Public,Pre-School
+31,Academia de Música de Santa Cecília,Santa Clara,5792caed-9e54-45ed-b43e-6203152cbf12,POINT (-9.15908558309924 38.7821812357211),Public,Pre-School
+32,CIATE - Centro Integral de Adestramento Técnico-Eletrónico,Benfica,fdcd59a4-f832-4f8f-8cc1-bfe39e6f241e,POINT (-9.19332622334994 38.7445491681155),Public,Pre-School
+33,Escola Profissional de Tecnologia Digital,Avenidas Novas,4e10f30d-31a6-4b73-b244-b6f1d30c7557,POINT (-9.14834841523104 38.7441193761152),Public,Pre-School
+34,Externato de Nossa Senhora da Penha de França,Penha de França,63659fcc-5a79-4326-940f-09d013ed8d5a,POINT (-9.12982745567667 38.7300822479214),Public,Pre-School
+35,INETESE - Instituto para o Ensino e Formação,Arroios,27b78e2e-193a-4781-bbb1-16725d12d69f,POINT (-9.13465683307481 38.721193386839),Public,Pre-School
+0,Escola Básica de São João de Brito,Alvalade,37f1d9e2-e4a4-4781-9467-17024b0eeebc,POINT (-9.13752911855158 38.7560454034636),Private,First
+1,Escola Básica Professora Aida Vieira,Carnide,4627c94e-cc5e-40cb-bab4-83970991efb9,POINT (-9.19261340827231 38.7676799464446),Private,First
+2,Jardim de Infância do Bairro Padre Cruz,Carnide,1a55a00a-9474-4c57-9a2e-128788e3a5be,POINT (-9.189706899982 38.7688164305399),Private,First
+3,Escola Básica Gaivotas,Misericórdia,5c263eab-c028-4eb6-9f2e-a4afbf904eb9,POINT (-9.14517808575277 38.7105488065443),Private,First
+4,Escola Básica Padre Abel Varzim,Misericórdia,bec1da21-14b6-41e9-8434-757bde2ce853,POINT (-9.14548586908564 38.7138347291176),Private,First
+5,Escola Básica Luísa Ducla Soares,Santo António,0ad340f6-aee5-463c-b8f5-fc2c26c251b4,POINT (-9.14379266907125 38.7221275261581),Private,First
+6,Escola Básica de São José,Santo António,794e9819-98ee-47a7-8d62-efcdc04d2a7c,POINT (-9.14185940623264 38.7191934121605),Private,First
+7,Escola Básica Pedro de Santarém,Benfica,6279f840-84a6-45c0-a3ac-567dd49ecadc,POINT (-9.19467287345015 38.7488093488151),Private,First
+8,Escola Básica Jorge Barradas,Benfica,51dbed38-bad1-4e6a-8dc8-f0cc02f60623,POINT (-9.20358304445156 38.7557505495183),Private,First
+9,Escola Básica Arquitecto Gonçalo Ribeiro Telles,Benfica,543becbf-dcae-497e-8101-e085bfd84061,,Private,First
+10,Jardim de Infância N.º 1 de Benfica ,Benfica,9840598a-ad9d-4fd2-bd3d-c3d371916a31,POINT (-9.19691729072167 38.7475041931688),Private,First
+11,Escola Básica João dos Santos,Marvila,91f3a31e-0bbe-468b-a2b1-0648f05acfd3,POINT (-9.10723109473508 38.7451102664906),Private,First
+12,Escola Básica Professor Agostinho da Silva,Marvila,b7f9392b-5f77-4231-a51a-9f8d47f6db42,POINT (-9.10566170013273 38.7473888273904),Private,First
+13,Escola Básica N.º 195 de Lisboa,Marvila,a5877885-74f9-4c28-ad8a-b4a9310662de,POINT (-9.11730957480569 38.7535980577529),Private,First
+14,Escola Básica Luíza Neto Jorge,Marvila,efdff652-b1aa-45a8-ab8a-57f8492b8465,POINT (-9.12404067104371 38.7524166937556),Private,First
+15,Escola Básica de Lóios,Marvila,376257e6-3388-4854-8bc1-c758944f3d17,POINT (-9.12475814340053 38.758610029251),Private,First
+16,Jardim de Infância António José de Almeida,Areeiro,134a8b91-0931-4837-99df-98d04169285e,POINT (-9.14029726182106 38.7382879282864),Private,First
+17,Escola Básica Vasco da Gama,Parque das Nações,bcaa7299-0758-402c-b95a-cc16451d7c74,POINT (-9.09352161872208 38.7781216742604),Private,First
+18,Escola Básica do Parque das Nações,Parque das Nações,58981734-95ac-4eca-b5bf-311bd9bd6836,POINT (-9.09742105019219 38.7546626005157),Private,First
+19,Escola Básica Padre José Manuel Rocha e Melo,Lumiar,496511b7-44f0-42a2-a8e4-c65dddf732aa,POINT (-9.14977745717233 38.7748402512684),Private,First
+20,Escola Básica Dr. Nuno Cordeiro Ferreira,Lumiar,a86f9b0a-69ad-4ea1-9d2c-b80d6c38eab1,POINT (-9.15534041526895 38.7756333797672),Private,First
+21,Escola Básica Maria da Luz de Deus Ramos,Santa Clara,7882c28d-344c-43b4-b063-50e5a700485c,POINT (-9.15055128159443 38.7909685616028),Private,First
+22,Escola Básica Pintora Maluda,Santa Clara,ffff27a5-41e1-40b1-9740-4a32794c6066,POINT (-9.15194317412923 38.7907351971653),Private,First
+23,Escola Básica Teixeira de Pascoais,Alvalade,1bebd897-a415-4906-936c-5eb48b8abd54,POINT (-9.13603560027278 38.7472193629945),Private,First
+24,Escola Básica Infante D. Henrique,Parque das Nações,a2a1eeb6-6991-4e9e-ac6f-431658326d56,POINT (-9.10238288102009 38.7715635031397),Private,First
+25,Escola Básica Arco-Íris,Olivais,1d73920e-9cca-440a-b8be-4e7641c0120e,POINT (-9.12127168008778 38.764158613354),Private,First
+26,Escola Básica Adriano Correia de Oliveira,Olivais,2ebc10fb-ab8c-4e00-9d93-f9df6bd0a619,POINT (-9.12166279964479 38.7674683511972),Private,First
+27,Escola Básica Homero Serpa,Ajuda,3e3d5af0-7b6d-4d4b-9aab-db1086561b0e,POINT (-9.19267394545787 38.7095565517424),Private,First
+28,Jardim de Infância  Alexandre Rodrigues Ferreira,Ajuda,7b3a201b-fc6d-47ff-a54a-619ac9e04be2,POINT (-9.19749234819284 38.7042702801635),Private,First
+29,Escola Básica Raúl Lino,Alcântara,45b39af1-bce9-451a-86bb-ecb72de6162f,POINT (-9.18004769767977 38.7066791096939),Private,First
+30,Escola Básica de Santo Amaro,Alcântara,92dc1d98-de9a-4b9e-9a72-c58c12009a11,POINT (-9.18535787303158 38.7036889650246),Private,First
+31,Escola Básica do Castelo,Santa Maria Maior,7a63f8e3-b98e-4f45-b17c-c4ad9e9ccb39,POINT (-9.13281926501618 38.7132210156893),Private,First
+32,Escola Básica Engenheiro Duarte Pacheco,Beato,03efacef-70ad-4d42-8a6e-c0117e01e23c,POINT (-9.12073685331583 38.7351291551251),Private,First
+33,Escola Básica Actor Vale,Penha de França,5c295daf-e59b-49ae-a227-850fa32b03f8,POINT (-9.13013711467873 38.7352714508015),Private,First
+34,Escola Básica do Bairro do Armador,Marvila,482006ce-2bd8-49b6-820f-fc093dbf9b66,POINT (-9.1206568524002 38.7446038306865),Private,First
+35,Escola Básica Rainha Santa Isabel,Campo de Ourique,f1274516-5d4f-4a16-a953-4dc0251451d8,POINT (-9.1555767618125 38.716883406964),Private,First
+36,Escola Básica Engenheiro Ressano Garcia,Campo de Ourique,4631f8d1-e135-49f0-b5cf-6ce1f9370e50,POINT (-9.16562056983248 38.7137358844673),Private,First
+37,Escola Básica Professor Oliveira Marques,Penha de França,abe44853-67f4-4114-9de9-f836da7dc154,POINT (-9.11648283070746 38.7218908709401),Private,First
+38,Escola Básica Rosa Lobato Faria,São Vicente,0d30e193-c364-4b1c-a119-b51a1b7d4f2c,POINT (-9.12020321983801 38.7204671725733),Private,First
+39,Escola Básica Frei Luis de Sousa,São Domingos de Benfica,695f2d25-d089-429a-8913-0e5fb11d8d34,POINT (-9.17193672473235 38.7409263473436),Private,First
+40,Escola Básica António Nobre,São Domingos de Benfica,3b0a0e0f-129a-488e-a82a-e5621fed051c,POINT (-9.17798492794034 38.7460095508708),Private,First
+41,Escola Básica de Laranjeiras,São Domingos de Benfica,a4ebcaaf-4d99-4f57-b072-50cccca46d48,POINT (-9.17355782052701 38.7553685486147),Private,First
+42,Escola Básica do Condado,Marvila,f5387a33-ace2-4f1f-9ae6-e1d28ba981c4,POINT (-9.1117396428509 38.7450323805168),Private,First
+43,Escola Básica do Beato,Beato,e1f9c83a-dcbf-4c39-beb5-e0c8f8dd0dc7,POINT (-9.10691011524315 38.7320472635217),Private,First
+44,Escola Básica do Bairro Madre de Deus,Beato,ee547886-7114-432e-a0ec-111870c0964b,POINT (-9.11501162467813 38.7333954944145),Private,First
+45,Escola Básica de Santo Condestável,Campo de Ourique,a2e601ff-ed17-4be6-a577-8be315c043b6,POINT (-9.1676672925982 38.7199884173376),Private,First
+46,Escola Básica Fernanda de Castro,Estrela,5ccdf8c4-0936-4caa-a9d8-1380532c414e,POINT (-9.17114905393992 38.70923394331),Private,First
+47,Escola Básica de Vale de Alcântara,Campo de Ourique,74f8db45-4382-4de1-81d5-f7bd62d027f2,,Private,First
+48,Escola Básica Manuel da Maia,Campo de Ourique,eff394e5-aff5-45cb-92a4-31f11cefa90c,POINT (-9.17024807709183 38.7178674438094),Private,First
+49,Escola Básica Mestre Querubim Lapa,Campolide,7bbda568-3ca7-453b-8f89-b65be07a8fde,POINT (-9.16231889540637 38.7327470208806),Private,First
+50,Escola Básica Mestre Arnaldo Louro de Almeida,Avenidas Novas,6a79086a-a2e8-4f03-a300-626cc0b040e2,POINT (-9.15605384703805 38.7453311827895),Private,First
+51,Escola Básica N.º 1 de Lisboa,Arroios,774dcd28-0b69-4b96-8c73-537553f5917f,POINT (-9.13826470227522 38.7202753924606),Private,First
+52,Escola Básica Sampaio Garrido,Arroios,df1c25b5-48fe-4d86-9096-bc647a07e68f,POINT (-9.13210438963445 38.7261123591569),Private,First
+53,Escola Básica Arquitecto Victor Palla,Penha de França,bcfad435-930f-45a0-b461-17f19b496316,POINT (-9.12499503560416 38.7266175892799),Private,First
+54,Escola Básica Pintor Almada Negreiros ,Santa Clara,5092700d-3a77-4d04-b760-b147e874bf55,POINT (-9.14430871202998 38.7777564917861),Private,First
+55,Escola Básica da Alta de Lisboa,Santa Clara,c6913aa0-26f9-4367-ad95-ffbcf484cf66,POINT (-9.1499699145424 38.7827060318613),Private,First
+56,Escola Básica Viscondessa dos Olivais,Olivais,19e93156-dea8-455d-9beb-74801fd22be9,POINT (-9.10618144196747 38.7697829273775),Private,First
+57,Escola Básica Paulino Montez,Olivais,bfe8a69a-e1aa-4b07-99c0-378c2fdd4720,POINT (-9.11844432032362 38.7743938639179),Private,First
+58,Escola Básica de Santa Maria dos Olivais,Olivais,1e493e89-44d8-49f7-976b-25bcdc1c4da0,POINT (-9.11639101146085 38.7763035061294),Private,First
+59,Escola Básica do Lumiar,Lumiar,c5a18983-0c6d-4557-96f9-674e1097ce6b,POINT (-9.16825774334278 38.7673481401389),Private,First
+60,Jardim de Infância de Telheiras,Lumiar,09dbf06b-c25e-4ab6-a059-873c8ec1d5eb,POINT (-9.17041508399342 38.7601509692613),Private,First
+61,Escola Básica da Luz/Carnide,Carnide,3b894bbb-a05e-4784-8a60-174c70a64c52,POINT (-9.18658728620504 38.7593560715372),Private,First
+62,Escola Básica D. Luís da Cunha,Alvalade,e7eba2a9-cdc4-44b8-8e2b-b8afb4e8bcc2,POINT (-9.16730744434181 38.7561910180827),Private,First
+63,Escola Básica de São Vicente/Telheiras ,Lumiar,64b9312b-83c3-43a0-b416-0926902614a9,POINT (-9.17362162589107 38.7594926987228),Private,First
+64,Escola Básica Prista Monteiro,Carnide,d08cac12-96b8-4c93-9056-602ea6f223f2,POINT (-9.18209732814018 38.765972395256),Private,First
+65,Jardim de Infância da Horta Nova,Carnide,450b044c-6514-440c-afa7-37d7ad3d6bd8,POINT (-9.18192024484465 38.7655455707195),Private,First
+66,Escola Básica de Santa Clara,São Vicente,5129c9db-8636-41e0-9678-8c6365e93a25,POINT (-9.12533038352542 38.7151253343901),Private,First
+67,Jardim de Infância de Belém,Belém,091ba577-6deb-49fb-b478-50eedd2e2935,POINT (-9.20429152179167 38.6992410916334),Private,First
+68,Escola Básica Maria Barroso,Santa Maria Maior,4c91b84e-6748-498e-8d71-fa2282ff07c6,POINT (-9.13937934247054 38.7094681340088),Private,First
+69,Jardim de Infância da Ameixoeira,Santa Clara,e258f338-e446-4b8e-8f20-0bc809bd7dde,POINT (-9.15895882511879 38.78071714369),Private,First
+70,Jardim de Infância do Lumiar,Lumiar,628f9f1a-e25e-44dc-99f2-66097ad965cf,POINT (-9.16185565330509 38.7685134176058),Private,First
+71,Escola Básica Professor José Salvado Sampaio,Benfica,08ad9917-b921-4a61-aafb-9c8abfdbdcd9,POINT (-9.2098065749094 38.7499880865529),Private,First
+72,Escola Básica do Parque Silva Porto,Benfica,a4b6f7b8-e836-4c14-9512-64efacd26448,POINT (-9.20514427069021 38.7472533037233),Private,First
+73,Escola Básica do Bairro de São Miguel,Alvalade,472a336c-34bc-45bc-8fef-fff252be8280,POINT (-9.14488722364118 38.7467023639056),Private,First
+74,Escola Básica Santo António,Alvalade,d6e98ad5-dee1-43de-8600-531e6fb4645a,POINT (-9.14720636629289 38.7540729770689),Private,First
+75,Escola Básica de Moinhos do Restelo,Belém,e4a48b8e-475c-4986-b00e-85e1a1fb8467,POINT (-9.20686826806514 38.7072835399369),Private,First
+76,Escola Básica do Bairro do Restelo,Belém,fe4baed8-57a2-4dbb-a64e-f25198fc6897,POINT (-9.21775658689447 38.7014305796765),Private,First
+77,Escola Básica Professor Manuel Sérgio,Ajuda,4903371d-18ad-4289-a8a9-5eaf0d6572e6,POINT (-9.20169760622567 38.7128248591273),Private,First
+78,Escola Básica de Caselas,Belém,9b0c318e-edb7-4106-a0f9-123c4c34b402,POINT (-9.2139893210878 38.7145170326948),Private,First
+79,Escola Básica Alice Vieira,Olivais,9de12364-82d7-4b35-8c27-33d268513600,POINT (-9.11366635212619 38.7606564977357),Private,First
+80,Escola Básica Sarah Afonso,Olivais,351ad92d-67d2-4b71-a55f-8e4436e3f27f,POINT (-9.1088286840993 38.7592329420447),Private,First
+81,Escola Básica Manuel Teixeira Gomes,Marvila,ef721ce6-298f-46e1-af17-901d39535331,POINT (-9.11134251508333 38.7533788703132),Private,First
+0,Escola Básica de São João de Brito,Alvalade,37f1d9e2-e4a4-4781-9467-17024b0eeebc,POINT (-9.13752911855158 38.7560454034636),Public,First
+1,Escola Básica Professora Aida Vieira,Carnide,4627c94e-cc5e-40cb-bab4-83970991efb9,POINT (-9.19261340827231 38.7676799464446),Public,First
+2,Jardim de Infância do Bairro Padre Cruz,Carnide,1a55a00a-9474-4c57-9a2e-128788e3a5be,POINT (-9.189706899982 38.7688164305399),Public,First
+3,Escola Básica Gaivotas,Misericórdia,5c263eab-c028-4eb6-9f2e-a4afbf904eb9,POINT (-9.14517808575277 38.7105488065443),Public,First
+4,Escola Básica Padre Abel Varzim,Misericórdia,bec1da21-14b6-41e9-8434-757bde2ce853,POINT (-9.14548586908564 38.7138347291176),Public,First
+5,Escola Básica Luísa Ducla Soares,Santo António,0ad340f6-aee5-463c-b8f5-fc2c26c251b4,POINT (-9.14379266907125 38.7221275261581),Public,First
+6,Escola Básica de São José,Santo António,794e9819-98ee-47a7-8d62-efcdc04d2a7c,POINT (-9.14185940623264 38.7191934121605),Public,First
+7,Escola Básica Pedro de Santarém,Benfica,6279f840-84a6-45c0-a3ac-567dd49ecadc,POINT (-9.19467287345015 38.7488093488151),Public,First
+8,Escola Básica Jorge Barradas,Benfica,51dbed38-bad1-4e6a-8dc8-f0cc02f60623,POINT (-9.20358304445156 38.7557505495183),Public,First
+9,Escola Básica Arquitecto Gonçalo Ribeiro Telles,Benfica,543becbf-dcae-497e-8101-e085bfd84061,,Public,First
+10,Jardim de Infância N.º 1 de Benfica ,Benfica,9840598a-ad9d-4fd2-bd3d-c3d371916a31,POINT (-9.19691729072167 38.7475041931688),Public,First
+11,Escola Básica João dos Santos,Marvila,91f3a31e-0bbe-468b-a2b1-0648f05acfd3,POINT (-9.10723109473508 38.7451102664906),Public,First
+12,Escola Básica Professor Agostinho da Silva,Marvila,b7f9392b-5f77-4231-a51a-9f8d47f6db42,POINT (-9.10566170013273 38.7473888273904),Public,First
+13,Escola Básica N.º 195 de Lisboa,Marvila,a5877885-74f9-4c28-ad8a-b4a9310662de,POINT (-9.11730957480569 38.7535980577529),Public,First
+14,Escola Básica Luíza Neto Jorge,Marvila,efdff652-b1aa-45a8-ab8a-57f8492b8465,POINT (-9.12404067104371 38.7524166937556),Public,First
+15,Escola Básica de Lóios,Marvila,376257e6-3388-4854-8bc1-c758944f3d17,POINT (-9.12475814340053 38.758610029251),Public,First
+16,Jardim de Infância António José de Almeida,Areeiro,134a8b91-0931-4837-99df-98d04169285e,POINT (-9.14029726182106 38.7382879282864),Public,First
+17,Escola Básica Vasco da Gama,Parque das Nações,bcaa7299-0758-402c-b95a-cc16451d7c74,POINT (-9.09352161872208 38.7781216742604),Public,First
+18,Escola Básica do Parque das Nações,Parque das Nações,58981734-95ac-4eca-b5bf-311bd9bd6836,POINT (-9.09742105019219 38.7546626005157),Public,First
+19,Escola Básica Padre José Manuel Rocha e Melo,Lumiar,496511b7-44f0-42a2-a8e4-c65dddf732aa,POINT (-9.14977745717233 38.7748402512684),Public,First
+20,Escola Básica Dr. Nuno Cordeiro Ferreira,Lumiar,a86f9b0a-69ad-4ea1-9d2c-b80d6c38eab1,POINT (-9.15534041526895 38.7756333797672),Public,First
+21,Escola Básica Maria da Luz de Deus Ramos,Santa Clara,7882c28d-344c-43b4-b063-50e5a700485c,POINT (-9.15055128159443 38.7909685616028),Public,First
+22,Escola Básica Pintora Maluda,Santa Clara,ffff27a5-41e1-40b1-9740-4a32794c6066,POINT (-9.15194317412923 38.7907351971653),Public,First
+23,Escola Básica Teixeira de Pascoais,Alvalade,1bebd897-a415-4906-936c-5eb48b8abd54,POINT (-9.13603560027278 38.7472193629945),Public,First
+24,Escola Básica Infante D. Henrique,Parque das Nações,a2a1eeb6-6991-4e9e-ac6f-431658326d56,POINT (-9.10238288102009 38.7715635031397),Public,First
+25,Escola Básica Arco-Íris,Olivais,1d73920e-9cca-440a-b8be-4e7641c0120e,POINT (-9.12127168008778 38.764158613354),Public,First
+26,Escola Básica Adriano Correia de Oliveira,Olivais,2ebc10fb-ab8c-4e00-9d93-f9df6bd0a619,POINT (-9.12166279964479 38.7674683511972),Public,First
+27,Escola Básica Homero Serpa,Ajuda,3e3d5af0-7b6d-4d4b-9aab-db1086561b0e,POINT (-9.19267394545787 38.7095565517424),Public,First
+28,Jardim de Infância  Alexandre Rodrigues Ferreira,Ajuda,7b3a201b-fc6d-47ff-a54a-619ac9e04be2,POINT (-9.19749234819284 38.7042702801635),Public,First
+29,Escola Básica Raúl Lino,Alcântara,45b39af1-bce9-451a-86bb-ecb72de6162f,POINT (-9.18004769767977 38.7066791096939),Public,First
+30,Escola Básica de Santo Amaro,Alcântara,92dc1d98-de9a-4b9e-9a72-c58c12009a11,POINT (-9.18535787303158 38.7036889650246),Public,First
+31,Escola Básica do Castelo,Santa Maria Maior,7a63f8e3-b98e-4f45-b17c-c4ad9e9ccb39,POINT (-9.13281926501618 38.7132210156893),Public,First
+32,Escola Básica Engenheiro Duarte Pacheco,Beato,03efacef-70ad-4d42-8a6e-c0117e01e23c,POINT (-9.12073685331583 38.7351291551251),Public,First
+33,Escola Básica Actor Vale,Penha de França,5c295daf-e59b-49ae-a227-850fa32b03f8,POINT (-9.13013711467873 38.7352714508015),Public,First
+34,Escola Básica do Bairro do Armador,Marvila,482006ce-2bd8-49b6-820f-fc093dbf9b66,POINT (-9.1206568524002 38.7446038306865),Public,First
+35,Escola Básica Rainha Santa Isabel,Campo de Ourique,f1274516-5d4f-4a16-a953-4dc0251451d8,POINT (-9.1555767618125 38.716883406964),Public,First
+36,Escola Básica Engenheiro Ressano Garcia,Campo de Ourique,4631f8d1-e135-49f0-b5cf-6ce1f9370e50,POINT (-9.16562056983248 38.7137358844673),Public,First
+37,Escola Básica Professor Oliveira Marques,Penha de França,abe44853-67f4-4114-9de9-f836da7dc154,POINT (-9.11648283070746 38.7218908709401),Public,First
+38,Escola Básica Rosa Lobato Faria,São Vicente,0d30e193-c364-4b1c-a119-b51a1b7d4f2c,POINT (-9.12020321983801 38.7204671725733),Public,First
+39,Escola Básica Frei Luis de Sousa,São Domingos de Benfica,695f2d25-d089-429a-8913-0e5fb11d8d34,POINT (-9.17193672473235 38.7409263473436),Public,First
+40,Escola Básica António Nobre,São Domingos de Benfica,3b0a0e0f-129a-488e-a82a-e5621fed051c,POINT (-9.17798492794034 38.7460095508708),Public,First
+41,Escola Básica de Laranjeiras,São Domingos de Benfica,a4ebcaaf-4d99-4f57-b072-50cccca46d48,POINT (-9.17355782052701 38.7553685486147),Public,First
+42,Escola Básica do Condado,Marvila,f5387a33-ace2-4f1f-9ae6-e1d28ba981c4,POINT (-9.1117396428509 38.7450323805168),Public,First
+43,Escola Básica do Beato,Beato,e1f9c83a-dcbf-4c39-beb5-e0c8f8dd0dc7,POINT (-9.10691011524315 38.7320472635217),Public,First
+44,Escola Básica do Bairro Madre de Deus,Beato,ee547886-7114-432e-a0ec-111870c0964b,POINT (-9.11501162467813 38.7333954944145),Public,First
+45,Escola Básica de Santo Condestável,Campo de Ourique,a2e601ff-ed17-4be6-a577-8be315c043b6,POINT (-9.1676672925982 38.7199884173376),Public,First
+46,Escola Básica Fernanda de Castro,Estrela,5ccdf8c4-0936-4caa-a9d8-1380532c414e,POINT (-9.17114905393992 38.70923394331),Public,First
+47,Escola Básica de Vale de Alcântara,Campo de Ourique,74f8db45-4382-4de1-81d5-f7bd62d027f2,,Public,First
+48,Escola Básica Manuel da Maia,Campo de Ourique,eff394e5-aff5-45cb-92a4-31f11cefa90c,POINT (-9.17024807709183 38.7178674438094),Public,First
+49,Escola Básica Mestre Querubim Lapa,Campolide,7bbda568-3ca7-453b-8f89-b65be07a8fde,POINT (-9.16231889540637 38.7327470208806),Public,First
+50,Escola Básica Mestre Arnaldo Louro de Almeida,Avenidas Novas,6a79086a-a2e8-4f03-a300-626cc0b040e2,POINT (-9.15605384703805 38.7453311827895),Public,First
+51,Escola Básica N.º 1 de Lisboa,Arroios,774dcd28-0b69-4b96-8c73-537553f5917f,POINT (-9.13826470227522 38.7202753924606),Public,First
+52,Escola Básica Sampaio Garrido,Arroios,df1c25b5-48fe-4d86-9096-bc647a07e68f,POINT (-9.13210438963445 38.7261123591569),Public,First
+53,Escola Básica Arquitecto Victor Palla,Penha de França,bcfad435-930f-45a0-b461-17f19b496316,POINT (-9.12499503560416 38.7266175892799),Public,First
+54,Escola Básica Pintor Almada Negreiros ,Santa Clara,5092700d-3a77-4d04-b760-b147e874bf55,POINT (-9.14430871202998 38.7777564917861),Public,First
+55,Escola Básica da Alta de Lisboa,Santa Clara,c6913aa0-26f9-4367-ad95-ffbcf484cf66,POINT (-9.1499699145424 38.7827060318613),Public,First
+56,Escola Básica Viscondessa dos Olivais,Olivais,19e93156-dea8-455d-9beb-74801fd22be9,POINT (-9.10618144196747 38.7697829273775),Public,First
+57,Escola Básica Paulino Montez,Olivais,bfe8a69a-e1aa-4b07-99c0-378c2fdd4720,POINT (-9.11844432032362 38.7743938639179),Public,First
+58,Escola Básica de Santa Maria dos Olivais,Olivais,1e493e89-44d8-49f7-976b-25bcdc1c4da0,POINT (-9.11639101146085 38.7763035061294),Public,First
+59,Escola Básica do Lumiar,Lumiar,c5a18983-0c6d-4557-96f9-674e1097ce6b,POINT (-9.16825774334278 38.7673481401389),Public,First
+60,Jardim de Infância de Telheiras,Lumiar,09dbf06b-c25e-4ab6-a059-873c8ec1d5eb,POINT (-9.17041508399342 38.7601509692613),Public,First
+61,Escola Básica da Luz/Carnide,Carnide,3b894bbb-a05e-4784-8a60-174c70a64c52,POINT (-9.18658728620504 38.7593560715372),Public,First
+62,Escola Básica D. Luís da Cunha,Alvalade,e7eba2a9-cdc4-44b8-8e2b-b8afb4e8bcc2,POINT (-9.16730744434181 38.7561910180827),Public,First
+63,Escola Básica de São Vicente/Telheiras ,Lumiar,64b9312b-83c3-43a0-b416-0926902614a9,POINT (-9.17362162589107 38.7594926987228),Public,First
+64,Escola Básica Prista Monteiro,Carnide,d08cac12-96b8-4c93-9056-602ea6f223f2,POINT (-9.18209732814018 38.765972395256),Public,First
+65,Jardim de Infância da Horta Nova,Carnide,450b044c-6514-440c-afa7-37d7ad3d6bd8,POINT (-9.18192024484465 38.7655455707195),Public,First
+66,Escola Básica de Santa Clara,São Vicente,5129c9db-8636-41e0-9678-8c6365e93a25,POINT (-9.12533038352542 38.7151253343901),Public,First
+67,Jardim de Infância de Belém,Belém,091ba577-6deb-49fb-b478-50eedd2e2935,POINT (-9.20429152179167 38.6992410916334),Public,First
+68,Escola Básica Maria Barroso,Santa Maria Maior,4c91b84e-6748-498e-8d71-fa2282ff07c6,POINT (-9.13937934247054 38.7094681340088),Public,First
+69,Jardim de Infância da Ameixoeira,Santa Clara,e258f338-e446-4b8e-8f20-0bc809bd7dde,POINT (-9.15895882511879 38.78071714369),Public,First
+70,Jardim de Infância do Lumiar,Lumiar,628f9f1a-e25e-44dc-99f2-66097ad965cf,POINT (-9.16185565330509 38.7685134176058),Public,First
+71,Escola Básica Professor José Salvado Sampaio,Benfica,08ad9917-b921-4a61-aafb-9c8abfdbdcd9,POINT (-9.2098065749094 38.7499880865529),Public,First
+72,Escola Básica do Parque Silva Porto,Benfica,a4b6f7b8-e836-4c14-9512-64efacd26448,POINT (-9.20514427069021 38.7472533037233),Public,First
+73,Escola Básica do Bairro de São Miguel,Alvalade,472a336c-34bc-45bc-8fef-fff252be8280,POINT (-9.14488722364118 38.7467023639056),Public,First
+74,Escola Básica Santo António,Alvalade,d6e98ad5-dee1-43de-8600-531e6fb4645a,POINT (-9.14720636629289 38.7540729770689),Public,First
+75,Escola Básica de Moinhos do Restelo,Belém,e4a48b8e-475c-4986-b00e-85e1a1fb8467,POINT (-9.20686826806514 38.7072835399369),Public,First
+76,Escola Básica do Bairro do Restelo,Belém,fe4baed8-57a2-4dbb-a64e-f25198fc6897,POINT (-9.21775658689447 38.7014305796765),Public,First
+77,Escola Básica Professor Manuel Sérgio,Ajuda,4903371d-18ad-4289-a8a9-5eaf0d6572e6,POINT (-9.20169760622567 38.7128248591273),Public,First
+78,Escola Básica de Caselas,Belém,9b0c318e-edb7-4106-a0f9-123c4c34b402,POINT (-9.2139893210878 38.7145170326948),Public,First
+79,Escola Básica Alice Vieira,Olivais,9de12364-82d7-4b35-8c27-33d268513600,POINT (-9.11366635212619 38.7606564977357),Public,First
+80,Escola Básica Sarah Afonso,Olivais,351ad92d-67d2-4b71-a55f-8e4436e3f27f,POINT (-9.1088286840993 38.7592329420447),Public,First
+81,Escola Básica Manuel Teixeira Gomes,Marvila,ef721ce6-298f-46e1-af17-901d39535331,POINT (-9.11134251508333 38.7533788703132),Public,First
+0,Escola Básica de São João de Brito,Alvalade,37f1d9e2-e4a4-4781-9467-17024b0eeebc,POINT (-9.13752911855158 38.7560454034636),Public,Second
+1,Escola Básica Professora Aida Vieira,Carnide,4627c94e-cc5e-40cb-bab4-83970991efb9,POINT (-9.19261340827231 38.7676799464446),Public,Second
+2,Jardim de Infância do Bairro Padre Cruz,Carnide,1a55a00a-9474-4c57-9a2e-128788e3a5be,POINT (-9.189706899982 38.7688164305399),Public,Second
+3,Escola Básica Gaivotas,Misericórdia,5c263eab-c028-4eb6-9f2e-a4afbf904eb9,POINT (-9.14517808575277 38.7105488065443),Public,Second
+4,Escola Básica Padre Abel Varzim,Misericórdia,bec1da21-14b6-41e9-8434-757bde2ce853,POINT (-9.14548586908564 38.7138347291176),Public,Second
+5,Escola Básica Luísa Ducla Soares,Santo António,0ad340f6-aee5-463c-b8f5-fc2c26c251b4,POINT (-9.14379266907125 38.7221275261581),Public,Second
+6,Escola Básica de São José,Santo António,794e9819-98ee-47a7-8d62-efcdc04d2a7c,POINT (-9.14185940623264 38.7191934121605),Public,Second
+7,Escola Básica Pedro de Santarém,Benfica,6279f840-84a6-45c0-a3ac-567dd49ecadc,POINT (-9.19467287345015 38.7488093488151),Public,Second
+8,Escola Básica Jorge Barradas,Benfica,51dbed38-bad1-4e6a-8dc8-f0cc02f60623,POINT (-9.20358304445156 38.7557505495183),Public,Second
+9,Escola Básica Arquitecto Gonçalo Ribeiro Telles,Benfica,543becbf-dcae-497e-8101-e085bfd84061,,Public,Second
+10,Jardim de Infância N.º 1 de Benfica ,Benfica,9840598a-ad9d-4fd2-bd3d-c3d371916a31,POINT (-9.19691729072167 38.7475041931688),Public,Second
+11,Escola Básica João dos Santos,Marvila,91f3a31e-0bbe-468b-a2b1-0648f05acfd3,POINT (-9.10723109473508 38.7451102664906),Public,Second
+12,Escola Básica Professor Agostinho da Silva,Marvila,b7f9392b-5f77-4231-a51a-9f8d47f6db42,POINT (-9.10566170013273 38.7473888273904),Public,Second
+13,Escola Básica N.º 195 de Lisboa,Marvila,a5877885-74f9-4c28-ad8a-b4a9310662de,POINT (-9.11730957480569 38.7535980577529),Public,Second
+14,Escola Básica Luíza Neto Jorge,Marvila,efdff652-b1aa-45a8-ab8a-57f8492b8465,POINT (-9.12404067104371 38.7524166937556),Public,Second
+15,Escola Básica de Lóios,Marvila,376257e6-3388-4854-8bc1-c758944f3d17,POINT (-9.12475814340053 38.758610029251),Public,Second
+16,Jardim de Infância António José de Almeida,Areeiro,134a8b91-0931-4837-99df-98d04169285e,POINT (-9.14029726182106 38.7382879282864),Public,Second
+17,Escola Básica Vasco da Gama,Parque das Nações,bcaa7299-0758-402c-b95a-cc16451d7c74,POINT (-9.09352161872208 38.7781216742604),Public,Second
+18,Escola Básica do Parque das Nações,Parque das Nações,58981734-95ac-4eca-b5bf-311bd9bd6836,POINT (-9.09742105019219 38.7546626005157),Public,Second
+19,Escola Básica Padre José Manuel Rocha e Melo,Lumiar,496511b7-44f0-42a2-a8e4-c65dddf732aa,POINT (-9.14977745717233 38.7748402512684),Public,Second
+20,Escola Básica Dr. Nuno Cordeiro Ferreira,Lumiar,a86f9b0a-69ad-4ea1-9d2c-b80d6c38eab1,POINT (-9.15534041526895 38.7756333797672),Public,Second
+21,Escola Básica Maria da Luz de Deus Ramos,Santa Clara,7882c28d-344c-43b4-b063-50e5a700485c,POINT (-9.15055128159443 38.7909685616028),Public,Second
+22,Escola Básica Pintora Maluda,Santa Clara,ffff27a5-41e1-40b1-9740-4a32794c6066,POINT (-9.15194317412923 38.7907351971653),Public,Second
+23,Escola Básica Teixeira de Pascoais,Alvalade,1bebd897-a415-4906-936c-5eb48b8abd54,POINT (-9.13603560027278 38.7472193629945),Public,Second
+24,Escola Básica Infante D. Henrique,Parque das Nações,a2a1eeb6-6991-4e9e-ac6f-431658326d56,POINT (-9.10238288102009 38.7715635031397),Public,Second
+25,Escola Básica Arco-Íris,Olivais,1d73920e-9cca-440a-b8be-4e7641c0120e,POINT (-9.12127168008778 38.764158613354),Public,Second
+26,Escola Básica Adriano Correia de Oliveira,Olivais,2ebc10fb-ab8c-4e00-9d93-f9df6bd0a619,POINT (-9.12166279964479 38.7674683511972),Public,Second
+27,Escola Básica Homero Serpa,Ajuda,3e3d5af0-7b6d-4d4b-9aab-db1086561b0e,POINT (-9.19267394545787 38.7095565517424),Public,Second
+28,Jardim de Infância  Alexandre Rodrigues Ferreira,Ajuda,7b3a201b-fc6d-47ff-a54a-619ac9e04be2,POINT (-9.19749234819284 38.7042702801635),Public,Second
+29,Escola Básica Raúl Lino,Alcântara,45b39af1-bce9-451a-86bb-ecb72de6162f,POINT (-9.18004769767977 38.7066791096939),Public,Second
+30,Escola Básica de Santo Amaro,Alcântara,92dc1d98-de9a-4b9e-9a72-c58c12009a11,POINT (-9.18535787303158 38.7036889650246),Public,Second
+31,Escola Básica do Castelo,Santa Maria Maior,7a63f8e3-b98e-4f45-b17c-c4ad9e9ccb39,POINT (-9.13281926501618 38.7132210156893),Public,Second
+32,Escola Básica Engenheiro Duarte Pacheco,Beato,03efacef-70ad-4d42-8a6e-c0117e01e23c,POINT (-9.12073685331583 38.7351291551251),Public,Second
+33,Escola Básica Actor Vale,Penha de França,5c295daf-e59b-49ae-a227-850fa32b03f8,POINT (-9.13013711467873 38.7352714508015),Public,Second
+34,Escola Básica do Bairro do Armador,Marvila,482006ce-2bd8-49b6-820f-fc093dbf9b66,POINT (-9.1206568524002 38.7446038306865),Public,Second
+35,Escola Básica Rainha Santa Isabel,Campo de Ourique,f1274516-5d4f-4a16-a953-4dc0251451d8,POINT (-9.1555767618125 38.716883406964),Public,Second
+36,Escola Básica Engenheiro Ressano Garcia,Campo de Ourique,4631f8d1-e135-49f0-b5cf-6ce1f9370e50,POINT (-9.16562056983248 38.7137358844673),Public,Second
+37,Escola Básica Professor Oliveira Marques,Penha de França,abe44853-67f4-4114-9de9-f836da7dc154,POINT (-9.11648283070746 38.7218908709401),Public,Second
+38,Escola Básica Rosa Lobato Faria,São Vicente,0d30e193-c364-4b1c-a119-b51a1b7d4f2c,POINT (-9.12020321983801 38.7204671725733),Public,Second
+39,Escola Básica Frei Luis de Sousa,São Domingos de Benfica,695f2d25-d089-429a-8913-0e5fb11d8d34,POINT (-9.17193672473235 38.7409263473436),Public,Second
+40,Escola Básica António Nobre,São Domingos de Benfica,3b0a0e0f-129a-488e-a82a-e5621fed051c,POINT (-9.17798492794034 38.7460095508708),Public,Second
+41,Escola Básica de Laranjeiras,São Domingos de Benfica,a4ebcaaf-4d99-4f57-b072-50cccca46d48,POINT (-9.17355782052701 38.7553685486147),Public,Second
+42,Escola Básica do Condado,Marvila,f5387a33-ace2-4f1f-9ae6-e1d28ba981c4,POINT (-9.1117396428509 38.7450323805168),Public,Second
+43,Escola Básica do Beato,Beato,e1f9c83a-dcbf-4c39-beb5-e0c8f8dd0dc7,POINT (-9.10691011524315 38.7320472635217),Public,Second
+44,Escola Básica do Bairro Madre de Deus,Beato,ee547886-7114-432e-a0ec-111870c0964b,POINT (-9.11501162467813 38.7333954944145),Public,Second
+45,Escola Básica de Santo Condestável,Campo de Ourique,a2e601ff-ed17-4be6-a577-8be315c043b6,POINT (-9.1676672925982 38.7199884173376),Public,Second
+46,Escola Básica Fernanda de Castro,Estrela,5ccdf8c4-0936-4caa-a9d8-1380532c414e,POINT (-9.17114905393992 38.70923394331),Public,Second
+47,Escola Básica de Vale de Alcântara,Campo de Ourique,74f8db45-4382-4de1-81d5-f7bd62d027f2,,Public,Second
+48,Escola Básica Manuel da Maia,Campo de Ourique,eff394e5-aff5-45cb-92a4-31f11cefa90c,POINT (-9.17024807709183 38.7178674438094),Public,Second
+49,Escola Básica Mestre Querubim Lapa,Campolide,7bbda568-3ca7-453b-8f89-b65be07a8fde,POINT (-9.16231889540637 38.7327470208806),Public,Second
+50,Escola Básica Mestre Arnaldo Louro de Almeida,Avenidas Novas,6a79086a-a2e8-4f03-a300-626cc0b040e2,POINT (-9.15605384703805 38.7453311827895),Public,Second
+51,Escola Básica N.º 1 de Lisboa,Arroios,774dcd28-0b69-4b96-8c73-537553f5917f,POINT (-9.13826470227522 38.7202753924606),Public,Second
+52,Escola Básica Sampaio Garrido,Arroios,df1c25b5-48fe-4d86-9096-bc647a07e68f,POINT (-9.13210438963445 38.7261123591569),Public,Second
+53,Escola Básica Arquitecto Victor Palla,Penha de França,bcfad435-930f-45a0-b461-17f19b496316,POINT (-9.12499503560416 38.7266175892799),Public,Second
+54,Escola Básica Pintor Almada Negreiros ,Santa Clara,5092700d-3a77-4d04-b760-b147e874bf55,POINT (-9.14430871202998 38.7777564917861),Public,Second
+55,Escola Básica da Alta de Lisboa,Santa Clara,c6913aa0-26f9-4367-ad95-ffbcf484cf66,POINT (-9.1499699145424 38.7827060318613),Public,Second
+56,Escola Básica Viscondessa dos Olivais,Olivais,19e93156-dea8-455d-9beb-74801fd22be9,POINT (-9.10618144196747 38.7697829273775),Public,Second
+57,Escola Básica Paulino Montez,Olivais,bfe8a69a-e1aa-4b07-99c0-378c2fdd4720,POINT (-9.11844432032362 38.7743938639179),Public,Second
+58,Escola Básica de Santa Maria dos Olivais,Olivais,1e493e89-44d8-49f7-976b-25bcdc1c4da0,POINT (-9.11639101146085 38.7763035061294),Public,Second
+59,Escola Básica do Lumiar,Lumiar,c5a18983-0c6d-4557-96f9-674e1097ce6b,POINT (-9.16825774334278 38.7673481401389),Public,Second
+60,Jardim de Infância de Telheiras,Lumiar,09dbf06b-c25e-4ab6-a059-873c8ec1d5eb,POINT (-9.17041508399342 38.7601509692613),Public,Second
+61,Escola Básica da Luz/Carnide,Carnide,3b894bbb-a05e-4784-8a60-174c70a64c52,POINT (-9.18658728620504 38.7593560715372),Public,Second
+62,Escola Básica D. Luís da Cunha,Alvalade,e7eba2a9-cdc4-44b8-8e2b-b8afb4e8bcc2,POINT (-9.16730744434181 38.7561910180827),Public,Second
+63,Escola Básica de São Vicente/Telheiras ,Lumiar,64b9312b-83c3-43a0-b416-0926902614a9,POINT (-9.17362162589107 38.7594926987228),Public,Second
+64,Escola Básica Prista Monteiro,Carnide,d08cac12-96b8-4c93-9056-602ea6f223f2,POINT (-9.18209732814018 38.765972395256),Public,Second
+65,Jardim de Infância da Horta Nova,Carnide,450b044c-6514-440c-afa7-37d7ad3d6bd8,POINT (-9.18192024484465 38.7655455707195),Public,Second
+66,Escola Básica de Santa Clara,São Vicente,5129c9db-8636-41e0-9678-8c6365e93a25,POINT (-9.12533038352542 38.7151253343901),Public,Second
+67,Jardim de Infância de Belém,Belém,091ba577-6deb-49fb-b478-50eedd2e2935,POINT (-9.20429152179167 38.6992410916334),Public,Second
+68,Escola Básica Maria Barroso,Santa Maria Maior,4c91b84e-6748-498e-8d71-fa2282ff07c6,POINT (-9.13937934247054 38.7094681340088),Public,Second
+69,Jardim de Infância da Ameixoeira,Santa Clara,e258f338-e446-4b8e-8f20-0bc809bd7dde,POINT (-9.15895882511879 38.78071714369),Public,Second
+70,Jardim de Infância do Lumiar,Lumiar,628f9f1a-e25e-44dc-99f2-66097ad965cf,POINT (-9.16185565330509 38.7685134176058),Public,Second
+71,Escola Básica Professor José Salvado Sampaio,Benfica,08ad9917-b921-4a61-aafb-9c8abfdbdcd9,POINT (-9.2098065749094 38.7499880865529),Public,Second
+72,Escola Básica do Parque Silva Porto,Benfica,a4b6f7b8-e836-4c14-9512-64efacd26448,POINT (-9.20514427069021 38.7472533037233),Public,Second
+73,Escola Básica do Bairro de São Miguel,Alvalade,472a336c-34bc-45bc-8fef-fff252be8280,POINT (-9.14488722364118 38.7467023639056),Public,Second
+74,Escola Básica Santo António,Alvalade,d6e98ad5-dee1-43de-8600-531e6fb4645a,POINT (-9.14720636629289 38.7540729770689),Public,Second
+75,Escola Básica de Moinhos do Restelo,Belém,e4a48b8e-475c-4986-b00e-85e1a1fb8467,POINT (-9.20686826806514 38.7072835399369),Public,Second
+76,Escola Básica do Bairro do Restelo,Belém,fe4baed8-57a2-4dbb-a64e-f25198fc6897,POINT (-9.21775658689447 38.7014305796765),Public,Second
+77,Escola Básica Professor Manuel Sérgio,Ajuda,4903371d-18ad-4289-a8a9-5eaf0d6572e6,POINT (-9.20169760622567 38.7128248591273),Public,Second
+78,Escola Básica de Caselas,Belém,9b0c318e-edb7-4106-a0f9-123c4c34b402,POINT (-9.2139893210878 38.7145170326948),Public,Second
+79,Escola Básica Alice Vieira,Olivais,9de12364-82d7-4b35-8c27-33d268513600,POINT (-9.11366635212619 38.7606564977357),Public,Second
+80,Escola Básica Sarah Afonso,Olivais,351ad92d-67d2-4b71-a55f-8e4436e3f27f,POINT (-9.1088286840993 38.7592329420447),Public,Second
+81,Escola Básica Manuel Teixeira Gomes,Marvila,ef721ce6-298f-46e1-af17-901d39535331,POINT (-9.11134251508333 38.7533788703132),Public,Second
+0,Colégio do Bom Sucesso,Belém,15cf71ac-1d1e-46d7-a0e7-7f09140d06c2,POINT (-9.21105689438628 38.6955782682932),Private,Second
+1,Externato Alfredo Binet,Belém,d693914b-1dc3-42a8-9a06-379bfaf954e2,POINT (-9.21648434759652 38.6955752152856),Private,Second
+2,"Cooperativa ""A Torre""",Belém,91d9dfd8-af85-4f8e-a585-a102fea77d2f,POINT (-9.21772663433867 38.696308410493),Private,Second
+3,"Externato ""A Escolinha""",Belém,87fd77ee-86ab-45eb-b364-d647ff140be3,POINT (-9.22490182183578 38.6973174716166),Private,Second
+4,"Externato ""Santa Maria de Belém""",Belém,a78b3476-9d5d-426d-b473-3d609519ec20,POINT (-9.218970594513 38.6976975852239),Private,Second
+5,"Escola ""São Francisco Xavier""",Belém,96a77035-5be9-4d8c-80d0-075ccc126548,POINT (-9.21938005638312 38.697819813694),Private,Second
+6,Escola Raiz,Belém,d792a5b6-82cf-4d1a-a4b1-6b012eead4e3,POINT (-9.21379716239845 38.6990922093854),Private,Second
+7,"Centro de Pedagogia Terapêutica ""Bola de Neve""",Belém,27ad6b4f-4978-4408-aa87-059f8864f6f9,POINT (-9.2207410340553 38.699457349921),Private,Second
+8,Colégio As Descobertas,Belém,ac529506-bf1e-4579-a104-c4b04a487166,POINT (-9.2225915468047 38.7001244038859),Private,Second
+9,"Colégio ""Mira Rio""",Lumiar,3b53363a-8db2-4289-8a79-6a672981d15f,POINT (-9.16432091560347 38.7594394592301),Private,Second
+10,Externato da Sociedade Promotora da Educação Popular,Alcântara,7e6316d6-e83a-43bd-adf6-a4de4d574be9,POINT (-9.17703353698559 38.7046299940868),Private,Second
+11,"Escola ""Avé-Maria""",Alcântara,1f2173df-df8f-4c3e-88c0-92e897aaee6b,POINT (-9.18062868177943 38.7052103369228),Private,Second
+12,"Escola Privativa n.º 6 de ""A Voz do Operário""",Ajuda,57065663-f436-4b64-824b-942416907d2f,POINT (-9.19908825041509 38.7055132437124),Private,Second
+13,Escola Primária Centro Cultural e Recreativo para Crianças Cruzeiro e Rio Seco,Ajuda,26fc41ee-f396-48c3-beed-a8d494035440,POINT (-9.18998860761286 38.7070008552915),Private,Second
+14,"Externato ""As Descobertas""",Belém,42003da1-290c-4a09-be28-b478c536fd41,POINT (-9.2070436931536 38.7078784830323),Private,Second
+15,"Externato Paroquial ""Nossa Senhora da Conceição""",Santa Maria Maior,cc53a67c-684d-4765-837b-e55331e42cae,POINT (-9.13979782912466 38.7087128486912),Private,Second
+16,PaRK International School - Restelo,Belém,ce8d9374-1954-48c1-8a0a-726caec3e236,POINT (-9.21604825844983 38.7083192525838),Private,Second
+17,Colégio de Santa Maria,Estrela,3a8f02da-17e3-4ada-8a56-54b1935492b0,POINT (-9.15918740962485 38.7093089069013),Private,Second
+18,Externato de São José,Belém,aa98c777-8e61-4be3-8f5a-4f480946a556,POINT (-9.21602949811176 38.7101209752386),Private,Second
+19,"Externato ""O Lar da Criança""",Estrela,66a9e605-6670-4863-abb2-a30d1ab040c4,POINT (-9.15693113098338 38.7113205303154),Private,Second
+20,"Colégio ""O Nosso Jardim""",Estrela,4af9d5a4-d8ac-42e4-b41c-331e46a3fcc1,POINT (-9.15891568050971 38.711816563545),Private,Second
+21,APPDA - Associação Portuguesa para as Perturbações do Desenvolvimento e Autismo,Ajuda,40c4c8e4-09e5-48b4-8bd7-15bc43f0275c,POINT (-9.20267899494971 38.7119783486038),Private,Second
+22,Colégio Helen Keller,Belém,aafdf128-c1ca-47fd-956c-06c3920bc665,POINT (-9.21182430811985 38.7129825135033),Private,Second
+23,Salesianos de Lisboa - Colégio Oficinas de São José,Campo de Ourique,7ead6e97-6ba7-4ac9-b198-fdf5a6d6cf8d,POINT (-9.16889700394904 38.7139666883881),Private,Second
+24,Colégio Luso-Suiço,Campo de Ourique,36eba2aa-565d-468a-8a53-c41df270df57,POINT (-9.15499406448485 38.7149586180133),Private,Second
+25,Escola Privativa n.º 1 de A Voz do Operário,São Vicente,7df04443-2945-45ad-9ac1-54b100dbb6ef,POINT (-9.12916825879552 38.7155960991548),Private,Second
+26,Jardim Escola João de Deus Lisboa/Estrela,Campo de Ourique,c16e96e5-eedc-4f2a-994d-52cb816678b2,POINT (-9.15814114474916 38.7156486115646),Private,Second
+27,"Externato ""Rainha Dona Amélia""",Estrela,f08554a4-b587-4792-9683-bc9d016662e3,POINT (-9.16104015428629 38.715653212416),Private,Second
+28,"Escola ""Pedro Nunes""",Campo de Ourique,e3e702b4-8c0b-4ca7-b53d-d3e9cb971164,POINT (-9.16339260598714 38.7158056248644),Private,Second
+29,Escola do Grémio de Instrução Liberal de Campo de Ourique,Campo de Ourique,72cfbf98-2563-4256-8395-7e725e61619a,POINT (-9.16161412224132 38.7178038706705),Private,Second
+30,Externato Primário da Associação Pró-Infância Santo António de Lisboa,Arroios,0157867d-c932-4880-aaa4-bda03882f97e,POINT (-9.13501037313714 38.7238646491303),Private,Second
+31,Externato do Parque,Campolide,a94cf33b-47a4-4865-9b31-072120cf4ac5,POINT (-9.15730349378222 38.7253063272957),Private,Second
+32,"Externato Infantil e Primário ""Passos Manuel""",Arroios,7c7d179f-4184-43e6-97e9-1e168b7e71ee,POINT (-9.13660352427331 38.7278214741809),Private,Second
+33,"Externato ""Mãe de Deus""",Penha de França,863e3726-d495-453e-86c9-057c8b841b6e,POINT (-9.13111983664164 38.7286432119348),Private,Second
+34,Escola Selecta Prof. Doutor Amadeu Andrés,Arroios,7bcb97c1-3bcf-4a82-8dfe-e26324bb1b7e,POINT (-9.13390219330257 38.7290284033735),Private,Second
+35,Externato de Nossa Senhora da Penha de França,Penha de França,0b73f456-839c-4854-89b3-7872258233fd,POINT (-9.1298257484022 38.7300780603062),Private,Second
+36,"Colégio ""Sá de Miranda""",Arroios,814326c0-3b8e-4cc5-bc7b-7110346f1597,POINT (-9.13899704492549 38.7304999397276),Private,Second
+37,Externato de Educação Popular,Campolide,6c6922d9-6162-4e4c-a899-aacdc40eac81,POINT (-9.17225851609153 38.7304798148992),Private,Second
+38,"Externato ""Santa Francisca""",Penha de França,90baf3fd-d53e-4973-99ae-fcd67317457e,POINT (-9.12759107312468 38.7325850822526),Private,Second
+39,Colégio de Talentos,Arroios,465f8f5f-2b0a-4622-ad0c-b1a35a7b455e,POINT (-9.14024595145005 38.7330119050459),Private,Second
+40,Colégio do Sagrado Coração de Maria,Arroios,3ef96695-10b2-4e6e-96fe-d3ce0953b546,POINT (-9.13660546975198 38.735178427426),Private,Second
+41,Colégio Académico,Avenidas Novas,f28bc20e-554d-4ff3-ae66-13f6dcee61bc,POINT (-9.14559540599986 38.7352953146901),Private,Second
+42,"Externato ""A Ritinha""",Avenidas Novas,28c05ce7-08ff-437b-b223-978c6617414a,POINT (-9.15533600901612 38.7357005154863),Private,Second
+43,Nova Escola João de Deus Ramos,Avenidas Novas,80b7100d-1b12-4c98-8f22-2cd7781db3eb,POINT (-9.14804186380758 38.7357811817603),Private,Second
+44,"Externato ""Nobel""",Areeiro,d6831694-1413-485e-a5dd-0955634b345c,POINT (-9.13562631207768 38.7375288675353),Private,Second
+45,"Externato ""Infante D. Pedro""",Avenidas Novas,e626f05e-a7d2-483a-87d9-8aaa00075511,POINT (-9.14638240565185 38.7385259350235),Private,Second
+46,PaRK International School - Praça de Espanha,São Domingos de Benfica,fe391922-7177-41b6-8ee5-99a2e3a119c7,POINT (-9.16185058973694 38.7384911479118),Private,Second
+47,"Externato ""Anita""",Avenidas Novas,016ab05c-d7b2-43b8-90cc-4d67326a05e7,POINT (-9.15617110629818 38.7394134059345),Private,Second
+48,Colégio de São Tomás - Sete Rios,São Domingos de Benfica,2a60f682-c43f-475a-aa8d-de9200a1b355,POINT (-9.16551319831584 38.7400759172176),Private,Second
+49,"Externato Infantil e Primário ""O Beiral""",Benfica,96605bc6-9a7a-4b35-8a06-fd22765cf788,POINT (-9.19668748711501 38.7424022203829),Private,Second
+50,Nuclisol Jean Piaget - Unidade De Desenvolvimento Integrado Bairro Do Condado,Marvila,e547bb03-0492-40c0-ae1f-aa4af1665dfb,POINT (-9.11310821144323 38.7447475563973),Private,Second
+51,CEBE - Cooperativa de Ensino de Benfica,São Domingos de Benfica,b6d2736d-9182-4045-ac53-b7f49fd8b6a0,POINT (-9.18070718110137 38.7452250792295),Private,Second
+52,Externato Fernão Mendes Pinto,São Domingos de Benfica,b20a2693-68c1-46aa-9296-6c2d63f5e4e6,POINT (-9.18092789470152 38.7453191205799),Private,Second
+53,"Externato ""O Barquinho""",Alvalade,26cf6562-acad-4115-b35c-e23370dc08d0,POINT (-9.13359387139789 38.7476393820053),Private,Second
+54,Colégio Eduardo Claparede,Alvalade,9be37524-e19a-4a75-9573-e6c8466231e0,POINT (-9.14368532070098 38.7476701838694),Private,Second
+55,Associação Infante de Sagres,São Domingos de Benfica,f432c58f-3664-4070-ae72-7c14d792d600,POINT (-9.16535818841266 38.747766262347),Private,Second
+56,Externato Marista de Lisboa,São Domingos de Benfica,2f143bc8-4e5b-4ec3-8db7-c63d880e458d,POINT (-9.18164424325018 38.7477232013571),Private,Second
+57,Associação Creche Ester Janz,Marvila,c22610d4-e8f0-4490-9da4-7e30e580a86b,POINT (-9.10339156854669 38.7502302543047),Private,Second
+58,"Externato ""Grão Vasco""",Benfica,f2d1e83d-fa49-4c59-85f4-bd64fd61cefa,POINT (-9.20335769927784 38.7499618429804),Private,Second
+59,"Externato ""São Cristóvão""",Benfica,4b4c80cc-0511-40ff-afd5-40a2a21d266c,POINT (-9.20359796746516 38.7506442260604),Private,Second
+60,Colégio Cesário Verde,Marvila,259c5a26-810a-41fa-945b-9997d14bd336,POINT (-9.10317998400444 38.7520727882507),Private,Second
+61,Colégio Saint Daniel Brottier,Alvalade,f1e54bcd-27be-4c9b-b320-d9b9adac3465,POINT (-9.13097601508296 38.7525682004221),Private,Second
+62,Colégio Moderno,Alvalade,6c4f790f-eb27-4781-8469-621ea5443218,POINT (-9.15364624965256 38.7527039087666),Private,Second
+63,"Externato ""Os Fofinhos"" ",Alvalade,89bdbf3f-60dc-4882-828b-30ab9781eac4,POINT (-9.13403640411103 38.7529638150919),Private,Second
+64,"Jardim Infantil ""Pestalozzi""",Alvalade,a99dea8a-a247-4934-84db-4d62f716dd06,POINT (-9.15405434677923 38.753087672088),Private,Second
+65,Externato Luso Britânico,Alvalade,74e48f28-a0f2-4a25-9391-8dbe3718d490,POINT (-9.13641974018354 38.753934200639),Private,Second
+66,Colégio Valsassina,Marvila,67276ce5-14e4-469a-b3a1-dda63e052675,POINT (-9.12614486333781 38.7558990122078),Private,Second
+67,Jardim Escola João de Deus Lisboa/Alvalade,Alvalade,924c2d78-d370-4b01-b3e7-26157e1aac66,POINT (-9.13646179320678 38.7558877162823),Private,Second
+68,Externato das Pedralvas,Benfica,00c352d2-9ea1-464f-b6b1-b06555523c32,POINT (-9.20520539528866 38.7558179128935),Private,Second
+69,Escola Alemã de Lisboa,Lumiar,014b63be-b34f-4bd3-81b3-2648cc7be21b,POINT (-9.16453131568742 38.7577914348764),Private,Second
+70,Externato Liceal das Casas de São Vicente de Paulo,Alvalade,ccb3878e-a6db-4b8d-a194-2755f7362416,POINT (-9.15155766433705 38.7589344105911),Private,Second
+71,Colégio N' Avózinha,Alvalade,f36c057f-91d5-4d9f-9326-2080ccd7cbd4,POINT (-9.13046070669994 38.7597051970005),Private,Second
+72,Colégio Piloto Diese,Alvalade,c1e70953-9f95-4b3d-a1bf-caa63c32d164,POINT (-9.12945181697819 38.7607240144421),Private,Second
+73,Externato n.º 4 de Educação Popular (Confraria de S.Vicente de Paulo),Carnide,c6cc6802-3ab9-48eb-9db9-47472deeaf14,POINT (-9.1893516520269 38.7619615224446),Private,Second
+74,Externato da Luz,Carnide,58097499-bff1-45bf-8df0-c768221eb461,POINT (-9.18181292339607 38.762818068524),Private,Second
+75,"Externato ""O Poeta""",Lumiar,b5f45c27-c486-4e1a-9598-7004da77ab58,POINT (-9.15686441366653 38.7643107116527),Private,Second
+76,Jardim Escola João de Deus Lisboa/Olivais,Olivais,2349d4dc-147b-45d9-9493-271a012e68e7,POINT (-9.12214427470195 38.7659292106652),Private,Second
+77,"Jardim Escola ""O Bosque""",Olivais,9c12775c-1066-45af-97dd-b42ab8b178a7,POINT (-9.11300589072708 38.7664317229174),Private,Second
+78,"Externato ""Pim-Pam-Pum""",Lumiar,19fecf96-8cb2-4f64-8435-8915f17ac9a8,POINT (-9.16370680892667 38.7671587061059),Private,Second
+79,Colégio Planalto,Lumiar,391f35cd-991c-4b1a-a508-1df04832c88a,POINT (-9.16667391842211 38.7673537800608),Private,Second
+80,Colégio de São Tomás - Quinta das Conchas,Lumiar,a83629ef-2145-41a1-97a2-006fcb014ec9,POINT (-9.15006211889743 38.7677203122349),Private,Second
+81,Colégio de São João de Brito,Lumiar,786eb5fb-74d7-457a-8193-1f403d2ec997,POINT (-9.15592778385506 38.772796291371),Private,Second
+82,Real Colégio de Portugal,Lumiar,4889a9ed-4910-4842-81e7-c94818c78a63,POINT (-9.17206605535029 38.7730477946972),Private,Second
+83,Colégio Manuel Bernardes,Lumiar,1ea5753b-f4f7-412c-8805-b08bef0a712a,POINT (-9.17351183193399 38.7734462326611),Private,Second
+84,Lua Crescente,Olivais,27b96107-01ec-4fc8-9159-d19ac0bab716,POINT (-9.10765138490686 38.7752489775306),Private,Second
+85,Externato Champagnat,Olivais,729e037a-720a-47b6-bef6-2195c3d71ed6,POINT (-9.12650746848228 38.7782418083187),Private,Second
+86,"Externato ""São Miguel Arcanjo""",Olivais,c747b761-4cb2-4963-958d-22fbc64c6c1e,POINT (-9.11477639750872 38.7798563979376),Private,Second
+87,Academia de Música de Santa Cecília,Santa Clara,6c4d08b6-27d6-4bbf-a5f3-601540dadfea,POINT (-9.15925396311878 38.7824203233578),Private,Second
+88,Colégio Pedro Arrupe,Parque das Nações,eadf4b77-f007-4848-8c52-75881b13f950,POINT (-9.0970281754942 38.7932749674204),Private,Second
+89,"MIMÁ - Externato de Ensino Pré-Escolar, Creche e Centro de A.T.L., Lda",Santa Clara,92d7a743-8d50-4ece-a69e-362d038e61b2,POINT (-9.15014661360766 38.7951201285397),Private,Second
+90,Astória International School,Alvalade,a3dceda4-acc0-446a-9659-917dd2426859,POINT (-9.13109049481046 38.750621582243),Private,Second
+91,RedBridge School,Campo de Ourique,5a362dde-7c6d-4132-b94e-d365a177576b,POINT (-9.16656232295444 38.719096531932),Private,Second
+92,Externato João XXIII,Parque das Nações,948c6ff1-8d38-4423-bc08-8e367a24c5e1,POINT (-9.09828933728683 38.7590845948183),Private,Second
+93,Queen Elizabeths's School,Alvalade,4b2a7330-410f-40ec-9a95-70666e00caf4,POINT (-9.13517528953481 38.7516341132386),Private,Second
+94,Colégio Place4all,Campo de Ourique,39b2e432-fcef-4a6e-a8c8-b4c2c6ad76b7,POINT (-9.15943141044866 38.7190109355678),Private,Second
+95,Escola Casa da Floresta,São Domingos de Benfica,c773fd6b-a5b5-4d78-86ed-57b8db7e1312,POINT (-9.18146630252574 38.7393366470239),Private,Second
+96,"Colégio ""O Pelicano""",Areeiro,98ea1100-da04-4a87-9629-b5929ceab838,POINT (-9.12924495832367 38.7378614827801),Private,Second
+97,Colégio Oriente,Parque das Nações,c65f3a5b-7b97-488f-920e-14bc075e0f1f,POINT (-9.09719419748507 38.7855321898204),Private,Second
+98,Externato Alfredo Binet,Belém,7bd4a9dd-53e4-4a15-8ab8-d50dca41aa0e,POINT (-9.2134856896976 38.7046068076399),Private,Second
+0,Colégio do Bom Sucesso,Belém,15cf71ac-1d1e-46d7-a0e7-7f09140d06c2,POINT (-9.21105689438628 38.6955782682932),Private,HighSchool
+1,Externato Alfredo Binet,Belém,d693914b-1dc3-42a8-9a06-379bfaf954e2,POINT (-9.21648434759652 38.6955752152856),Private,HighSchool
+2,"Cooperativa ""A Torre""",Belém,91d9dfd8-af85-4f8e-a585-a102fea77d2f,POINT (-9.21772663433867 38.696308410493),Private,HighSchool
+3,"Externato ""A Escolinha""",Belém,87fd77ee-86ab-45eb-b364-d647ff140be3,POINT (-9.22490182183578 38.6973174716166),Private,HighSchool
+4,"Externato ""Santa Maria de Belém""",Belém,a78b3476-9d5d-426d-b473-3d609519ec20,POINT (-9.218970594513 38.6976975852239),Private,HighSchool
+5,"Escola ""São Francisco Xavier""",Belém,96a77035-5be9-4d8c-80d0-075ccc126548,POINT (-9.21938005638312 38.697819813694),Private,HighSchool
+6,Escola Raiz,Belém,d792a5b6-82cf-4d1a-a4b1-6b012eead4e3,POINT (-9.21379716239845 38.6990922093854),Private,HighSchool
+7,"Centro de Pedagogia Terapêutica ""Bola de Neve""",Belém,27ad6b4f-4978-4408-aa87-059f8864f6f9,POINT (-9.2207410340553 38.699457349921),Private,HighSchool
+8,Colégio As Descobertas,Belém,ac529506-bf1e-4579-a104-c4b04a487166,POINT (-9.2225915468047 38.7001244038859),Private,HighSchool
+9,"Colégio ""Mira Rio""",Lumiar,3b53363a-8db2-4289-8a79-6a672981d15f,POINT (-9.16432091560347 38.7594394592301),Private,HighSchool
+10,Externato da Sociedade Promotora da Educação Popular,Alcântara,7e6316d6-e83a-43bd-adf6-a4de4d574be9,POINT (-9.17703353698559 38.7046299940868),Private,HighSchool
+11,"Escola ""Avé-Maria""",Alcântara,1f2173df-df8f-4c3e-88c0-92e897aaee6b,POINT (-9.18062868177943 38.7052103369228),Private,HighSchool
+12,"Escola Privativa n.º 6 de ""A Voz do Operário""",Ajuda,57065663-f436-4b64-824b-942416907d2f,POINT (-9.19908825041509 38.7055132437124),Private,HighSchool
+13,Escola Primária Centro Cultural e Recreativo para Crianças Cruzeiro e Rio Seco,Ajuda,26fc41ee-f396-48c3-beed-a8d494035440,POINT (-9.18998860761286 38.7070008552915),Private,HighSchool
+14,"Externato ""As Descobertas""",Belém,42003da1-290c-4a09-be28-b478c536fd41,POINT (-9.2070436931536 38.7078784830323),Private,HighSchool
+15,"Externato Paroquial ""Nossa Senhora da Conceição""",Santa Maria Maior,cc53a67c-684d-4765-837b-e55331e42cae,POINT (-9.13979782912466 38.7087128486912),Private,HighSchool
+16,PaRK International School - Restelo,Belém,ce8d9374-1954-48c1-8a0a-726caec3e236,POINT (-9.21604825844983 38.7083192525838),Private,HighSchool
+17,Colégio de Santa Maria,Estrela,3a8f02da-17e3-4ada-8a56-54b1935492b0,POINT (-9.15918740962485 38.7093089069013),Private,HighSchool
+18,Externato de São José,Belém,aa98c777-8e61-4be3-8f5a-4f480946a556,POINT (-9.21602949811176 38.7101209752386),Private,HighSchool
+19,"Externato ""O Lar da Criança""",Estrela,66a9e605-6670-4863-abb2-a30d1ab040c4,POINT (-9.15693113098338 38.7113205303154),Private,HighSchool
+20,"Colégio ""O Nosso Jardim""",Estrela,4af9d5a4-d8ac-42e4-b41c-331e46a3fcc1,POINT (-9.15891568050971 38.711816563545),Private,HighSchool
+21,APPDA - Associação Portuguesa para as Perturbações do Desenvolvimento e Autismo,Ajuda,40c4c8e4-09e5-48b4-8bd7-15bc43f0275c,POINT (-9.20267899494971 38.7119783486038),Private,HighSchool
+22,Colégio Helen Keller,Belém,aafdf128-c1ca-47fd-956c-06c3920bc665,POINT (-9.21182430811985 38.7129825135033),Private,HighSchool
+23,Salesianos de Lisboa - Colégio Oficinas de São José,Campo de Ourique,7ead6e97-6ba7-4ac9-b198-fdf5a6d6cf8d,POINT (-9.16889700394904 38.7139666883881),Private,HighSchool
+24,Colégio Luso-Suiço,Campo de Ourique,36eba2aa-565d-468a-8a53-c41df270df57,POINT (-9.15499406448485 38.7149586180133),Private,HighSchool
+25,Escola Privativa n.º 1 de A Voz do Operário,São Vicente,7df04443-2945-45ad-9ac1-54b100dbb6ef,POINT (-9.12916825879552 38.7155960991548),Private,HighSchool
+26,Jardim Escola João de Deus Lisboa/Estrela,Campo de Ourique,c16e96e5-eedc-4f2a-994d-52cb816678b2,POINT (-9.15814114474916 38.7156486115646),Private,HighSchool
+27,"Externato ""Rainha Dona Amélia""",Estrela,f08554a4-b587-4792-9683-bc9d016662e3,POINT (-9.16104015428629 38.715653212416),Private,HighSchool
+28,"Escola ""Pedro Nunes""",Campo de Ourique,e3e702b4-8c0b-4ca7-b53d-d3e9cb971164,POINT (-9.16339260598714 38.7158056248644),Private,HighSchool
+29,Escola do Grémio de Instrução Liberal de Campo de Ourique,Campo de Ourique,72cfbf98-2563-4256-8395-7e725e61619a,POINT (-9.16161412224132 38.7178038706705),Private,HighSchool
+30,Externato Primário da Associação Pró-Infância Santo António de Lisboa,Arroios,0157867d-c932-4880-aaa4-bda03882f97e,POINT (-9.13501037313714 38.7238646491303),Private,HighSchool
+31,Externato do Parque,Campolide,a94cf33b-47a4-4865-9b31-072120cf4ac5,POINT (-9.15730349378222 38.7253063272957),Private,HighSchool
+32,"Externato Infantil e Primário ""Passos Manuel""",Arroios,7c7d179f-4184-43e6-97e9-1e168b7e71ee,POINT (-9.13660352427331 38.7278214741809),Private,HighSchool
+33,"Externato ""Mãe de Deus""",Penha de França,863e3726-d495-453e-86c9-057c8b841b6e,POINT (-9.13111983664164 38.7286432119348),Private,HighSchool
+34,Escola Selecta Prof. Doutor Amadeu Andrés,Arroios,7bcb97c1-3bcf-4a82-8dfe-e26324bb1b7e,POINT (-9.13390219330257 38.7290284033735),Private,HighSchool
+35,Externato de Nossa Senhora da Penha de França,Penha de França,0b73f456-839c-4854-89b3-7872258233fd,POINT (-9.1298257484022 38.7300780603062),Private,HighSchool
+36,"Colégio ""Sá de Miranda""",Arroios,814326c0-3b8e-4cc5-bc7b-7110346f1597,POINT (-9.13899704492549 38.7304999397276),Private,HighSchool
+37,Externato de Educação Popular,Campolide,6c6922d9-6162-4e4c-a899-aacdc40eac81,POINT (-9.17225851609153 38.7304798148992),Private,HighSchool
+38,"Externato ""Santa Francisca""",Penha de França,90baf3fd-d53e-4973-99ae-fcd67317457e,POINT (-9.12759107312468 38.7325850822526),Private,HighSchool
+39,Colégio de Talentos,Arroios,465f8f5f-2b0a-4622-ad0c-b1a35a7b455e,POINT (-9.14024595145005 38.7330119050459),Private,HighSchool
+40,Colégio do Sagrado Coração de Maria,Arroios,3ef96695-10b2-4e6e-96fe-d3ce0953b546,POINT (-9.13660546975198 38.735178427426),Private,HighSchool
+41,Colégio Académico,Avenidas Novas,f28bc20e-554d-4ff3-ae66-13f6dcee61bc,POINT (-9.14559540599986 38.7352953146901),Private,HighSchool
+42,"Externato ""A Ritinha""",Avenidas Novas,28c05ce7-08ff-437b-b223-978c6617414a,POINT (-9.15533600901612 38.7357005154863),Private,HighSchool
+43,Nova Escola João de Deus Ramos,Avenidas Novas,80b7100d-1b12-4c98-8f22-2cd7781db3eb,POINT (-9.14804186380758 38.7357811817603),Private,HighSchool
+44,"Externato ""Nobel""",Areeiro,d6831694-1413-485e-a5dd-0955634b345c,POINT (-9.13562631207768 38.7375288675353),Private,HighSchool
+45,"Externato ""Infante D. Pedro""",Avenidas Novas,e626f05e-a7d2-483a-87d9-8aaa00075511,POINT (-9.14638240565185 38.7385259350235),Private,HighSchool
+46,PaRK International School - Praça de Espanha,São Domingos de Benfica,fe391922-7177-41b6-8ee5-99a2e3a119c7,POINT (-9.16185058973694 38.7384911479118),Private,HighSchool
+47,"Externato ""Anita""",Avenidas Novas,016ab05c-d7b2-43b8-90cc-4d67326a05e7,POINT (-9.15617110629818 38.7394134059345),Private,HighSchool
+48,Colégio de São Tomás - Sete Rios,São Domingos de Benfica,2a60f682-c43f-475a-aa8d-de9200a1b355,POINT (-9.16551319831584 38.7400759172176),Private,HighSchool
+49,"Externato Infantil e Primário ""O Beiral""",Benfica,96605bc6-9a7a-4b35-8a06-fd22765cf788,POINT (-9.19668748711501 38.7424022203829),Private,HighSchool
+50,Nuclisol Jean Piaget - Unidade De Desenvolvimento Integrado Bairro Do Condado,Marvila,e547bb03-0492-40c0-ae1f-aa4af1665dfb,POINT (-9.11310821144323 38.7447475563973),Private,HighSchool
+51,CEBE - Cooperativa de Ensino de Benfica,São Domingos de Benfica,b6d2736d-9182-4045-ac53-b7f49fd8b6a0,POINT (-9.18070718110137 38.7452250792295),Private,HighSchool
+52,Externato Fernão Mendes Pinto,São Domingos de Benfica,b20a2693-68c1-46aa-9296-6c2d63f5e4e6,POINT (-9.18092789470152 38.7453191205799),Private,HighSchool
+53,"Externato ""O Barquinho""",Alvalade,26cf6562-acad-4115-b35c-e23370dc08d0,POINT (-9.13359387139789 38.7476393820053),Private,HighSchool
+54,Colégio Eduardo Claparede,Alvalade,9be37524-e19a-4a75-9573-e6c8466231e0,POINT (-9.14368532070098 38.7476701838694),Private,HighSchool
+55,Associação Infante de Sagres,São Domingos de Benfica,f432c58f-3664-4070-ae72-7c14d792d600,POINT (-9.16535818841266 38.747766262347),Private,HighSchool
+56,Externato Marista de Lisboa,São Domingos de Benfica,2f143bc8-4e5b-4ec3-8db7-c63d880e458d,POINT (-9.18164424325018 38.7477232013571),Private,HighSchool
+57,Associação Creche Ester Janz,Marvila,c22610d4-e8f0-4490-9da4-7e30e580a86b,POINT (-9.10339156854669 38.7502302543047),Private,HighSchool
+58,"Externato ""Grão Vasco""",Benfica,f2d1e83d-fa49-4c59-85f4-bd64fd61cefa,POINT (-9.20335769927784 38.7499618429804),Private,HighSchool
+59,"Externato ""São Cristóvão""",Benfica,4b4c80cc-0511-40ff-afd5-40a2a21d266c,POINT (-9.20359796746516 38.7506442260604),Private,HighSchool
+60,Colégio Cesário Verde,Marvila,259c5a26-810a-41fa-945b-9997d14bd336,POINT (-9.10317998400444 38.7520727882507),Private,HighSchool
+61,Colégio Saint Daniel Brottier,Alvalade,f1e54bcd-27be-4c9b-b320-d9b9adac3465,POINT (-9.13097601508296 38.7525682004221),Private,HighSchool
+62,Colégio Moderno,Alvalade,6c4f790f-eb27-4781-8469-621ea5443218,POINT (-9.15364624965256 38.7527039087666),Private,HighSchool
+63,"Externato ""Os Fofinhos"" ",Alvalade,89bdbf3f-60dc-4882-828b-30ab9781eac4,POINT (-9.13403640411103 38.7529638150919),Private,HighSchool
+64,"Jardim Infantil ""Pestalozzi""",Alvalade,a99dea8a-a247-4934-84db-4d62f716dd06,POINT (-9.15405434677923 38.753087672088),Private,HighSchool
+65,Externato Luso Britânico,Alvalade,74e48f28-a0f2-4a25-9391-8dbe3718d490,POINT (-9.13641974018354 38.753934200639),Private,HighSchool
+66,Colégio Valsassina,Marvila,67276ce5-14e4-469a-b3a1-dda63e052675,POINT (-9.12614486333781 38.7558990122078),Private,HighSchool
+67,Jardim Escola João de Deus Lisboa/Alvalade,Alvalade,924c2d78-d370-4b01-b3e7-26157e1aac66,POINT (-9.13646179320678 38.7558877162823),Private,HighSchool
+68,Externato das Pedralvas,Benfica,00c352d2-9ea1-464f-b6b1-b06555523c32,POINT (-9.20520539528866 38.7558179128935),Private,HighSchool
+69,Escola Alemã de Lisboa,Lumiar,014b63be-b34f-4bd3-81b3-2648cc7be21b,POINT (-9.16453131568742 38.7577914348764),Private,HighSchool
+70,Externato Liceal das Casas de São Vicente de Paulo,Alvalade,ccb3878e-a6db-4b8d-a194-2755f7362416,POINT (-9.15155766433705 38.7589344105911),Private,HighSchool
+71,Colégio N' Avózinha,Alvalade,f36c057f-91d5-4d9f-9326-2080ccd7cbd4,POINT (-9.13046070669994 38.7597051970005),Private,HighSchool
+72,Colégio Piloto Diese,Alvalade,c1e70953-9f95-4b3d-a1bf-caa63c32d164,POINT (-9.12945181697819 38.7607240144421),Private,HighSchool
+73,Externato n.º 4 de Educação Popular (Confraria de S.Vicente de Paulo),Carnide,c6cc6802-3ab9-48eb-9db9-47472deeaf14,POINT (-9.1893516520269 38.7619615224446),Private,HighSchool
+74,Externato da Luz,Carnide,58097499-bff1-45bf-8df0-c768221eb461,POINT (-9.18181292339607 38.762818068524),Private,HighSchool
+75,"Externato ""O Poeta""",Lumiar,b5f45c27-c486-4e1a-9598-7004da77ab58,POINT (-9.15686441366653 38.7643107116527),Private,HighSchool
+76,Jardim Escola João de Deus Lisboa/Olivais,Olivais,2349d4dc-147b-45d9-9493-271a012e68e7,POINT (-9.12214427470195 38.7659292106652),Private,HighSchool
+77,"Jardim Escola ""O Bosque""",Olivais,9c12775c-1066-45af-97dd-b42ab8b178a7,POINT (-9.11300589072708 38.7664317229174),Private,HighSchool
+78,"Externato ""Pim-Pam-Pum""",Lumiar,19fecf96-8cb2-4f64-8435-8915f17ac9a8,POINT (-9.16370680892667 38.7671587061059),Private,HighSchool
+79,Colégio Planalto,Lumiar,391f35cd-991c-4b1a-a508-1df04832c88a,POINT (-9.16667391842211 38.7673537800608),Private,HighSchool
+80,Colégio de São Tomás - Quinta das Conchas,Lumiar,a83629ef-2145-41a1-97a2-006fcb014ec9,POINT (-9.15006211889743 38.7677203122349),Private,HighSchool
+81,Colégio de São João de Brito,Lumiar,786eb5fb-74d7-457a-8193-1f403d2ec997,POINT (-9.15592778385506 38.772796291371),Private,HighSchool
+82,Real Colégio de Portugal,Lumiar,4889a9ed-4910-4842-81e7-c94818c78a63,POINT (-9.17206605535029 38.7730477946972),Private,HighSchool
+83,Colégio Manuel Bernardes,Lumiar,1ea5753b-f4f7-412c-8805-b08bef0a712a,POINT (-9.17351183193399 38.7734462326611),Private,HighSchool
+84,Lua Crescente,Olivais,27b96107-01ec-4fc8-9159-d19ac0bab716,POINT (-9.10765138490686 38.7752489775306),Private,HighSchool
+85,Externato Champagnat,Olivais,729e037a-720a-47b6-bef6-2195c3d71ed6,POINT (-9.12650746848228 38.7782418083187),Private,HighSchool
+86,"Externato ""São Miguel Arcanjo""",Olivais,c747b761-4cb2-4963-958d-22fbc64c6c1e,POINT (-9.11477639750872 38.7798563979376),Private,HighSchool
+87,Academia de Música de Santa Cecília,Santa Clara,6c4d08b6-27d6-4bbf-a5f3-601540dadfea,POINT (-9.15925396311878 38.7824203233578),Private,HighSchool
+88,Colégio Pedro Arrupe,Parque das Nações,eadf4b77-f007-4848-8c52-75881b13f950,POINT (-9.0970281754942 38.7932749674204),Private,HighSchool
+89,"MIMÁ - Externato de Ensino Pré-Escolar, Creche e Centro de A.T.L., Lda",Santa Clara,92d7a743-8d50-4ece-a69e-362d038e61b2,POINT (-9.15014661360766 38.7951201285397),Private,HighSchool
+90,Astória International School,Alvalade,a3dceda4-acc0-446a-9659-917dd2426859,POINT (-9.13109049481046 38.750621582243),Private,HighSchool
+91,RedBridge School,Campo de Ourique,5a362dde-7c6d-4132-b94e-d365a177576b,POINT (-9.16656232295444 38.719096531932),Private,HighSchool
+92,Externato João XXIII,Parque das Nações,948c6ff1-8d38-4423-bc08-8e367a24c5e1,POINT (-9.09828933728683 38.7590845948183),Private,HighSchool
+93,Queen Elizabeths's School,Alvalade,4b2a7330-410f-40ec-9a95-70666e00caf4,POINT (-9.13517528953481 38.7516341132386),Private,HighSchool
+94,Colégio Place4all,Campo de Ourique,39b2e432-fcef-4a6e-a8c8-b4c2c6ad76b7,POINT (-9.15943141044866 38.7190109355678),Private,HighSchool
+95,Escola Casa da Floresta,São Domingos de Benfica,c773fd6b-a5b5-4d78-86ed-57b8db7e1312,POINT (-9.18146630252574 38.7393366470239),Private,HighSchool
+96,"Colégio ""O Pelicano""",Areeiro,98ea1100-da04-4a87-9629-b5929ceab838,POINT (-9.12924495832367 38.7378614827801),Private,HighSchool
+97,Colégio Oriente,Parque das Nações,c65f3a5b-7b97-488f-920e-14bc075e0f1f,POINT (-9.09719419748507 38.7855321898204),Private,HighSchool
+98,Externato Alfredo Binet,Belém,7bd4a9dd-53e4-4a15-8ab8-d50dca41aa0e,POINT (-9.2134856896976 38.7046068076399),Private,HighSchool
+0,IPLisboa | ESTeSL - Escola Superior de Tecnologia da Saúde de Lisboa,NaN,cb0e3435-e6d3-429d-b9fd-30ff4c9ce8a2,POINT (-9.09821485781715 38.7760356110963),All,Uni
+1,ESEL | Escola Superior de Enfermagem de Lisboa (Polo Fernanda Resende),NaN,1e72bb51-a5d5-41b4-b26c-fbe0a42076a3,POINT (-9.14717713352607 38.756881760988),All,Uni
+2,ESEL | Escola Superior de Enfermagem de Lisboa (Polo Artur Ravara),NaN,4bd921b7-5e8f-40cf-9d1b-52b8af12c884,POINT (-9.09821485781715 38.7760356110963),All,Uni
+3,ESEL | Escola Superior de Enfermagem de Lisboa (Polo Calouste Gulbenkian),NaN,1f530d20-e1a3-4c59-ab02-b94ba19ddf35,POINT (-9.16275759645886 38.749393730769),All,Uni
+4,ESEL | Escola Superior de Enfermagem de Lisboa (Polo Francisco Gentil),NaN,de2ec9f3-68e7-483d-bf6b-f8e56d7a905d,POINT (-9.16032613815745 38.7392178854832),All,Uni
+5,Escola Superior de Artes Decorativas,NaN,162bcf8f-29c3-446f-8643-6966c24fcfe1,POINT (-9.17369530818682 38.7060672085884),All,Uni
+6,"Universidade LUSÓFONA (ECATI - Escola de Comunicação, Arquitetura, Artes e Tecnologias da Informação",NaN,ffc4553f-5340-4337-a226-2e50d097e657,POINT (-9.15305457237654 38.7579844997678),All,Uni
+7,Instituto Superior Autónomo de Estudos Politécnicos,NaN,261939dd-0729-4959-b1cf-07ac1d4d04ab,POINT (-9.14945076501861 38.7086551541402),All,Uni
+8,UCP | Católica (ICS - Escola de Enfermagem da Católica),NaN,dc824a85-2313-4cb2-88a1-c2eed6b80cda,POINT (-9.15096263323504 38.7598502623141),All,Uni
+9,Instituto Superior de Línguas Administração de Lisboa,NaN,faff9521-8849-4b89-a92c-bf7fa77dc733,POINT (-9.19361587271867 38.7601045969288),All,Uni
+10,Academia Militar,NaN,f058683a-eb23-42b3-9f65-394de60b3d73,POINT (-9.13837464356664 38.7234136396142),All,Uni
+11,Universidade LUSÓFONA (ISS - Instituto de Serviço Social),NaN,b2773ece-ee89-47ad-8877-38285b91209d,POINT (-9.15308948899333 38.7579610454961),All,Uni
+12,Academia da Força Aérea,NaN,54f423c6-834f-4f11-9198-7ac50797237c,POINT (-9.32753566514463 38.7644751805603),All,Uni
+13,Escola de Serviço de Saúde Militar,NaN,dfde307f-47f6-4b8b-a32b-68e56c036b2b,POINT (-9.1632165511274 38.7194702651027),All,Uni
+14,"ue | Universidade Europeia - IADE (Faculdade de Design, Tecnologia e Comunicação)",NaN,0b05b9f0-9102-44bf-ab77-b37dc4c0428f,POINT (-9.15239233973898 38.7071917999826),All,Uni
+15,Escola Naval ,NaN,a01b7251-9c94-4365-8924-fd65c553a2d8,POINT (-9.15207302279146 38.6597050956065),All,Uni
+16,ULisboa | ba - Faculdade de Belas-Artes,NaN,379b4c69-503c-42cd-971f-8260a9bdf806,POINT (-9.14053876054456 38.7088854184181),All,Uni
+17,ULisboa | Ciências - Faculdade de Ciências,NaN,621033b9-60e5-406e-b161-76239199c330,POINT (-9.15693334865303 38.7560311707636),All,Uni
+18,ULisboa | FD - Faculdade de Direito,NaN,15ccff21-d7a3-4d14-be11-b5d9f754e1c7,POINT (-9.15676060442052 38.7518311892882),All,Uni
+19,ULisboa | FF - Faculdade de Farmácia,NaN,201c0f5b-a401-4740-a639-e8dd170df0f0,POINT (-9.15449593272463 38.7477522143611),All,Uni
+20,ULisboa | FLUL - LETRAS LISBOA - Faculdade de Letras,NaN,67698b3f-1f66-4c0a-b634-481f9050c28f,POINT (-9.15823432747504 38.7542411692494),All,Uni
+21,ULisboa | MEDICINA - Faculdade de Medicina,NaN,837e357c-b1b0-4416-9f18-c86ce71f7b0c,POINT (-9.160545017168 38.7480419598536),All,Uni
+22,ULisboa | FMD - Faculdade de Medicina Dentária,NaN,b7b57533-bce1-4021-8fa2-aa990355a790,POINT (-9.15558991634899 38.7502571380295),All,Uni
+23,ULisboa | Psicologia - Faculdade de Psicologia,NaN,f0fe955d-60bc-49af-9f56-7b0795ff586b,POINT (-9.15531802416027 38.7524442622792),All,Uni
+24,ULisboa | ICS - Instituto Ciências Sociais,NaN,e2531e87-67e2-4e9b-a86c-50e5b7b82014,POINT (-9.1532507419767 38.749311378692),All,Uni
+25,ULisboa | IE - Instituto de Educação,NaN,9643ee65-9087-44b5-85f3-2c5405ea7b94,POINT (-9.15531802416027 38.7524442622792),All,Uni
+26,ULisboa | IGOT - Instituto de Geografia e Ordenamento do Território,NaN,54d7701a-0a77-49a2-bbcd-d672a2e4d2c1,POINT (-9.15512406980559 38.7493492202913),All,Uni
+27,UNL | NOVA Medical School - Faculdade de Ciências Médicas,NaN,b701e99a-c778-42f5-97dc-a8ee8a3f960a,POINT (-9.13942788589791 38.7197732801317),All,Uni
+28,UNL | NOVA FCSH - Faculdade de Ciências Sociais e Humanas,NaN,66c67205-144b-43bd-b246-15953a53a2e0,POINT (-9.15079076396164 38.7405150916368),All,Uni
+29,UNL | NOVA Faculdade de Direito,NaN,bc0a4ff4-d473-478c-91b9-693e7f3e9a36,POINT (-9.16131255301811 38.7332767554068),All,Uni
+30,UNL | NOVA SBE - School of Business and Economics/ Faculdade de Economia,NaN,b9a0ca08-95fd-4d4e-ade8-0c06ce21f31f,POINT (-9.32853266665092 38.6814447870358),All,Uni
+31,UNL | NOVA IMS - Information Management School/ Instituto Superior de Estatística e Gestão de Informação,NaN,359e2649-5270-4517-af3a-4189d220ee93,POINT (-9.16033336240894 38.732568036068),All,Uni
+32,UNL | NOVA Escola Nacional de Saúde Pública,NaN,1ed7e793-ba3d-4360-862c-f948a166cee9,POINT (-9.16314248862551 38.7643323242631),All,Uni
+33,UNL | NOVA IHMT - Instituto de Higiene e Medicina Tropical,NaN,1531dc36-b774-41a1-9275-5dfd050fd19a,POINT (-9.18650032992957 38.7001832445343),All,Uni
+34,UNL | FCT NOVA - Faculdade de Ciências e Tecnologia,NaN,0b13c1a5-a1d6-417f-bc22-246cc0cfb941,POINT (-9.19072985969697 38.6615779518898),All,Uni
+35,ULisboa | FA - Faculdade de Arquitectura,NaN,89f86882-f0e2-44fe-a6a7-9413b8835bda,POINT (-9.19427865602351 38.7128725888872),All,Uni
+36,ULisboa | FMV - Faculdade de Medicina Veterinária,NaN,3789fa7c-30df-4d07-8c91-8f367b91ea61,POINT (-9.19441531582935 38.714212771739),All,Uni
+37,ULisboa | FMH - Faculdade de Motricidade Humana,NaN,545a1637-c904-422a-ae27-cd59fdddd871,POINT (-9.25154947764305 38.7052237369609),All,Uni
+38,ULisboa | ISA - Instituto Superior de Agronomia,NaN,bc34b3e8-dda6-4df4-9815-7d9cc5c49c3b,POINT (-9.18237432111722 38.7076611753993),All,Uni
+39,ULisboa | ISCSP - Instituto Superior de Ciências Sociais e Políticas,NaN,65c17366-2eba-40e3-84bb-ab5ab4bdd548,POINT (-9.19737560964361 38.7131679586603),All,Uni
+40,ULisboa | ISEG - LISBON SCHOOL OF ECONOMICS & MANAGEMENT,NaN,834088e6-8eaa-4c07-afeb-0a84a90efbd2,POINT (-9.1553320962692 38.709838001531),All,Uni
+41,ULisboa | TÉCNICO - Instituto Superior Técnico - Campus da Alameda,NaN,4f815277-a3d7-4791-b318-ebdedf5f7408,POINT (-9.13931766351085 38.7364144606565),All,Uni
+42,ISCTE-IUL (IBS - ISCTE Business School),NaN,733820dd-c679-4ca9-ac6a-b935e7a4246d,POINT (-9.15315532741879 38.7486480636364),All,Uni
+43,ISCTE-IUL (ESPP - Escola de Sociologia e Políticas Públicas),NaN,49beaad2-e653-4beb-815b-b7316f58183a,POINT (-9.15315532741879 38.7486480636364),All,Uni
+44,ISCTE-IUL (ECSH - Escola de Ciências Sociais e Humanas),NaN,a1b658ae-d94e-40c4-a3b6-bcebeb15616e,POINT (-9.15315532741879 38.7486480636364),All,Uni
+45,ISCTE-IUL (ISTA - Escola de Tecnologias e Arquitectura),NaN,43aca520-8611-4574-863e-e160aa8eae7d,POINT (-9.15315532741879 38.7486480636364),All,Uni
+46,UCP | Católica (CATÓLICA LISBON School of  Business & Economics),NaN,7176d713-367b-46e4-abfd-a7626b89131a,POINT (-9.16493516750481 38.7487438286604),All,Uni
+47,UCP | Católica (FCH - Faculdade de Ciências Humanas),NaN,bae8e40d-8c92-4580-bc73-19e105c53a3e,POINT (-9.16659129796935 38.7495689777631),All,Uni
+48,UCP | Católica (Faculdade de Direito - Escola de Lisboa),NaN,8125fbf6-573c-4a33-8163-e3c495c5d1e0,POINT (-9.16659129796935 38.7495689777631),All,Uni
+49,Faculdade de Engenharia,NaN,642952c0-9337-4f57-a4a4-aeb2cfcaec76,POINT (-9.31863996958455 38.7155033814071),All,Uni
+50,UCP | Católica (FT Lisboa - Faculdade de Teologia),NaN,f3330577-eb85-44c2-aee6-443deedce8bd,POINT (-9.16659129796935 38.7495689777631),All,Uni
+51,UCP | Católica (ICS - Instituto de Ciências da Saúde),NaN,bd424f6a-7b13-42cf-84cb-9dfb27a72b36,POINT (-9.16632217708328 38.7488057751973),All,Uni
+52,UCP | Católica (Instituto de Estudos Políticos),NaN,ac3fec46-d5ed-4bab-bf6a-238cf302c9e2,POINT (-9.16632217708328 38.7488057751973),All,Uni
+53,UCP | Católica (ISDC - Instituto Superior de Direito Canónico),NaN,31d8ab6c-60d1-47ff-a2e3-c8e1e205c94c,POINT (-9.16632217708328 38.7488057751973),All,Uni
+54,Escola de Gestão e Negócios,NaN,84b7a82e-4b64-4fb8-b31f-c1242966140b,POINT (-9.14566347856055 38.7243178986538),All,Uni
+55,ULL | Universidade LUSÍADA (ISSSL - Instituto Superior de Serviço Social de Lisboa),NaN,c9678e19-ff71-4837-aae1-fb1bb5ea5baf,POINT (-9.19210051364904 38.6979758246608),All,Uni
+56,ULL | Universidade LUSÍADA (FCEE - Faculdade de Ciências da Economia e da Empresa),NaN,957494f5-2653-4e96-99d9-3870c381f8da,POINT (-9.19210051364904 38.6979758246608),All,Uni
+57,ULL | Universidade LUSÍADA (FCHS - Faculdade de Ciências Humanas e Sociais),NaN,676c13fa-46d6-499f-97cc-0db64d0e165e,POINT (-9.19210051364904 38.6979758246608),All,Uni
+58,ULL | Universidade LUSÍADA (FD - Faculdade de Direito),NaN,6e63da42-a7be-4823-a77b-778cde50e3c0,POINT (-9.19212698250889 38.6980260866587),All,Uni
+59,Universidade LUSÓFONA (ECTS - Escola de Ciências e Tecnologias da Saúde),NaN,4a79d404-6409-41f1-8ffc-bbf0233bc806,POINT (-9.15305457237654 38.7579844997678),All,Uni
+60,"Universidade LUSÓFONA (FCSEA - Faculdade de Ciências Sociais, Educação e Administração)",NaN,4c8ea6b7-c429-4f58-8877-787a599fcb70,POINT (-9.15305457237654 38.7579844997678),All,Uni
+61,Universidade LUSÓFONA (FD - Faculdade de Direito),NaN,0e7bedf4-c14c-468a-a4fe-502029fc50cb,POINT (-9.15305457237654 38.7579844997678),All,Uni
+62,Universidade LUSÓFONA (ECEO - Escola de Ciências Económicas e das Organizações),NaN,607b2e88-2808-4c57-b258-4cac4e5539cb,POINT (-9.15305457237654 38.7579844997678),All,Uni
+63,Universidade LUSÓFONA (FEFD - Faculdade de Educação Física e Desporto),NaN,8b2ee5a2-1be3-4aba-b479-a01470bf991f,POINT (-9.15305457237654 38.7579844997678),All,Uni
+64,Universidade LUSÓFONA (FE - Faculdade de Engenharia),NaN,25a700f9-e2df-4d12-a433-3c752321e770,POINT (-9.15305457237654 38.7579844997678),All,Uni
+65,Universidade LUSÓFONA (FMV - Faculdade de Medicina Veterinária),NaN,eac45ba0-385c-450c-9c3f-badfd199956c,POINT (-9.15305457237654 38.7579844997678),All,Uni
+66,Universidade LUSÓFONA (EPCV - Escola de Psicologia e Ciências da Vida),NaN,7f2ac576-ab6d-4d85-8a80-e8b257b008df,POINT (-9.15305457237654 38.7579844997678),All,Uni
+67,IPLisboa | ISCAL - Instituto Superior de Contabilidade e Administração de Lisboa,NaN,5608190e-94a8-48ab-8247-e4e7b5eb5c8f,POINT (-9.14688975258523 38.7374653516282),All,Uni
+68,IPLisboa | ISEL - Instituto Superior de Engenharia de Lisboa,NaN,520605c5-05c2-4bf2-afac-eebdb38391db,POINT (-9.1166536665592 38.7561354974702),All,Uni
+69,IPLisboa | ESCS - Escola Superior de Comunicação Social,NaN,d943b05f-385b-4b61-acb3-a4153b783d98,POINT (-9.19251199325315 38.7463970038608),All,Uni
+70,IPLisboa | ESD - Escola Superior de Dança de Lisboa,NaN,faf28ddf-c530-4aab-8242-b451d15cd2b2,POINT (-9.11628277733122 38.7562439823163),All,Uni
+71,IPLisboa | ESELx - Escola Superior de Educação de Lisboa,NaN,6d0098d2-978a-4dc8-9314-ee749cc7a26f,POINT (-9.19524809901351 38.7461475506632),All,Uni
+72,IPLisboa | ESML - Escola Superior de Música de Lisboa,NaN,89812c89-938e-4387-8a7c-4c5efb9c417f,POINT (-9.19676997176725 38.7462461593508),All,Uni
+73,IPLisboa | ESTC - Escola Superior de Teatro e Cinema,NaN,d9d6f8bc-fd45-4b39-9280-e73e89387448,POINT (-9.23539844167271 38.7633466492032),All,Uni
+74,teste,NaN,3beac5dd-012b-49c2-8855-aa524fe2eb25,POINT (-9.15020500310759 38.7494995075838),All,Uni
+75,ULisboa | TÉCNICO - Instituto Superior Técnico - Campus do Tagus Park,NaN,179a5506-e02d-4b55-b692-e26f69abc01c,POINT (-9.30305675421376 38.7375724683433),All,Uni
+76,ULL | Universidade LUSÍADA (FAA - Faculdade de Arquitectura e Artes),NaN,74da65e3-b38e-4235-9043-5e5841b1fac9,POINT (-9.19212698250889 38.6980260866587),All,Uni
+77,ULL | Universidade LUSÍADA (IPCE - Instituto de Psicologia e Ciências da Educação),NaN,00e8c360-bb9e-4c69-91a5-85e631ffd4a8,POINT (-9.19212245410155 38.6980214678651),All,Uni
+78,ULL | Universidade LUSÍADA (IET - Instituto de Engenharia e Tecnologias),NaN,ec13cf6c-2200-47f3-8b4f-78808d42b01a,POINT (-9.19212698250889 38.6980260866587),All,Uni
+79,ue | Universidade Europeia - FTH (Faculdade de Turismo e Hospitalidade),NaN,3facea5a-3e1e-426b-aa70-8c1770fb584c,POINT (-9.19368269569772 38.7600490654187),All,Uni
+80,ue | Universidade Europeia - FCSD (Faculdade de Ciências da Saúde e do Desporto),NaN,bd396f8b-c726-4df0-aa96-b6714df4c562,POINT (-9.18365790945365 38.7650161641021),All,Uni
+81,ue | Universidade Europeia - FCES (Faculdade de Ciências Empresariais e Sociais),NaN,fd0bce17-613a-4c5a-96a6-b55b17478aa9,POINT (-9.19368269569772 38.7600490654187),All,Uni
+82,UNL | NOVA IMS - NOVA Information Management School,NaN,4515c8c1-81ec-4ba6-be95-79b575a776c7,POINT (-9.16030254570311 38.7325791296909),All,Uni
+83,UNL | ITQB NOVA - Instituto de Tecnologia Química e Biológica António Xavier,NaN,23ef0db1-af6f-4549-a281-1e9196115849,POINT (-9.32163033090969 38.6959016232198),All,Uni
+84,UNL | NOVA SBE - NOVA School of Business and Economics,NaN,f899d7ef-4f87-45d3-a313-59032111672f,POINT (-9.32687908021529 38.6790668730302),All,Uni
