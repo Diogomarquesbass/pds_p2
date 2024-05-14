@@ -1,4 +1,4 @@
-,OBJECTID,INF_NOME,FREGUESIA,GlobalID,Type,latitude,longitude
+,OBJECTID,INF_NOME,FREGUESIA,GlobalID,Type,longitude,latitude
 0,1,Museu de Arte Popular,Belém,4188e21c-373e-429e-b209-95c8ec28a34c,Museum,-9.20844625414179,38.6938036001826
 1,3,Museu Coleção Berardo,Belém,e9b18708-da7a-4c91-87b4-dc1a4646a55b,Museum,-9.20773166084022,38.6957476923844
 2,4,"MAAT - Museu de Arte, Arquitetura e Tecnologia",Belém,d30df7a4-89fd-4570-a5e2-aca9fdff84f8,Museum,-9.19371529028373,38.6960435304729
