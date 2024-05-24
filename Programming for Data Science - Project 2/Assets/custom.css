@@ -1,0 +1,20 @@
+/* custom.css */
+.background-image {
+    position: relative;
+    z-index: 1;
+}
+
+.background-image::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-image: url('/assets/Bckground.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    opacity: 0.3; /* Adjust the opacity as needed */
+    z-index: -1;
+}

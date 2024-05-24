@@ -1,0 +1,141 @@
+,OBJECTID,COD_SIG,INF_NOME,INF_MORADA,INF_TELEFONE,INF_EMAIL,INF_SITE,INF_ACTIVO,INF_DESCRICAO,FREGUESIA,GlobalID,geometry
+0,1,1426,Colégio do Bom Sucesso,"R. Bartolomeu Dias, 53
+",+351 213010442,cl.bomsucesso@escolas.min-edu.pt,https://www.colegiobomsucesso.pt/pt/,1,,Belém,15cf71ac-1d1e-46d7-a0e7-7f09140d06c2,POINT (-9.21105689438628 38.6955782682932)
+1,2,1427,Externato Alfredo Binet,"Rua Paulo da Gama, 14",213014247,ext.alfredobinet@escolas.min-edu.pt;,https://alfredbinet.com.pt/,1,,Belém,d693914b-1dc3-42a8-9a06-379bfaf954e2,POINT (-9.21648434759652 38.6955752152856)
+2,3,1428,"Cooperativa ""A Torre""",Praça Malaca n.3,213011407,ext.atorre@escolas.min-edu.pt; geral@atorre.pt,https://atorre.pt/,1,,Belém,91d9dfd8-af85-4f8e-a585-a102fea77d2f,POINT (-9.21772663433867 38.696308410493)
+3,4,1429,"Externato ""A Escolinha""","Rua Fernão Mendes Pinto, 41",+351 213 014 452,ext.aescolinha@escolas.min-edu.pt,https://www.externatoescolinha.pt/,1,,Belém,87fd77ee-86ab-45eb-b364-d647ff140be3,POINT (-9.22490182183578 38.6973174716166)
+4,5,1430,"Externato ""Santa Maria de Belém""","Rua Duarte Pacheco Pereira, 24 - 1º Dto, Restelo
+
+",+351 213 011 343,ext.santamdebelem@escolas.min-edu.pt,https://externatosantamariadebelem.com/,1,,Belém,a78b3476-9d5d-426d-b473-3d609519ec20,POINT (-9.218970594513 38.6976975852239)
+5,6,1431,"Escola ""São Francisco Xavier""","Rua Duarte Pacheco Pereira, 5",+351 213 010 039,esc.sfranciscoxavier@escolas.min-edu.pt,http://www.esfranciscoxavier.com.sapo.pt,1,,Belém,96a77035-5be9-4d8c-80d0-075ccc126548,POINT (-9.21938005638312 38.697819813694)
+6,7,1432,Escola Raiz,Avenida do Restelo nº 23,+351 21 304 20 80,esc.raiz@escolas.min-edu.pt,https://escolaraiz.pt/,1,,Belém,d792a5b6-82cf-4d1a-a4b1-6b012eead4e3,POINT (-9.21379716239845 38.6990922093854)
+7,8,1433,"Centro de Pedagogia Terapêutica ""Bola de Neve""","Rua Afonso Gonçalves Baldaya, 6",+351 213 010 813,ct.boladeneve@escolas.min-edu.pt,https://www.colegioboladeneve.com/,1,,Belém,27ad6b4f-4978-4408-aa87-059f8864f6f9,POINT (-9.2207410340553 38.699457349921)
+8,9,1434,Colégio As Descobertas,"Avenida Dom Vasco da Gama, 25
+",+351 213 014 811,cl.asdescobertas@escolas.min-edu.pt,https://ipeip-asdescobertas.pt/,1,,Belém,ac529506-bf1e-4579-a104-c4b04a487166,POINT (-9.2225915468047 38.7001244038859)
+9,11,1436,"Colégio ""Mira Rio""","Estrada de Telheiras, 113A-113B",+351 213 030 480,ext.mirario@escolas.min-edu.pt,http://www.colegiomirario.pt,1,,Lumiar,3b53363a-8db2-4289-8a79-6a672981d15f,POINT (-9.16432091560347 38.7594394592301)
+10,12,1437,Externato da Sociedade Promotora da Educação Popular,"Largo das Fontaínhas, 19",+351 213 637 189,geral@externatoapromotora.pt,https://www.externatoapromotora.pt/,1,,Alcântara,7e6316d6-e83a-43bd-adf6-a4de4d574be9,POINT (-9.17703353698559 38.7046299940868)
+11,13,1438,"Escola ""Avé-Maria""","Rua dos Lusíadas, 49-R/C
+",+351 213 610 970,esc.avemaria@escolas.min-edu.pt,http://escola-avemaria.com,1,,Alcântara,1f2173df-df8f-4c3e-88c0-92e897aaee6b,POINT (-9.18062868177943 38.7052103369228)
+12,14,1439,"Escola Privativa n.º 6 de ""A Voz do Operário""","Calçada da Ajuda, 234 - R/C
+",+351 213 645 710,esc.n6.avdooperario@escolas.min-edu.pt,http://www.vozoperario.pt,1,,Ajuda,57065663-f436-4b64-824b-942416907d2f,POINT (-9.19908825041509 38.7055132437124)
+13,17,1442,Escola Primária Centro Cultural e Recreativo para Crianças Cruzeiro e Rio Seco,"Rua José Magro, Lote 7 - R/C",+351 213 644 465,esc.pccrccruzrioseco@escolas.min-edu.pt,https://ccrccr.pt/,1,,Ajuda,26fc41ee-f396-48c3-beed-a8d494035440,POINT (-9.18998860761286 38.7070008552915)
+14,18,1443,"Externato ""As Descobertas""","Rua Capitão-Mor Pedro Teixeira, 11",+351 213 031 060,ext.asdescobertas@escolas.min-edu.pt,http://www.exdescobertas.com,1,,Belém,42003da1-290c-4a09-be28-b478c536fd41,POINT (-9.2070436931536 38.7078784830323)
+15,19,1444,"Externato Paroquial ""Nossa Senhora da Conceição""","Largo da Academia Nacional de Belas Artes, 14 - 1",+351 213 425 599,ext.nsradaconceicao@escolas.min-edu.pt,ext.paroquial.n.sra.conceicao@hotmail.com,1,,Santa Maria Maior,cc53a67c-684d-4765-837b-e55331e42cae,POINT (-9.13979782912466 38.7087128486912)
+16,20,1445,PaRK International School - Restelo,"Avenida das Descobertas, 21",+351 213 026 316,all@park-is.com,http://www.park-is.com/,1,,Belém,ce8d9374-1954-48c1-8a0a-726caec3e236,POINT (-9.21604825844983 38.7083192525838)
+17,21,1446,Colégio de Santa Maria,"R. das Praças, 15- 17
+",+351 213 961 875,cl.stamarialisboa@escolas.min-edu.pt,https://colegiodesantamaria.pt/,1,,Estrela,3a8f02da-17e3-4ada-8a56-54b1935492b0,POINT (-9.15918740962485 38.7093089069013)
+18,24,1449,Externato de São José,"Avenida das Descobertas, 27",+351 213 037 020,ext.sjose@escolas.min-edu.pt,http://www.esj.edu.pt,1,,Belém,aa98c777-8e61-4be3-8f5a-4f480946a556,POINT (-9.21602949811176 38.7101209752386)
+19,26,1451,"Externato ""O Lar da Criança""","Rua Almeida Brandão, 25",+351 213 965 000,ext.olardacrianca@escolas.min-edu.pt,https://www.lardacrianca.pt/,1,,Estrela,66a9e605-6670-4863-abb2-a30d1ab040c4,POINT (-9.15693113098338 38.7113205303154)
+20,27,1452,"Colégio ""O Nosso Jardim""","Rua da Bela Vista à Lapa, 55",+351 213 905 242,ext.onjardimlisboa@escolas.min-edu.pt,https://onossojardim.com/,1,,Estrela,4af9d5a4-d8ac-42e4-b41c-331e46a3fcc1,POINT (-9.15891568050971 38.711816563545)
+21,29,1454,APPDA - Associação Portuguesa para as Perturbações do Desenvolvimento e Autismo,Rua José Luis Garcia Rodrigues,+351 213 616 250,appcalisboa@escolas.min-edu.pt,https://www.appda-lisboa.org.pt/,1,,Ajuda,40c4c8e4-09e5-48b4-8bd7-15bc43f0275c,POINT (-9.20267899494971 38.7119783486038)
+22,30,1455,Colégio Helen Keller,"Avenida dos Bombeiros, nº 1
+
+",+351 213 011 932,ct.helenkeller@escolas.min-edu.pt,http://www.centrohelenkeller.pt,1,,Belém,aafdf128-c1ca-47fd-956c-06c3920bc665,POINT (-9.21182430811985 38.7129825135033)
+23,31,1456,Salesianos de Lisboa - Colégio Oficinas de São José,"Praça São João Bosco, 34
+",+351 210 900 500,cl.soficinassjose@escolas.min-edu.pt,http://www.osj.salesianos.pt,1,,Campo de Ourique,7ead6e97-6ba7-4ac9-b198-fdf5a6d6cf8d,POINT (-9.16889700394904 38.7139666883881)
+24,32,1457,Colégio Luso-Suiço,"Rua de Santo Amaro, 18",+351 213 906 979,cl.lusosuico@escolas.min-edu.pt,https://colegiolusosuico.com/,1,,Campo de Ourique,36eba2aa-565d-468a-8a53-c41df270df57,POINT (-9.15499406448485 38.7149586180133)
+25,33,1458,Escola Privativa n.º 1 de A Voz do Operário,"Rua da Voz do Operário, 13
+
+",+351 218 862 155,esc.n1.avdooperario@escolas.min-edu.pt,http://www.vozoperario.pt,1,,São Vicente,7df04443-2945-45ad-9ac1-54b100dbb6ef,POINT (-9.12916825879552 38.7155960991548)
+26,34,1459,Jardim Escola João de Deus Lisboa/Estrela,"Avenida Álvares Cabral, 69 A",+351 213 906 510,estrela@escolasjoaodeus.pt,https://www.estrela.escolasjoaodeus.pt,1,,Campo de Ourique,c16e96e5-eedc-4f2a-994d-52cb816678b2,POINT (-9.15814114474916 38.7156486115646)
+27,35,1460,"Externato ""Rainha Dona Amélia""","Rua da Estrela, 65 - 1º
+",+351 213 942 090,ext.rainhadonaamelia@escolas.min-edu.pt,http://www.externatorainhadonaamelia.com.pt,1,,Estrela,f08554a4-b587-4792-9683-bc9d016662e3,POINT (-9.16104015428629 38.715653212416)
+28,36,1461,"Escola ""Pedro Nunes""","Rua Saraiva de Carvalho, 216 1º
+",213961943,esc.pedronunes@escolas.min-edu.pt,https://espn.edu.pt/,1,,Campo de Ourique,e3e702b4-8c0b-4ca7-b53d-d3e9cb971164,POINT (-9.16339260598714 38.7158056248644)
+29,38,1463,Escola do Grémio de Instrução Liberal de Campo de Ourique,Largo Doutor António Viana,+351 213 959 009,esc.gilcampoourique@escolas.min-edu.pt,http://www.gremionet.com,1,,Campo de Ourique,72cfbf98-2563-4256-8395-7e725e61619a,POINT (-9.16161412224132 38.7178038706705)
+30,40,1465,Externato Primário da Associação Pró-Infância Santo António de Lisboa,"Avenida Almirante Reis, 38
+",+351 218 140 438,ext.papisalisboa@escolas.min-edu.pt,www.apisal.org,1,,Arroios,0157867d-c932-4880-aaa4-bda03882f97e,POINT (-9.13501037313714 38.7238646491303)
+31,42,1467,Externato do Parque,"Rua de Artilharia Um, 97
+",+351 213 882 094,ext.parque@escolas.min-edu.pt,https://www.externatodoparque.pt/,1,,Campolide,a94cf33b-47a4-4865-9b31-072120cf4ac5,POINT (-9.15730349378222 38.7253063272957)
+32,43,1468,"Externato Infantil e Primário ""Passos Manuel""","Rua Passos Manuel, 24 - R/C Esq.",+351 213 561 383,ext.passosmanuel@escolas.min-edu.pt,http://www.ext.passosmanuel.com,1,,Arroios,7c7d179f-4184-43e6-97e9-1e168b7e71ee,POINT (-9.13660352427331 38.7278214741809)
+33,45,1470,"Externato ""Mãe de Deus""","Rua da Penha de França, 243
+",+351 218 149 048,ext.maededeus@escolas.min-edu.pt,https://www.externatomaededeus.org/,1,,Penha de França,863e3726-d495-453e-86c9-057c8b841b6e,POINT (-9.13111983664164 38.7286432119348)
+34,49,1474,Escola Selecta Prof. Doutor Amadeu Andrés,"Quinta Palmeiras, Vivenda Branca<br>Rua Marques da Silva, 79 (Escola);",+351 218 123 482,selectaamadeuandres@gmail.com,http://www.escolaselecta.com/,1,,Arroios,7bcb97c1-3bcf-4a82-8dfe-e26324bb1b7e,POINT (-9.13390219330257 38.7290284033735)
+35,51,1476,Externato de Nossa Senhora da Penha de França,"Travessa do Calado, 26",+351 218 140 704,ext.nsrapenhafranca@escolas.min-edu.pt,http://www.ext-n-sra-penha-franca.rcts.pt,1,,Penha de França,0b73f456-839c-4854-89b3-7872258233fd,POINT (-9.1298257484022 38.7300780603062)
+36,52,1477,"Colégio ""Sá de Miranda""","Rua Alexandre Braga, 17 - 1º",+351 213 155 310,ext.sademiranda@escolas.min-edu.pt,https://www.colegiosademiranda.com/,1,,Arroios,814326c0-3b8e-4cc5-bc7b-7110346f1597,POINT (-9.13899704492549 38.7304999397276)
+37,53,1478,Externato de Educação Popular,"Rua João Da Mota E Silva, N.º 3
+
+",+351 213 812 990,geral@educacaopopular.org,https://www.educacaopopular.org/,1,,Campolide,6c6922d9-6162-4e4c-a899-aacdc40eac81,POINT (-9.17225851609153 38.7304798148992)
+38,54,1479,"Externato ""Santa Francisca""","Rua Sabino de Sousa, 19 - 1º
+
+",+351 218 132 139,ext.santafrancisca@escolas.min-edu.pt,http://www.esfrancisca.pt,1,,Penha de França,90baf3fd-d53e-4973-99ae-fcd67317457e,POINT (-9.12759107312468 38.7325850822526)
+39,55,1480,Colégio de Talentos,"Rua de Ponta Delgada, 1;",+351 964 800 282,rui.dias@adventistas.org.pt,http://ctalentos.pt/,1,,Arroios,465f8f5f-2b0a-4622-ad0c-b1a35a7b455e,POINT (-9.14024595145005 38.7330119050459)
+40,56,1481,Colégio do Sagrado Coração de Maria,"Avenida Manuel da Maia, 2",+351 218 475 342,cl.scmarialisboa@escolas.min-edu.pt,http://www.cscm-lx.pt,1,,Arroios,3ef96695-10b2-4e6e-96fe-d3ce0953b546,POINT (-9.13660546975198 38.735178427426)
+41,57,1482,Colégio Académico,"Avenida da República, 13 e 13 C",+351 213 558 630,cl.academico@escolas.min-edu.pt,http://www.academico.edu.pt/,1,,Avenidas Novas,f28bc20e-554d-4ff3-ae66-13f6dcee61bc,POINT (-9.14559540599986 38.7352953146901)
+42,58,1483,"Externato ""A Ritinha""","Avenida António Augusto de Aguiar, 179 - R/C Dto
+
+",+351 213 878 699,ext.aritinha@escolas.min-edu.pt,https://www.externatoaritinha.com/,1,,Avenidas Novas,28c05ce7-08ff-437b-b223-978c6617414a,POINT (-9.15533600901612 38.7357005154863)
+43,59,1484,Nova Escola João de Deus Ramos,"Avenida João Crisóstomo, 35",+351 213 571 992,novaescjoaodeusramos@escolas.min-edu.pt,https://novaescolajoaodedeusramos.com/,1,,Avenidas Novas,80b7100d-1b12-4c98-8f22-2cd7781db3eb,POINT (-9.14804186380758 38.7357811817603)
+44,60,1485,"Externato ""Nobel""","Alameda D. Afonso Henriques, 78 - R/C
+",+351 218 485 886,ext.nobel@escolas.min-edu.pt,https://www.externatonobel.pt/,1,,Areeiro,d6831694-1413-485e-a5dd-0955634b345c,POINT (-9.13562631207768 38.7375288675353)
+45,62,1487,"Externato ""Infante D. Pedro""","Avenida da República, 49 - R/C
+
+",+351 217 973 322,ext.infantedpedro@escolas.min-edu.pt,http://www.ext-infantedpedro.com,1,,Avenidas Novas,e626f05e-a7d2-483a-87d9-8aaa00075511,POINT (-9.14638240565185 38.7385259350235)
+46,63,1488,PaRK International School - Praça de Espanha,"Avenida Columbano Bordalo Pinheiro, 52-52A;",215855000,all@park-is.com,http://www.park-is.com,1,,São Domingos de Benfica,fe391922-7177-41b6-8ee5-99a2e3a119c7,POINT (-9.16185058973694 38.7384911479118)
+47,66,1491,"Externato ""Anita""","Avenida Santos Dumont, 57 - 1º Dto
+",+351 217 935 829,ext.anita@escolas.min-edu.pt,http://www.externatoanita.com,1,,Avenidas Novas,016ab05c-d7b2-43b8-90cc-4d67326a05e7,POINT (-9.15617110629818 38.7394134059345)
+48,67,1492,Colégio de São Tomás - Sete Rios,"Rua Professor Lima Basto, 133-133B;",+351 217 247 010,teresa.monteiro@colegiodestomas.com,https://colegiodestomas.com/,1,,São Domingos de Benfica,2a60f682-c43f-475a-aa8d-de9200a1b355,POINT (-9.16551319831584 38.7400759172176)
+49,71,1496,"Externato Infantil e Primário ""O Beiral""","Travessa de Francisco Resende, 57",+351 217 783 359,ext.obeiral@escolas.min-edu.pt,http://escolabeiral.com/,1,,Benfica,96605bc6-9a7a-4b35-8a06-fd22765cf788,POINT (-9.19668748711501 38.7424022203829)
+50,73,1498,Nuclisol Jean Piaget - Unidade De Desenvolvimento Integrado Bairro Do Condado,"Rua Engenheiro Cunha Leal, Lote 544, 1.º",+351 218 313 030,njpiagetstamolivais@escolas.min-edu.pt,https://www.nuclisol.org/pt/,1,,Marvila,e547bb03-0492-40c0-ae1f-aa4af1665dfb,POINT (-9.11310821144323 38.7447475563973)
+51,76,1501,CEBE - Cooperativa de Ensino de Benfica,"Estrada de Benfica, 356
+",+351 217 782 120,cebe@escolas.min-edu.pt,https://www.cebe.pt/,1,,São Domingos de Benfica,b6d2736d-9182-4045-ac53-b7f49fd8b6a0,POINT (-9.18070718110137 38.7452250792295)
+52,77,1502,Externato Fernão Mendes Pinto,"Estrada de Benfica, 358",+351 217 780 188,ext.fmendespinto@escolas.min-edu.pt,http://educom.fct.unl.pt/~escalmad/fernpri.html,1,,São Domingos de Benfica,b20a2693-68c1-46aa-9296-6c2d63f5e4e6,POINT (-9.18092789470152 38.7453191205799)
+53,79,1504,"Externato ""O Barquinho""","Rua António Andrade, 12
+",+351 218 487 246,ext.obarquinho@escolas.min-edu.pt,https://www.externatobarquinho.com/,1,,Alvalade,26cf6562-acad-4115-b35c-e23370dc08d0,POINT (-9.13359387139789 38.7476393820053)
+54,80,1505,Colégio Eduardo Claparede,"Praça Andrade Caminha, 5",+351 217 993 982,cl.eduardoclaparede@escolas.min-edu.pt,https://www.colegioclaparede.pt/,1,,Alvalade,9be37524-e19a-4a75-9573-e6c8466231e0,POINT (-9.14368532070098 38.7476701838694)
+55,83,1508,Associação Infante de Sagres,"Rua Azevedo Neves, Edif Escola;",+351 217 265 940,aisagres@aisagres.pt,https://www.aisagres.pt/,1,,São Domingos de Benfica,f432c58f-3664-4070-ae72-7c14d792d600,POINT (-9.16535818841266 38.747766262347)
+56,84,1509,Externato Marista de Lisboa,"Rua Major Neutel de Abreu, 11",+351 217 712 030,ext.maristalisboa@escolas.min-edu.pt,http://www.ext.marista-lisboa.org,1,,São Domingos de Benfica,2f143bc8-4e5b-4ec3-8db7-c63d880e458d,POINT (-9.18164424325018 38.7477232013571)
+57,85,1510,Associação Creche Ester Janz,"Avenida Infante Dom Henrique, 286",+351 218 311 200,ass.creesterjanz@escolas.min-edu.pt,http://www.esterjanz.no.sapo.pt/,1,,Marvila,c22610d4-e8f0-4490-9da4-7e30e580a86b,POINT (-9.10339156854669 38.7502302543047)
+58,86,1511,"Externato ""Grão Vasco""","Avenida Grão Vasco, nº 40
+",+351 217 603 207,ext.graovasco@escolas.min-edu.pt,http://www.graovasco.pt,1,,Benfica,f2d1e83d-fa49-4c59-85f4-bd64fd61cefa,POINT (-9.20335769927784 38.7499618429804)
+59,87,1512,"Externato ""São Cristóvão""","Rua de Emília das Neves, 7 e 7 A",+351 217 606 527,ext.saocristovao@escolas.min-edu.pt,https://saocristovao.com.pt/,1,,Benfica,4b4c80cc-0511-40ff-afd5-40a2a21d266c,POINT (-9.20359796746516 38.7506442260604)
+60,89,1514,Colégio Cesário Verde,"Avenida Infante Dom Henrique, Lote 309",+351 219 457 590,ext.cesarioverde@escolas.min-edu.pt,http://www.cesarioverde-ensino.pt/,1,,Marvila,259c5a26-810a-41fa-945b-9997d14bd336,POINT (-9.10317998400444 38.7520727882507)
+61,91,1516,Colégio Saint Daniel Brottier,"Avenida Almirante Gago Coutinho, 80",211997077,secretaria@csdbrottier.pt,https://csdbrottier.pt/,1,,Alvalade,f1e54bcd-27be-4c9b-b320-d9b9adac3465,POINT (-9.13097601508296 38.7525682004221)
+62,92,1517,Colégio Moderno,"Rua Dr. João Soares, 19 e 22",+351 217991840,cl.moderno@escolas.min-edu.pt,http://www.colegiomoderno.pt,1,,Alvalade,6c4f790f-eb27-4781-8469-621ea5443218,POINT (-9.15364624965256 38.7527039087666)
+63,93,1518,"Externato ""Os Fofinhos"" ","Rua Dom Pedro de Cristo, 18",+351 218 478 240,ext.osfofinhos@escolas.min-edu.pt,www.osfofinhos.pt,1,,Alvalade,89bdbf3f-60dc-4882-828b-30ab9781eac4,POINT (-9.13403640411103 38.7529638150919)
+64,94,1519,"Jardim Infantil ""Pestalozzi""","Rua Dr. João Soares, 20 e 20B",+351 217 971 843,ji.pestalozzi@escolas.min-edu.pt,https://www.jardiminfantilpestalozzi.pt/,1,,Alvalade,a99dea8a-a247-4934-84db-4d62f716dd06,POINT (-9.15405434677923 38.753087672088)
+65,96,1521,Externato Luso Britânico,"Avenida Santa Joana Princesa, 7 e 13
+
+",+351 218 490 795,ext.lusobritanico@escolas.min-edu.pt,https://externatolusobritanico.pt/pt,1,,Alvalade,74e48f28-a0f2-4a25-9391-8dbe3718d490,POINT (-9.13641974018354 38.753934200639)
+66,97,1522,Colégio Valsassina,Avenida Avelino Teixeira da Mota - Qtª das Teresinhas,+351 218 310 900,cl.valsassina@escolas.min-edu.pt,http://www.cvalsassina.pt,1,,Marvila,67276ce5-14e4-469a-b3a1-dda63e052675,POINT (-9.12614486333781 38.7558990122078)
+67,98,1523,Jardim Escola João de Deus Lisboa/Alvalade,"Rua Conde de Arnoso, 3",+351 218491654,jdeus.alvalade@iol.pt,http://www.joaodeus.com/,1,,Alvalade,924c2d78-d370-4b01-b3e7-26157e1aac66,POINT (-9.13646179320678 38.7558877162823)
+68,102,1527,Externato das Pedralvas,"Rua Maria Lamas, 1 - Benfica
+",+351 217 620 620,ext.pedralvas@escolas.min-edu.pt,http://www.pedralvinhas.no.sapo.pt,1,,Benfica,00c352d2-9ea1-464f-b6b1-b06555523c32,POINT (-9.20520539528866 38.7558179128935)
+69,103,1528,Escola Alemã de Lisboa,Largo Willy Brandt,+351 21 751 02 60,schulleitung@dslissabon.com,http://www.ds.lissabon.com,1,,Lumiar,014b63be-b34f-4bd3-81b3-2648cc7be21b,POINT (-9.16453131568742 38.7577914348764)
+70,104,1529,Externato Liceal das Casas de São Vicente de Paulo,"Avenida Marechal Craveiro Lopes, 10
+",+351 217 521 430,ext.lcsvicentepaulo@escolas.min-edu.pt,https://www.externatoasvp.pt/,1,,Alvalade,ccb3878e-a6db-4b8d-a194-2755f7362416,POINT (-9.15155766433705 38.7589344105911)
+71,105,1530,Colégio N' Avózinha,"Avenida Almirante Gago Coutinho, 141
+",+351 210 963 956,cl.navozinha@escolas.min-edu.pt,www.naavozinha.com,1,,Alvalade,f36c057f-91d5-4d9f-9326-2080ccd7cbd4,POINT (-9.13046070669994 38.7597051970005)
+72,106,1531,Colégio Piloto Diese,"Avenida Almirante Gago Coutinho, 162-162A;",217970313,ji.diese@escolas.min-edu.pt,http://www.pilotodiese.web.pt,1,,Alvalade,c1e70953-9f95-4b3d-a1bf-caa63c32d164,POINT (-9.12945181697819 38.7607240144421)
+73,107,1532,Externato n.º 4 de Educação Popular (Confraria de S.Vicente de Paulo),"Rua do Norte, a Carnide, 45",+351 217 140 433,isabelfragoso.csvp@gmail.com,http://infantario-carnide.com/contactos.html,1,,Carnide,c6cc6802-3ab9-48eb-9db9-47472deeaf14,POINT (-9.1893516520269 38.7619615224446)
+74,108,1533,Externato da Luz,"Largo da Luz, 11
+",+351 217 140 769,ext.luz@escolas.min-edu.pt,http://odin.depgef.min-edu.pt/es/extluz/,1,,Carnide,58097499-bff1-45bf-8df0-c768221eb461,POINT (-9.18181292339607 38.762818068524)
+75,109,1534,"Externato ""O Poeta""","Alameda das Linhas de Torres, 82",+351 217 591 275,ext.opoeta@escolas.min-edu.pt,https://www.externatopoeta.pt/,1,,Lumiar,b5f45c27-c486-4e1a-9598-7004da77ab58,POINT (-9.15686441366653 38.7643107116527)
+76,110,1535,Jardim Escola João de Deus Lisboa/Olivais,"Rua Cidade de Vila Cabral, 69A
+",+351 218 530 002,secretaria.olivais@escolasjoaodeus.pt,http://www.joaodeus.com/,1,,Olivais,2349d4dc-147b-45d9-9493-271a012e68e7,POINT (-9.12214427470195 38.7659292106652)
+77,111,1536,"Jardim Escola ""O Bosque""","Rua Cidade de Benguela, 257",+351 218 534 953,je.obosque@escolas.min-edu.pt,colegiobosque.pt,1,,Olivais,9c12775c-1066-45af-97dd-b42ab8b178a7,POINT (-9.11300589072708 38.7664317229174)
+78,113,1538,"Externato ""Pim-Pam-Pum""","Praça Rainha Dona Filipa, 1 - R/C
+",+351 217 593 659,ext.pimpampum@escolas.min-edu.pt,http://www.externatopimpampum.com/,1,,Lumiar,19fecf96-8cb2-4f64-8435-8915f17ac9a8,POINT (-9.16370680892667 38.7671587061059)
+79,114,1539,Colégio Planalto,"Rua Armindo Rodrigues, 28
+",+351 217 541 530,ext.planalto@escolas.min-edu.pt,http://www.colegioplanalto.pt/,1,,Lumiar,391f35cd-991c-4b1a-a508-1df04832c88a,POINT (-9.16667391842211 38.7673537800608)
+80,116,1541,Colégio de São Tomás - Quinta das Conchas,"Avenida Maria Helena Vieira da Silva, 39 - Quinta das Conchas
+",+351 210 437 000,cl.stomaslumiar@escolas.min-edu.pt,http://www.colegiodestomas.com,1,,Lumiar,a83629ef-2145-41a1-97a2-006fcb014ec9,POINT (-9.15006211889743 38.7677203122349)
+81,119,1544,Colégio de São João de Brito,"Estrada da Torre, 28 ",+351 217 519 000,cl.sjoaobrito@escolas.min-edu.pt,http://www.csjb.pt,1,,Lumiar,786eb5fb-74d7-457a-8193-1f403d2ec997,POINT (-9.15592778385506 38.772796291371)
+82,120,1545,Real Colégio de Portugal,"Rua Direita ao Paço do Lumiar, 9",+351 217 571 957,realclportugal@escolas.min-edu.pt,http://www.realcolegio.pt/,1,,Lumiar,4889a9ed-4910-4842-81e7-c94818c78a63,POINT (-9.17206605535029 38.7730477946972)
+83,121,1546,Colégio Manuel Bernardes,"Quinta dos Azulejos, Paço do Lumiar",+351 217 570 501,cl.manuelbernardes@escolas.min-edu.pt,http://www.cmb.pt,1,,Lumiar,1ea5753b-f4f7-412c-8805-b08bef0a712a,POINT (-9.17351183193399 38.7734462326611)
+84,122,1547,Lua Crescente,"Estrada da Circunvalação, Lote 2;",218520043,geral@luacrescente.pt,http://www.luacrescente.pt,1,,Olivais,27b96107-01ec-4fc8-9159-d19ac0bab716,POINT (-9.10765138490686 38.7752489775306)
+85,123,1548,Externato Champagnat,"Quinta de Vila Formosa - Aeroporto
+",+351 218 540 190,geral@externatochampagnat.pt,https://www.externatochampagnat.pt/,1,,Olivais,729e037a-720a-47b6-bef6-2195c3d71ed6,POINT (-9.12650746848228 38.7782418083187)
+86,124,1549,"Externato ""São Miguel Arcanjo""",Avenida Doutor Alfredo Bensaúde - Olivais Norte,+351 218 517 834,ext.smiguelarcanjo@escolas.min-edu.pt,http://www.esma.pt/,1,,Olivais,c747b761-4cb2-4963-958d-22fbc64c6c1e,POINT (-9.11477639750872 38.7798563979376)
+87,125,1550,Academia de Música de Santa Cecília,"Largo do Ministro, 9 - Ameixoeira",+351 217 594 031,acm.stacecilialisboa@escolas.min-edu.pt,https://www.am-santacecilia.pt/,1,,Santa Clara,6c4d08b6-27d6-4bbf-a5f3-601540dadfea,POINT (-9.15925396311878 38.7824203233578)
+88,126,1551,Colégio Pedro Arrupe,"Passeio dos Heróis do Mar, 100-100C<br>Rua Vitorino Magalhães Godinho, S/N;",+351211572640,cl.pedroarrupe@escolas.min-edu.pt,http://www.colegiopedroarrupe.pt,1,,Parque das Nações,eadf4b77-f007-4848-8c52-75881b13f950,POINT (-9.0970281754942 38.7932749674204)
+89,127,1552,"MIMÁ - Externato de Ensino Pré-Escolar, Creche e Centro de A.T.L., Lda","Rua Teresa de Saldanha, Lote Direito",+351 217 581 232,ext.mima@escolas.min-edu.pt,http://www.mima-externato.com/mima/index.htm; https://pt-pt.facebook.com/mima.externato,1,,Santa Clara,92d7a743-8d50-4ece-a69e-362d038e61b2,POINT (-9.15014661360766 38.7951201285397)
+90,321,4551,Astória International School,"Avenida Almirante Gago Coutinho, 73, 83, 88",+351 211 583 551,info@colegioeuropeu-astoria.com,https://colegioeuropeu-astoria.com/,1,,Alvalade,a3dceda4-acc0-446a-9659-917dd2426859,POINT (-9.13109049481046 38.750621582243)
+91,641,4552,RedBridge School,"Rua Francisco Metrass, 97",213850521,hmd@redbridgeschool.com,https://redbridgeschool.com,1,,Campo de Ourique,5a362dde-7c6d-4132-b94e-d365a177576b,POINT (-9.16656232295444 38.719096531932)
+92,642,4554,Externato João XXIII,"Rua Corsário das Ilhas, Lote 3.27.02",+351 218 510 363,ebm.n3010.joaoxxiii@escolas.min-edu.pt;,https://externatojoao23.edu.pt/,1,,Parque das Nações,948c6ff1-8d38-4423-bc08-8e367a24c5e1,POINT (-9.09828933728683 38.7590845948183)
+93,657,4553,Queen Elizabeths's School,"Rua Filipe Magalhães, 1",210900500,info.qes@gmail.com,http://www.qes.pt,1,,Alvalade,4b2a7330-410f-40ec-9a95-70666e00caf4,POINT (-9.13517528953481 38.7516341132386)
+94,658,4556,Colégio Place4all,"Rua da Páscoa, 62",210488170,fundacaoplace4all@gmail.com,https://place4all.pt/,1,,Campo de Ourique,39b2e432-fcef-4a6e-a8c8-b4c2c6ad76b7,POINT (-9.15943141044866 38.7190109355678)
+95,675,4558,Escola Casa da Floresta,"Sítio do Barcal, 9",217743242,cl.cfverdesanos@escolas.min-edu.pt,https://www.escolacasadafloresta.pt/,1,,São Domingos de Benfica,c773fd6b-a5b5-4d78-86ed-57b8db7e1312,POINT (-9.18146630252574 38.7393366470239)
+96,961,4759,"Colégio ""O Pelicano""","Alameda Dom Afonso Henriques, 4",218454550,geral@colegiopelicano.pt,https://www.colegiopelicano.pt/,1,,Areeiro,98ea1100-da04-4a87-9629-b5929ceab838,POINT (-9.12924495832367 38.7378614827801)
+97,977,4760,Colégio Oriente,"Rua Principe do Mónaco (Alberto I), n.º 1 - Parque das Nações",218933160,geral@coriente.pt,https://www.coriente.pt/,1,,Parque das Nações,c65f3a5b-7b97-488f-920e-14bc075e0f1f,POINT (-9.09719419748507 38.7855321898204)
+98,1281,4762,Externato Alfredo Binet,"Rua Paulo da Gama, 14-14B",213014247,ext.alfredobinet@escolas.min-edu.pt,https://alfredbinet.com.pt/,1,,Belém,7bd4a9dd-53e4-4a15-8ab8-d50dca41aa0e,POINT (-9.2134856896976 38.7046068076399)

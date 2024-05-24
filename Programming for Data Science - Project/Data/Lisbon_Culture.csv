@@ -1,0 +1,308 @@
+,OBJECTID,INF_NOME,FREGUESIA,GlobalID,Type,longitude,latitude
+0,1,Museu de Arte Popular,Belém,4188e21c-373e-429e-b209-95c8ec28a34c,Museum,38.6938036001826,-9.20844625414179
+1,3,Museu Coleção Berardo,Belém,e9b18708-da7a-4c91-87b4-dc1a4646a55b,Museum,38.6957476923844,-9.20773166084022
+2,4,"MAAT - Museu de Arte, Arquitetura e Tecnologia",Belém,d30df7a4-89fd-4570-a5e2-aca9fdff84f8,Museum,38.6960435304729,-9.19371529028373
+3,5,Museu Nacional dos Coches,Belém,be5d44a3-dd01-4258-a3ae-c3b73e74e446,Museum,38.6968006044798,-9.19838680167877
+4,6,Museu de Marinha,Belém,658ca5c9-bc5b-49c7-ba5b-18659c32036b,Museum,38.6972269914078,-9.20923637432389
+5,7,Museu da Presidência da República,Belém,1b721a03-beb2-4c05-8f75-093ce5e31877,Museum,38.6973545686542,-9.20127211903689
+6,9,Museu Nacional de Arqueologia,Belém,53a42132-6e43-4836-a436-745a7b6dbb05,Museum,38.6977812634844,-9.20577110214699
+7,10,Museu do Centro Cultural Casapiano,Belém,880c0be1-30d6-4c6d-a13f-cc5509e6c0a4,Museum,38.6995406936303,-9.20592914735613
+8,11,Museu do Centro Cientifico e Cultural de Macau,Alcântara,5ef404cf-06fc-4ec6-bac0-69b43dd803d5,Museum,38.700825745641,-9.18239232831072
+9,12,Museu da Carris,Alcântara,7ce98ec0-2de9-430f-a3d3-960cee33e5b3,Museum,38.7016116951744,-9.17990290840983
+10,14,Museu do Oriente,Estrela,194cf31c-42bf-449e-ad1a-bba9caf8c0ad,Museum,38.7028810076503,-9.17072639334932
+11,15,Museu Nacional de Arte Antiga,Estrela,c86d33ef-3835-4bf9-a4f8-0e99268c1c9c,Museum,38.7050366939719,-9.16117545495154
+12,16,Museu Nacional de Etnologia,Belém,da219388-efdc-4894-81e6-0521e90be239,Museum,38.7049054912757,-9.20884093975929
+13,17,Museu de Lisboa - Torreão Poente,Santa Maria Maior,e86a615d-3f9b-4218-a2d9-8bd38ed444d8,Museum,38.7070238678421,-9.13785522111144
+14,18,Museu das Comunicações,Misericórdia,7872eea5-a055-4831-9cac-f4b40b963174,Museum,38.7078105338602,-9.15039711394694
+15,19,Museu da Marioneta,Estrela,c930dc51-b368-47cf-9c31-33ec99a0ac1c,Museum,38.7080001246788,-9.1556903057238
+16,21,Museu Nacional de Arte Contemporânea do Chiado,Santa Maria Maior,424b0416-1c48-4bbf-83be-bbf4c1027072,Museum,38.7084178674259,-9.14123926049217
+17,22,Museu do Dinheiro,Santa Maria Maior,9d033162-87e6-4349-ac1b-b519fa324694,Museum,38.7085052968525,-9.1388466943514
+18,23,Museu de Lisboa - Casa dos Bicos,Santa Maria Maior,33fe0f42-13cd-477c-9842-445f3cc0ffe2,Museum,38.7090129803229,-9.13257983699248
+19,24,Mude - Museu do Design e da Moda (encerrado até junho 2019),Santa Maria Maior,b01a475f-5142-4bc9-ae54-6e5c970ead52,Museum,38.7090385984645,-9.13689138803704
+20,25,Tesouro da Sé,Santa Maria Maior,a552d4b3-ac49-4b47-a4b6-0424c3a0ec75,Museum,38.7098164468488,-9.13324088535869
+21,26,Núcleo Arqueológico da Rua dos Correeiros (BCP),Santa Maria Maior,88c815b8-f5e5-410d-972c-05231d9a688e,Museum,38.7099448154714,-9.13708778316754
+22,27,Museu de Lisboa - Santo António,Santa Maria Maior,ea6e23b0-35cf-4592-994a-9eb3da65a4c6,Museum,38.710012225592,-9.13387775853996
+23,28,Museu da Farmácia,Misericórdia,2b80e750-9b04-4328-b302-c8927f7dba7d,Museum,38.7100316714774,-9.14731588954899
+24,29,Museu do Aljube - Resistência e Liberdade,Santa Maria Maior,dda8c466-b88e-415a-ba03-dc26b5242011,Museum,38.7101715086201,-9.13268944848222
+25,30,Museu de Lisboa - Teatro Romano,Santa Maria Maior,04ddcf60-8a6c-4914-acce-fd1324a183ae,Museum,38.7102533305755,-9.1324910765914
+26,31,Museu do Fado ,Santa Maria Maior,cd2e5d90-39d9-47c3-9ab3-d11c3a14f606,Museum,38.7111605667067,-9.12761339538145
+27,32,Atelier-Museu Júlio Pomar,Misericórdia,af41efbb-ca8f-4292-860a-4274589a3319,Museum,38.7112801009814,-9.15037814061002
+28,33,Museu de Artes Decorativas Portuguesas ,Santa Maria Maior,a486aa2a-4aef-491a-acdc-168f50b0cc60,Museum,38.7121172210741,-9.13044206112642
+29,34,Museu Arqueológico do Carmo,Santa Maria Maior,b8ada0f6-359d-40a1-b5c9-e99d4f809523,Museum,38.7121510280018,-9.14023416772297
+30,35,Museu do Lactário ,Santa Maria Maior,0479ebf3-7fdc-4db8-a0bb-4f00d9d0641b,Museum,38.712333510127,-9.12514494476728
+31,36,Museu da Guarda Nacional Republicana ,Santa Maria Maior,97c0014b-c363-43a5-a7a6-a0182bd75360,Museum,38.7122044165559,-9.14075326960112
+32,37,Museu da Liga dos Combatentes,Misericórdia,b499ab09-f48a-4e9e-b3fe-1840ed2c3f39,Museum,38.7126151875605,-9.14734988712384
+33,38,Museu Militar de Lisboa,Santa Maria Maior,9a011c5d-4401-451f-b5b4-f5a8a6251b0c,Museum,38.7129124150989,-9.12505909440291
+34,39,Núcleo Museológico do Castelo de São Jorge,Santa Maria Maior,0ec7b9ef-cd82-463b-9edf-c5d4939a8bda,Museum,38.7129732785274,-9.13392724529904
+35,40,Museu Geológico,Misericórdia,d6595144-9e33-40d8-a836-a27aba3a1b89,Museum,38.7131371054111,-9.14993472975294
+36,41,Museu Maçónico Português,Misericórdia,fcb8c7fd-cdbc-4981-a558-faae369e2a76,Museum,38.7132102253995,-9.1447481984009
+37,42,Museu de São Roque,Misericórdia,a6f15292-bd62-4482-985d-cf57c2cee162,Museum,38.7136140935291,-9.1434823912749
+38,44,Museu de São Vicente de Fora,São Vicente,3854d107-2d98-41d6-bc5b-3e6cff858c09,Museum,38.714811980517,-9.12785732322877
+39,45,Museu Nacional do Desporto,Santa Maria Maior,ebfe6fb9-983c-41f5-ab58-c62fa9fcbaa6,Museum,38.7155597377788,-9.14217296415889
+40,46,Casa-Museu Amália Rodrigues,Campo de Ourique,73b4d09c-f20d-45cc-8e6a-b29478c24416,Museum,38.7154582612699,-9.1545717827781
+41,47,Museu João de Deus,Campo de Ourique,8231fa10-9b72-4a8c-af73-92aa01b6b8c2,Museum,38.7158470644447,-9.15824342650985
+42,48,Museu da Sociedade de Geografia de Lisboa,Arroios,64189476-8781-45bf-b47b-85f536fd7635,Museum,38.716235102854,-9.13978944254408
+43,49,Casa Fernando Pessoa (encerrada até dezembro 2019),Campo de Ourique,33438c54-74eb-451d-a4cd-1a68ad9eaa37,Museum,38.7166406977766,-9.16244553690677
+44,50,Museu Nacional de História Natural e da Ciência,Santo António,380f8df6-d512-4eca-894f-5be85a20d8e5,Museum,38.7174783912027,-9.1501089458048
+45,51,Museu da Água ,São Vicente,9342d5fa-364f-4a19-9133-34103d7bce31,Museum,38.7197333044183,-9.11987442651365
+46,52,Cinemateca Portuguesa - Museu do Cinema,Santo António,388874bc-ba1a-49eb-936b-77b31ee367ba,Museum,38.7208591880149,-9.14874263963816
+47,53,Casa-Museu Medeiros e Almeida,Santo António,fd6dea86-ddbd-439d-89ee-9b3b5f5a5524,Museum,38.7217456532528,-9.14912967901881
+48,54,Museu Arpad Szenes - Vieira da Silva,Santo António,c79817f5-a666-4e5e-90a8-e91db8695ba1,Museum,38.7221274663758,-9.15574130634125
+49,55,Museu Nacional do Azulejo,Penha de França,23a64dd5-9698-48e0-996a-20addd8757f3,Museum,38.7247334026495,-9.11370109649341
+50,56,Casa-Museu Doutor Anastácio Gonçalves,Avenidas Novas,8e4231b5-32e9-4110-bd38-72d2fa4abd28,Museum,38.7325245594519,-9.14627837049109
+51,57,Museu Calouste Gulbenkian - Coleção Moderna,Avenidas Novas,6a3d5856-a8d9-4f8c-a45d-8f10fac0225a,Museum,38.7356222996592,-9.1540883166997
+52,58,Museu Calouste Gulbenkian - Coleção Fundador,Avenidas Novas,4aa57520-6a3f-486e-a459-8db2921eeb5d,Museum,38.7376254777874,-9.15303544681628
+53,60,Museu das Crianças,São Domingos de Benfica,9a61c8da-7604-4f01-bc53-7f40c1c0e308,Museum,38.7432987007177,-9.1682136954843
+54,61,Museu Nacional da Música,São Domingos de Benfica,ab9ea0ae-d8d2-47a5-892f-f5b8348b09b0,Museum,38.7498597967998,-9.17977761072745
+55,62,Museu Cosme Damião,São Domingos de Benfica,94e482a1-bc2f-4243-bc42-cb1fb8974860,Museum,38.751397803978,-9.18403810908708
+56,63,Museu de Lisboa - Palácio Pimenta,Alvalade,dfa2f1ff-0b55-41ee-93f5-e666622fdd28,Museum,38.7584707147428,-9.15643592357634
+57,64,Museu de Lisboa - Palácio Pimenta,Alvalade,62e1db26-d905-490f-b97c-4989bf86a5f9,Museum,38.7584798221458,-9.15642454923345
+58,65,Coleção Museológica de Rádio e de Televisão,Marvila,34a72730-6811-4a6e-b7c3-b4ac7e4efdc2,Museum,38.7588523316216,-9.1180157029957
+59,66,Museu Bordalo Pinheiro,Alvalade,5c27f192-956d-4a5c-bcc3-0c3f0191ad86,Museum,38.7588425882955,-9.15417097078076
+60,67,Pavilhão do Conhecimento - Centro Ciência Viva,Parque das Nações,0a950385-a36f-416e-8993-036f59545df6,Museum,38.7622841405187,-9.09536954640737
+61,68,Museu Nacional do Teatro e da Dança,Lumiar,e827f666-3676-44dd-aeee-6d9207734395,Museum,38.7746840299489,-9.16714912508588
+62,69,Museu Nacional do Traje,Lumiar,67f1564a-6f3e-45fb-96ea-31abf7be0981,Museum,38.774880058006,-9.16520794354528
+0,1,Gabinete curiosidades Karnart,Belém,3fe9f7da-7fad-4b14-acb3-52f2e9c0c4a6,,38.6942717024345,-9.21166372368461
+1,2,Academia Dramática Familiar 1º de Novembro,Belém,54f50c25-86c4-4cfa-afda-56bc0df13bde,,38.6946077974743,-9.21780836813136
+2,5,LU.CA - Teatro Luís de Camões,Belém,bfdcb6c3-99a0-4295-a270-91707f347131,,38.6990273338048,-9.19937868329999
+3,6,Espaço POGO,Estrela,51727d32-af42-4cae-bc34-9628b47b8d51,,38.7056992808956,-9.15387688164241
+4,7,Teatro Cinearte,Estrela,70165c4b-3536-4eb2-83bd-36d07a1110e8,,38.707179493127,-9.15523788281565
+5,8,Espaço Ribeira,Misericórdia,f160dcf2-9d5e-49d3-8e54-883e861e93e5,,38.7076365851554,-9.14562111679739
+6,9,Estúdio Mário Viegas,Santa Maria Maior,80565bca-d41a-4c08-8ea0-5eaee2c61b33,,38.7090776349882,-9.14243656131755
+7,10,São Luiz Teatro Municipal,Santa Maria Maior,a297b272-7828-49ee-805b-82ff55be683f,,38.7092139581971,-9.14229062491321
+8,11,Teatro Nacional de São Carlos,Santa Maria Maior,be0bd3c4-f232-4490-92df-c98cf95f17ae,,38.7093395446441,-9.14173389317537
+9,12,Gota TeatroOficina,Santa Maria Maior,7a9d56bc-9602-4c7e-8021-0bf4a4085ec5,,38.710695035513,-9.1339880952136
+10,13,Café - Teatro Santiago Alquimista,Santa Maria Maior,3177b04a-7c7e-4108-8982-25b1dd2d5b58,,38.7110708380512,-9.13166915324598
+11,14,Mini-teatro da Calçada,Misericórdia,83a5b4c7-449f-47a2-a1a3-fa5699144dc8,,38.7110395218517,-9.14887938689645
+12,15,Companhia do Chapitô,Santa Maria Maior,76325a61-573e-4212-9614-8f0440d825e3,,38.7113667878382,-9.13387611548224
+13,16,Espaço Negócio,Misericórdia,6f0b22a8-7e85-46fb-82b4-dfe746e9b9e8,,38.7113584184985,-9.14729738034931
+14,17,Teatro da Trindade,Santa Maria Maior,7f428d2d-b61b-43ec-8466-0f9b4cdadfb4,,38.7118667388252,-9.14257794491555
+15,18,Teatro do Bairro,Misericórdia,09883c10-ea91-4e73-b60f-195c22968405,,38.7123038059486,-9.1457804776273
+16,19,Sociedade de Instrução Guilherme Cossoul,Misericórdia,9ec71f81-5fe8-4652-bbed-894b8d275a05,,38.7141508740111,-9.15323067382153
+17,20,Teatro Nacional D. Maria II,Santa Maria Maior,e10fa96f-adcf-4b3b-82ac-9fd333c47d8c,,38.7147695424085,-9.13977194699715
+18,21,Teatro Taborda (Teatro da Garagem),Santa Maria Maior,9344aaaa-6442-46ae-b790-0de33815e210,,38.7148688721225,-9.13291109871998
+19,22,Teatro Lanterna Mágica,Alcântara,a1d6a186-71e2-4046-a972-9d3106e494a7,,38.7144996165339,-9.18071128875531
+20,23,Teatro da Voz,São Vicente,b2ed7667-9da5-4d13-bbf5-35757c0b3f4c,,38.7156784026593,-9.13008006600806
+21,24,Espaço Eclipse,Campo de Ourique,3ecc87d6-9696-425c-ab1d-a5669e6d5a84,,38.7161159960171,-9.15493058180255
+22,25,Teatro Politeama,Santa Maria Maior,dd25c1c9-37e1-4fda-9364-0cb9a5e5ff30,,38.7164957310627,-9.1408508873865
+23,27,Teatro da Politécnica,Santo António,adb68d3c-5823-4972-9c77-00baa1d12dce,,38.7177377825855,-9.15031958857291
+24,28,Teatro Maria Vitória,Santo António,beee74e8-95c6-413c-8aad-2e65c45b9ebe,,38.7193513716665,-9.14642168895707
+25,29,Teatro Bocage,Arroios,45ecbc1f-8fda-40cf-9fc6-b92d894571c8,,38.7198531832853,-9.13380372063164
+26,30,Teatro Tivoli BBVA,Santo António,d7e019d3-ac92-4b69-8b4f-916d0b93ada3,,38.7204853974578,-9.14495579327929
+27,31,Teatro Ibérico,Beato,0376b567-05a3-4625-807b-b880d0b1b6b8,,38.7265817202302,-9.11167781978456
+28,32,Teatro Mundial,Arroios,1ab104c5-1957-45a5-a8ec-8e98f2966cca,,38.7288853968958,-9.14668505327739
+29,33,Teatro Villaret,Arroios,69b8e70b-9035-408e-9f16-2da15952e258,,38.7302464791321,-9.14679436797477
+30,34,Clube Estefânia,Arroios,600c4793-e7e4-424d-b13b-4de6dd6109ed,,38.730754311601,-9.13989352002043
+31,35,Palco Oriental,Beato,fc46b5e6-ad25-4abf-bc3d-f334b4877d7b,,38.7338209271053,-9.10737062267815
+32,36,Teatro Aberto,Campolide,7c0c0aea-6f74-449d-9151-22e36a71ca22,,38.7361907042879,-9.15846482141411
+33,37,Comuna Teatro de Pesquisa,Campolide,00d23888-ed1f-4d57-8cad-f84a527eae6a,,38.7366006645655,-9.16048886579307
+34,38,Teatro Meridional,Marvila,f84912df-8563-4674-bd0b-b1c8af17cc66,,38.7391689797277,-9.10386054269509
+35,39,Teatro Thalia,São Domingos de Benfica,a81733e1-cba9-472d-8517-cfb2d30f1273,,38.7452466547643,-9.16937569044931
+36,40,Casa Conveniente- Zona não Vigiada,Marvila,f9486030-e32d-4f66-a9b6-ed2a5445e3d7,,38.7458667408202,-9.1120955676112
+37,41,Maria Matos  - Teatro Municipal,Alvalade,649bce0b-853f-4e0e-97e5-acf0c6ae5c36,,38.7460034836739,-9.13896565054712
+38,42,Teatro Turim,Benfica,6c183835-14ef-4aa4-9b84-688b22700267,,38.7507180198838,-9.20242575385519
+39,43,Sala-Estúdio Os Papa-Léguas,Benfica,252f6db6-aa5e-4abe-923a-a87dc2bf6229,,38.7535117555032,-9.19536980903199
+40,44,Teatro Camões,Parque das Nações,702cdc5c-a01c-42ce-8b38-04ddd7b1df1a,,38.7609752070056,-9.09338483979676
+41,46,Teatro Armando Cortez,Carnide,87a980e7-ba15-480d-84ba-7585673ccf27,,38.7606533009678,-9.19291330381683
+42,47,Teatro da Luz (Teatro Dom Luiz Filipe),Carnide,30591fca-7e46-4c22-b5cb-f4f37ec38dae,,38.7612046669017,-9.18432868505701
+43,48,Teatro de Carnide,Carnide,a024208b-504f-4c62-8fba-e261209fa3b8,,38.7620783638193,-9.18696402553184
+0,1,Cinema Ideal,Misericórdia,45afe625-02d7-4712-b6b8-7aa0c2116ed6,,38.7105419551935,-9.14421890064127
+1,2,Cinemateca Júnior,Santa Maria Maior,1d3ca135-5a24-478c-95f4-dd2dc87a65c9,,38.7155597377788,-9.14217296415889
+2,3,Cinema São Jorge,Santo António,1bf79faf-5d97-48b3-b085-fa4446c435a2,,38.7202915388439,-9.14632734020411
+3,4,Cinemateca Portuguesa ,Santo António,3414bf94-62ac-43c7-a846-0d5e41251e89,,38.7208771016563,-9.14875439274829
+4,5,NOS Amoreiras,Campo de Ourique,1af99162-1626-4f83-9342-f891e2b442bc,,38.7236706345087,-9.1621026515977
+5,6,UCI Cinemas - El Corte Inglés,Avenidas Novas,13511a16-ad5e-4b53-9b25-355ab130ee40,,38.7333439219981,-9.15340798563761
+6,7,Cinema Monumental,Avenidas Novas,d96aaf73-b46e-46e8-89ac-8d2328d6f08d,,38.7335261917306,-9.14579320378632
+7,8,Espaço Nimas,Avenidas Novas,0bc17fd8-e56c-4dfc-9542-4cadf79767e1,,38.7356900304196,-9.14718277671252
+8,9,Cinema City Campo Pequeno,Avenidas Novas,a88d4e22-33be-4fdd-8b1e-1c8695afd7d7,,38.7423214179747,-9.14449387516613
+9,10,Fórum Lisboa,Areeiro,fe7d109a-6c73-47a3-ad03-8a82452e77ca,,38.7436886688391,-9.13801199862753
+10,11,Cinema City Classic Alvalade,Alvalade,652bd345-3ec8-44b9-9acd-8db494bbd36e,,38.7543991915836,-9.14441107157055
+11,12,NOS Colombo,Carnide,ebee764f-bce2-4220-a085-27bbf065da83,,38.7547475326007,-9.19087374516466
+12,13,NOS Alvaláxia,Lumiar,abfec9fe-04fb-4efe-97e4-e3c454531d3b,,38.7623024667643,-9.16071808539236
+13,14,NOS Vasco da Gama,Parque das Nações,954d17fa-62b0-4942-85c2-1f0d0300572f,,38.7677003436163,-9.09681579102737
+0,1,Centro de Documentação da Casa da América Latina ,Belém,3d123d45-0d43-4507-b6b3-37a4f384a251,,38.6967176932591,-9.1943402237447
+1,2,UCCLA - Centro de Documentação,Belém,d3cc88bf-d350-4f9d-829a-94cd08ffebb8,,38.6967534158723,-9.19433594926581
+2,3,Biblioteca de Belém,Belém,53473127-6007-4d47-9b87-fa4e563c56f8,,38.697128835316,-9.195836078897
+3,4,Arquivo Central e Arquivo Histórico de Marinha,Belém,ae67622f-e6cc-4a72-afd3-f69f2d4039cb,,38.6971708005374,-9.19236965231991
+4,5,Biblioteca Central da Marinha,Belém,fd047b92-5e5f-45f4-bf47-c703cfb0012f,,38.697199972424,-9.20923596941843
+5,6,Biblioteca do Museu de Marinha,Belém,fce17ff2-0341-4902-a867-2acc0e93a0ec,,38.697199972424,-9.20923596941843
+6,7,Biblioteca do Museu de Marinha,Belém,023bab6b-1a5e-454e-91f1-584464e1ec7d,,38.6972270971809,-9.20922488136068
+7,8,Biblioteca do Museu Nacional dos Coches,Belém,211c53ca-fd2d-4ab7-adc9-d8b25eb32f67,,38.6978158232229,-9.1997115273464
+8,9,Biblioteca Museu Nacional Arqueologia,Belém,b4b2e61a-9c77-4fd0-b0d1-b0307a20fd7b,,38.697772151412,-9.20578246066934
+9,10,Centro de Documentação Europeia da Universidade Lusíada,Belém,bf51016e-b673-4493-825d-56c50eb570c3,,38.6985428962756,-9.19180759058483
+10,11,Bibliotecas da Universidade Lusíada,Belém,02361d9e-375e-4a46-80c0-bde92809ad7d,,38.6985428962756,-9.19180759058483
+11,12,Biblioteca César da Silva,Belém,a5ca4461-6485-4550-b109-ebd6fedc7aca,,38.699549593899,-9.20594077640881
+12,13,Arquivo Histórico Ultramarino/DGLAB,Alcântara,b94a448b-999f-467c-9201-b99c8c379956,,38.6999842512095,-9.18980575959728
+13,14,Centro Científico e Cultural de Macau - Serviço de Informação e Documentação ,Alcântara,90da19de-fcc1-4a32-bfb9-0fcf93fe6c5f,,38.700713201128,-9.18188489792873
+14,15,Centro de Documentação e Informação -  Instituto de Investigação Científica Tropical,Belém,187a4831-3b9d-4589-b382-117e65484a17,,38.7013829954969,-9.20230339670971
+15,16,Centro de Documentação Instituto Apoio à Criança,Ajuda,014b04b3-ebc7-4d06-a98e-a68b92e96107,,38.7029181052934,-9.20130517655488
+16,17,Centro de Documentação e Informação da Inspecção-Geral da Educação,Estrela,7988e515-b39f-4c24-8f03-7045faa033ff,,38.7037558806567,-9.16566325729486
+17,18,DGIDC - Centro de Recursos da Educação Especial,Estrela,b4868a4c-0ee3-415f-97e9-21044daa801d,,38.7038197296986,-9.16616434971879
+18,19,Arquivo Municipal de Lisboa | Videoteca,Alcântara,f4ab5415-e359-47a0-a150-51ce1c565f85,,38.7046284527914,-9.17720594982239
+19,20,Biblioteca do Museu Nacional Etnologia,Belém,66a0d506-56c2-4a1e-b0ce-a87705d7e68b,,38.7048965913106,-9.20882931062005
+20,21,Biblioteca Central do Instituto dos Museus e Conservação,Estrela,3c72879b-5f19-49b3-87d9-394a0f0cdd71,,38.7057288986768,-9.15975971953944
+21,22,Biblioteca da Revista Brotéria,Estrela,f0c98661-48b0-4dbc-bf74-d685f0804f89,,38.705715339192,-9.16648649407434
+22,23,Centro de Documentação da Direcção-Geral dos Assuntos Europeus,Estrela,07493696-d636-49d1-8747-8f7400147c9a,,38.7057042808324,-9.16801042525148
+23,24,"Serviço de Biblioteca, Documentação e Arquivo Histórico-Diplomático - Ministério dos Negócios Estran",Estrela,7f4c4035-83e4-4257-9f3c-32f2a70271ab,,38.706005369564,-9.17038754439552
+24,25,Centro de Informação Europeia Jacques Delors,Misericórdia,2f89d0b1-b298-478f-b7ba-45bcb12306e0,,38.706254459169,-9.14271670329495
+25,26,Biblioteca e Centro de Documentação dos Prazeres,Estrela,40e5583c-d138-4163-b7a0-b276d3639249,,38.7068354938955,-9.16702377272163
+26,27,Divisão de Doc. Min. Agri. Desenv. Rural e Pescas - MADRP	,Ajuda,7342d8dc-cfeb-4f4d-83e5-5871fee035f3,,38.7068115293522,-9.19483822853867
+27,28,Centro de Documentação do Museu da Marioneta,Estrela,fc7abd80-3f73-4b4a-865b-0d6f8638e3d1,,38.7080001246788,-9.1556903057238
+28,29,Centro de Documentação Inf. Relações Públicas do Min. Cultura,Ajuda,eda419f6-d840-49e8-a715-70fb5e8f8b4e,,38.7076756501507,-9.19772981910666
+29,30,Biblioteca Geral /Biblioteca de Arqueologia - IGESPAR,Ajuda,61c24a0c-6e10-462d-ac31-3870f3d23057,,38.7076757548166,-9.19771832442768
+30,31,Biblioteca da Ajuda,Ajuda,1257dde1-d5af-4617-8a5b-4cda8fc43191,,38.7076757548166,-9.19771832442768
+31,32,Biblioteca do Instituto Superior de Agronomia,Alcântara,b85057e9-8425-45ba-a0ed-fcb9dbfc1a52,,38.7084677678955,-9.18395935631697
+32,33,Biblioteca da Faculdade de Belas-Artes da Universidade de Lisboa,Santa Maria Maior,a1068c32-063d-4dbb-a5bd-ba32838289ed,,38.7088674040927,-9.1405385079772
+33,34,Divisão de Documentação Fotográfica - Instituto Português de Museus,Ajuda,1fb0ccbc-d227-460c-9727-e5dd6c1fa3d1,,38.7086704600145,-9.19744095522102
+34,35,Biblioteca do Instituto da Defesa Nacional,Estrela,989667d9-b6e2-4234-8154-eac8a092f2a8,,38.7092259929679,-9.16774021790248
+35,36,Biblioteca do Centro Nacional de Cultura,Santa Maria Maior,6cf313a4-227a-427a-aadf-de266acb2b84,,38.7095631041694,-9.14236419825004
+36,37,Biblioteca da  Cooperativa António Sérgio,Estrela,0d413094-38a0-4027-bc4d-bde30dfb15c6,,38.7098499827031,-9.16336235940073
+37,38,Biblioteca Francisco Pereira de Moura - ISEG,Estrela,96514183-1de6-430d-8ae6-e46abe15a1fb,,38.7099260544145,-9.15493021276902
+38,39,Biblioteca Associação Portuguesa da Arte Fotográfica,Misericórdia,a6600d5e-ee6b-43d5-9721-77d00491ebba,,38.7102216402684,-9.14555676389839
+39,40,Biblioteca e Centro de Documentação e Informação Português António Aragão,Estrela,8715e76b-2acc-43c8-8071-dbaa81128f71,,38.7102513247738,-9.15867483997222
+40,41,Biblioteca e Centro de Documentação e Informação Português António Aragão,Estrela,3ffcd745-a7bb-4cb6-9ae3-0d436f7d2adc,,38.7102615237455,-9.1587321126872
+41,42,Biblioteca Camões,Misericórdia,4ebdc8c9-3abe-4793-b6c7-69b73e3c8bd8,,38.7106058385814,-9.14591858919604
+42,43,Biblioteca da Comissão Nacional de Eleições,Misericórdia,2e3d30de-de8b-43ed-af17-22fe4979eac5,,38.7106125264513,-9.15332169224633
+43,44,Biblioteca da Casa do Fado e da Guitarra Portuguesa,Santa Maria Maior,0498aaec-6eed-482c-8f65-9ffef0c85dce,,38.7111514620958,-9.1276247649222
+44,45,Biblioteca e Centro de Documentação  Luíza Neto Jorge - Chapitô,Santa Maria Maior,e87733ef-e75a-405c-ab7c-5193a491b0dc,,38.7115800246054,-9.13384832761041
+45,46,Centro de Estudos sobre África e do Desenvolvimento,Estrela,8f6e7a50-2165-44f4-a784-f24a19dfed75,,38.7114338432741,-9.15544969522052
+46,47,Centro de Documentação Instituto Superior Psicologia Aplicada,Santa Maria Maior,8b161a48-0ef9-4b65-8112-19d4bf94b36c,,38.712167817803,-9.12593131137537
+47,48,Centro de Documentação do Ministério do Ambiente e Ordenamento do Território,Misericórdia,1060601e-4b30-407c-a722-a3d24400f8f2,,38.7123120129225,-9.14763195200258
+48,49,Biblioteca Passos Manuel,Estrela,8851b324-2196-4d45-b53e-6853c1bbef1e,,38.7124509228247,-9.15362919466312
+49,50,Biblioteca Passos Manuel,Estrela,05328e83-a726-49b8-ac52-4b821941cec6,,38.7124689354439,-9.15362945193781
+50,51,Casa da Liberdade Mário Cesariny,Santa Maria Maior,04d2b982-4bf7-44c7-9851-870cc8181ead,,38.7127061278609,-9.12793239648825
+51,52,Arquivo Histórico Militar,Santa Maria Maior,6b54495f-393b-40c5-95b9-780112366754,,38.7129034082556,-9.12505896991698
+52,53,Arquivo Fundação Mário Soares,Misericórdia,8dec376d-b593-452c-aeb6-4c174a8e5ca8,,38.7127072256908,-9.15286950012861
+53,55,Centro HELEN KELLER,Belém,35b79256-0e8d-484d-970a-ed0699a2e055,,38.7123980396382,-9.21173036290192
+54,56,Biblioteca /Centro de Documentação da Faculdade de Arquitectura de Lisboa,Ajuda,c982481f-7a64-4056-a138-f30a4edeae6b,,38.7126850958506,-9.19439626438461
+55,57,Biblioteca da Academia das Ciências,Misericórdia,ea6864a2-3127-415d-8da9-6ad2cf3436c7,,38.7131551189596,-9.14993498496998
+56,58,Academia das Ciências de Lisboa,Misericórdia,13680e70-64eb-4721-9ae7-c974b6c22ac0,,38.713162886634,-9.14980424712137
+57,59,Biblioteca do Instituto Superior Ciências Sociais e Políticas,Ajuda,746738f3-3276-46fb-a477-00775c97a66c,,38.7132622199994,-9.197983734979
+58,60,Biblioteca e Arquivo Histórico da Santa Casa da Misericórdia,Misericórdia,31c47b22-2b29-4e3f-bab9-f7d3025ccfd9,,38.7145543372201,-9.14366649924886
+59,61,Biblioteca e Centro de Documentação - Faculdade de Medicina Veterinária,Ajuda,03ff17f6-8eef-45ad-9e24-229787b4d426,,38.7140973686556,-9.19548086198172
+60,62,Centro de Documentação Teatro Nacional D. Maria II,Santa Maria Maior,e84a1518-f518-4ef5-8b75-2b8a28ef7a86,,38.7148731804296,-9.1398059971225
+61,63,Biblioteca Voz do Operário,São Vicente,663429a8-e4d8-4e6a-8384-6d7e79646cc1,,38.7156812600226,-9.12919762250965
+62,64,Gabinete Informação Documental Arquivo da Inspecção Geral Actidades Culturais,Santa Maria Maior,41bf2dfc-6a98-4e19-ad07-43a85a86d4eb,,38.7160119777938,-9.1425768841782
+63,65,Biblioteca da Sociedade de Geografia de Lisboa e Museu Etnográfico,Arroios,f3f1955d-5b2d-4b91-9e07-f3ee4467c524,,38.7165384624449,-9.14068818683074
+64,66,Biblioteca Casa Fernando Pessoa (encerrada até dezembro 2019),Campo de Ourique,fa2448e0-d38d-4195-b8a0-cb5a91e718ea,,38.7166406977766,-9.16244553690677
+65,67,Biblioteca | Espaço Cultural Cinema Europa,Campo de Ourique,26db65b4-4073-4695-b631-958a78605876,,38.7171870436828,-9.16624513442539
+66,68,Biblioteca Imprensa Nacional,Santo António,9bfc1def-f906-43ed-899f-f0c15fa9db6f,,38.7178597572223,-9.15182753919634
+67,69,Arquivo Municipal Fotográfico,Santa Maria Maior,03bf3998-5c3b-4394-9fec-b01a076aef9d,,38.7182076850518,-9.13556291973755
+68,70,Centro de Documentação e Informação - DGIDC,Campo de Ourique,ff25b18d-9670-4d2a-8353-8afd588859cf,,38.7181975104737,-9.15760743012135
+69,71,Arquivo Histórico e Biblioteca do Museu de Ciência da Universidade de Lisboa,Santo António,d41c6d8f-7be7-40ea-b7d3-5c3b140757f7,,38.718315752524,-9.151263001758
+70,72,Biblioteca do Instituto Geofísico Infante Dom Luiz,Santo António,c88d2c11-42f4-4771-9e17-feec88c51b9b,,38.7183337660491,-9.15126325735565
+71,73,Centro de Documentação da Ilga Portugal,Santa Maria Maior,e2f46356-db08-4bca-9219-5d0a987f47ae,,38.7185692579571,-9.13646482169968
+72,74,Biblioteca do British Council,Santo António,f25331d7-9056-4d97-890b-4c304629530b,,38.718413447957,-9.1554687616717
+73,75,Biblioteca da APEC (Associação Promotora do Ensino dos Cegos),Campo de Ourique,75816bfe-8d8d-42e4-bfe2-cdc4008efe0d,,38.718854252906,-9.16668519585851
+74,76,Centro Cultural Infantil Adolfo Simão Muller,Alcântara,d167906c-067a-4ee1-93df-4e13e5e7ef9a,,38.7190368637673,-9.18732133480944
+75,77,CRNSA - Centro de Reabilitação Nossa Senhora dos Anjos,São Vicente,37f6879d-82c3-4e2c-a039-3b27ab959c9f,,38.7199170452094,-9.11865921116034
+76,78,Biblioteca da Faculdade de Ciências Médicas da Universidade Nova de Lisboa,Arroios,bf8b65c8-1774-4119-98ba-5f5488fa68fe,,38.7198612057401,-9.13972454383696
+77,79,Biblioteca do Instituto Bacteriológico Câmara Pestana,Arroios,14a81c48-7583-4700-b339-5a8364889026,,38.7198883242062,-9.13971342605142
+78,80,Biblioteca da Associação Protecção aos Diabéticos de Portugal,Santo António,10640e2d-bf2a-4aa9-8ff4-f860535a64b2,,38.7199131869703,-9.1508333987576
+79,81,Hemeroteca do Instituto Italiano Cultura em Portugal,Santo António,fb9f88b8-f9f4-419f-a646-bd200dc9c086,,38.7199433817592,-9.15253555994636
+80,82,Centro Documentação da União Europeia,Santo António,a51984ac-21d8-4e79-bdd2-dd5319556309,,38.7202466605082,-9.14687038800054
+81,83,Biblioteca São Lázaro,Arroios,61a077ac-5a23-415b-a614-13c7a2c300d1,,38.7203550308114,-9.13810453342737
+82,84,Biblioteca e Arquivo Fotográfico da Cinemateca Portuguesa - Museu do Cinema,Santo António,96f93524-859c-4c8a-bf45-8cd68d370933,,38.7208862083019,-9.14874302327017
+83,85,Biblioteca do Goethe Institut,Arroios,621452b4-cd45-46c6-80a7-a8b22256efab,,38.7211358626321,-9.14072067903828
+84,86,Biblioteca do Instituto da Vinha e do Vinho,Santo António,9fc724ed-9d74-4243-bf49-4cc24900d1a1,,38.7220552741644,-9.15000143906712
+85,87,Biblioteca do Instituto Superior de Serviço Social de Lisboa,Arroios,c0570128-6299-4849-82b6-9bb1562a661f,,38.7221829067283,-9.13873443490877
+86,88,Biblioteca da APOTEC - Associação Portuguesa de Técnicos de Contas,Santo António,727c21d9-78ae-4f2e-8ba2-837b0eb2b8f3,,38.7222911351876,-9.14585728279215
+87,89,Biblioteca Sociedade Língua Portuguesa,Santo António,75708403-dc43-45db-8c17-f17fa95037d2,,38.7228052779942,-9.15063662332233
+88,90,Biblioteca Gonzalo Torrente Ballester - Instituto Cervantes,Santo António,44ca34f6-6f93-417a-8aa2-9dfc43995269,,38.7238107195212,-9.14597877161908
+89,91,ACAPO - Associação de Cegos e Ambliopes de Portugal,Santo António,8220272e-b17b-4e09-a2d5-c0e58bbe75a2,,38.7243293678656,-9.14741195826711
+90,92,Biblioteca da Universidade Autónoma de Lisboa,Santo António,7238236b-19fa-4d0f-8e1b-9156ed0102ab,,38.7244239702467,-9.14589545081874
+91,93,Biblioteca Museu Nacional do Azulejo,Penha de França,887ead07-1a51-4d65-a9ba-b22426bbaf0a,,38.724742312066,-9.11371272880596
+92,94,Biblioteca e Centro Documentação do Instituto de Conservação da Natureza,Santo António,79763831-9105-4209-b911-b1fdd2560155,,38.7249477587749,-9.14654698494995
+93,95,Biblioteca do Instituto Geográfico Português,Campolide,f0dc70de-3e3c-488b-b2ea-f70b678c87a1,,38.7257338562211,-9.15869720560538
+94,96,Biblioteca do Instituto Superior de Novas Profissões,Santo António,7df7985a-b44c-421f-bdcd-138348817c27,,38.7261948236076,-9.14424160058271
+95,97,Mediateca de Formação Profissional,Beato,2a0c6e8e-cc77-4b0a-98ef-cb6dc4ec3d20,,38.7267355637263,-9.11144163113198
+96,98,Biblioteca e Arquivo do Banco de Portugal,Arroios,bc2cdf7a-2a9f-49f7-b0cc-553aa331c739,,38.7265334376858,-9.13545947326075
+97,99,Biblioteca da Penha de França,Penha de França,a04b9894-781b-4877-b142-505bc7fbf744,,38.7273676324827,-9.12523149850968
+98,100,Biblioteca da Freguesia de São Jorge de Arroios,Arroios,651ecaea-a81c-45af-ac92-026682725c93,,38.7275570633767,-9.13669419565993
+99,101,Biblioteca Sociedade Teosófica Portugal,Arroios,a901c424-dda5-4020-a81f-2be0aea955e3,,38.7275571620849,-9.13668269757444
+100,102,Biblioteca da Sociedade Portuguesa de Autores,Arroios,451a0e49-e046-4141-ac70-75b912bea2c6,,38.728530793899,-9.14394850194242
+101,103,Centro de Documentação Ass. Port. De Educação Musical,Avenidas Novas,0c241f57-6bd1-4fce-a293-fa48364f2543,,38.7284454262673,-9.15902064463438
+102,104,CIUL - Centro de Informação Urbana de Lisboa,Avenidas Novas,0ee85eb1-82ee-4fe8-a0ee-2f615f4e9fff,,38.7308443972889,-9.14806974653835
+103,105,Centro de Documentação Direcção-Geral Autarquias Locais,Arroios,a98e3fcc-6f9b-49a0-8ff1-1cfb45cd171f,,38.7312229041081,-9.13778055750685
+104,106,Biblioteca da Assembleia Distrital de Lisboa,Arroios,371869c2-b1c7-4c51-a619-d305459d43a8,,38.7313737918165,-9.13790321722684
+105,107,"Biblioteca da Associação Portuguesa de Bibliotecários, Arquivistas e Documentalistas",Penha de França,8eebcb8e-d6ff-4711-a4b1-5b5b479da218,,38.7318209508303,-9.12816345278728
+106,108,Biblioteca ONU,Avenidas Novas,8edab478-a296-407d-99fd-9305dd05bb37,,38.7318099740945,-9.14697739401526
+107,109,Serviço de documentação do ISEGI - Universidade Nova de Lisboa,Campolide,3dc386f0-515d-43f2-aefe-2804ff362830,,38.7326057415263,-9.16086365065977
+108,110,Biblioteca Almada Negreiros - Universidade Nova de Lisboa,Campolide,56d95a60-5acf-41f8-bee8-623039059fd2,,38.7326237549532,-9.16086390879898
+109,111,Serviço de documentação do ISEGI - Universidade Nova de Lisboa,Campolide,7de4fee9-0e15-4a0c-a7f4-bb44c15ae2cf,,38.7327868796758,-9.1604438800256
+110,112,Biblioteca da Faculdade de Direito Universidade Nova de Lisboa,Campolide,9410de63-5fd3-4f3c-b3cf-22f6efb11ded,,38.7327959874456,-9.16043251020273
+111,113,CIDAC - Centro de Informação e Documentação Amílcar Cabral,Avenidas Novas,00c44621-6f7d-4917-86a2-d229c2a0a2b4,,38.734474748728,-9.15129332209634
+112,114,Arquivo Municipal de Lisboa,Campolide,af957f07-5dae-4b7c-a5f7-c2d7fa690cd4,,38.7355332143655,-9.17135486888728
+113,115,Biblioteca do Instituto Superior Técnico,Areeiro,62ed4a68-cc6e-439a-8818-d332ec372d83,,38.7367847880959,-9.13949745101906
+114,116,Biblioteca do Instituto Nacional para a Reabilitação,Avenidas Novas,ae0b22fb-7956-4f9f-9020-fbc1ff67243f,,38.7369005466955,-9.15098278613583
+115,117,Biblioteca do Instituto Superior de Contabilidade e Administração de Lisboa,Avenidas Novas,b281a4b5-2be2-4504-8257-8f7a01f919ef,,38.7371982609284,-9.14678915625357
+116,118,Biblioteca da Comissão para a Cidadania e a Igualdade de Género,Avenidas Novas,2b107bc0-6e1b-4035-a24a-be2036e10e54,,38.7377235171086,-9.14542796224815
+117,119,Biblioteca da Comissão para a Cidadania e a Igualdade de Género,Avenidas Novas,95c7a1be-e4d6-4028-98e8-e21f25b704f4,,38.7377414301055,-9.14543971738179
+118,120,Biblioteca de Arte - Fundação Calouste Gulbenkian,Avenidas Novas,701f349b-ad97-48f0-bca0-c802e0f32286,,38.738202259068,-9.15361424653165
+119,121,Centro de Documentação do INE,Areeiro,89ad21be-051c-47c4-aaaf-feac4ba14a36,,38.7384439886744,-9.13805645788157
+120,122,Centro de Documentação e Informação da Secretaria-Geral Ministério da Educação,Avenidas Novas,ebee35e0-fe75-490a-ad2b-feb319c1c228,,38.7387992111191,-9.14857083314116
+121,123,Comissão Fulbright,Avenidas Novas,9134ec02-e751-4314-88df-e9aa374423fc,,38.7392537531417,-9.14555310839834
+122,124,Biblioteca do Instituto Português de Reumatologia,Avenidas Novas,b8448f3f-0f15-43a8-93a3-f82e24baf9fa,,38.7394447542701,-9.15361825645941
+123,125,Biblioteca de Marvila,Marvila,4b9d0dfa-7498-4072-958f-fefa777c3b3b,,38.7400780072021,-9.10911082295563
+124,126,Arquivo Municipal Arco do Cego,Areeiro,845490b1-ef7d-47c7-ba9f-a7cf80f8fae6,,38.7401474093486,-9.1411721800002
+125,127,Biblioteca e Arquivo Histórico do Tribunal de Contas,Avenidas Novas,358a0059-8ee8-4164-99b2-548d7ba334ad,,38.7401053160748,-9.14707184066557
+126,128,Biblioteca e Arquivo Histórico do Tribunal de Contas,Avenidas Novas,be6db60e-305e-4ce1-968f-26b099a6dc53,,38.7401084362478,-9.14678624688697
+127,129,Biblioteca Mário Sottomayor Cardia -Faculdade Ciências Sociais Humanas da UNL,Avenidas Novas,9ec75de3-3482-40c4-b349-a5c215a83a3a,,38.7405143962613,-9.15080016106942
+128,130,Biblioteca Palácio Galveias,Avenidas Novas,80640adb-2857-478e-8537-4416c832503d,,38.7414346161814,-9.14364361122044
+129,131,"Biblioteca do Gab. de Estratégia e Planeamento do Min. do Trabalho, Solidariedade e Segurança Social",Areeiro,e77b7d10-4f36-4e45-91ea-aae7293de4c5,,38.7415464179213,-9.13824229801016
+130,132,Biblioteca do Centro Cultural João das Regras,São Domingos de Benfica,3c910c5a-ade6-41ef-a496-5662b13f27ec,,38.7413434831932,-9.17122805500903
+131,133,Information Resource Center - Embaixada Americana,Avenidas Novas,d150c532-0bf7-47be-a5ce-62ed69e6efa4,,38.7434832522619,-9.16198609410025
+132,134,Biblioteca dos Amigos de Lisboa,Avenidas Novas,e615fa17-1715-4f5e-97d7-a087fb15c268,,38.7435179182663,-9.15841634974469
+133,137,Centro de Documentação do Instituto da Água,Areeiro,a7698a0b-bb9c-44df-8b72-e9bc77f8682a,,38.7455039914582,-9.13104501454473
+134,138,Biblioteca - Museu República e Resistência,Avenidas Novas,2a067694-f73b-4aba-bdd1-5cba03dea4be,,38.7461387792371,-9.15829486367592
+135,139,Centro de Documentação Escola Superior de Música de Lisboa,Benfica,9e578593-ec53-461a-8e8b-16fa6e6cb818,,38.7462643188633,-9.19539832808439
+136,140,Centro de Documentação do Gabinete de Estudos Olisiponenses,São Domingos de Benfica,776a1c6b-bd05-4f87-81d8-048c82efac09,,38.7466354574582,-9.18279906481453
+137,141,Centro de Documentação do Gabinete de Estudos Olisiponenses,São Domingos de Benfica,8bb812f1-64c3-4875-9b01-e252054e87a3,,38.7466533665296,-9.18281082956284
+138,142,Palácio do Beau Séjour - Gabinete de Estudos Olisiponenses,São Domingos de Benfica,e3097d07-d5ab-4e12-8306-f33684909046,,38.7466624764449,-9.18279946047168
+139,143,APEDV - Associação Promotora de Emprego a Deficientes Visuais,Marvila,35665008-c0e4-4dac-ad41-cf61699b34c1,,38.7474753236088,-9.11205132935514
+140,144,Biblioteca da Faculdade de Farmácia da Universidade de Lisboa,Alvalade,76496724-a051-4fde-a161-81ee8a8fef80,,38.7481169437514,-9.15503557792897
+141,145,Centro de Documentação e Informação Europeia da Universidade Católica Portuguesa,São Domingos de Benfica,70b9f909-f778-429e-8e8d-4a13d6b4ee06,,38.7485313368452,-9.16613484943465
+142,146,Biblioteca Universitária João Paulo II - Universidade Católica Portuguesa,São Domingos de Benfica,efd179af-d4a0-4cf8-9086-a901f4e8c811,,38.7485313368452,-9.16613484943465
+143,147,Biblioteca do Instituto de Ciências Sociais,Alvalade,f038effc-c414-4a43-bcbb-5b790407d1c2,,38.7487541112195,-9.15328822357407
+144,148,Centro de Documentação do Edifício Central do Município,Alvalade,9e12abea-d15b-4410-83cf-2e0a42078b2c,,38.7492785328953,-9.14989240492167
+145,149,Biblioteca do Instituto Superior de Ciências do Trabalho e da Empresa,Alvalade,9318d402-3066-4ebf-b882-6c92baaceae8,,38.7493217518244,-9.15316347838334
+146,150,Centro de Documentação do Edifício Central do Campo Grande - CML ,Alvalade,00656fd4-ed35-4e81-9679-8b98f88ca901,,38.749419259103,-9.15027022953085
+147,151,Centro de Documentação do Museu da Música,São Domingos de Benfica,6894ca2a-be13-4fdf-84f5-7b827eac638b,,38.7498689064275,-9.17976624074466
+148,152,Biblioteca da Faculdade de Medicina Dentária da Universidade de Lisboa,Alvalade,462cdec7-81b0-4167-8002-d038df5472c5,,38.7502994199217,-9.15564124981368
+149,153,Biblioteca dos Coruchéus,Alvalade,01387b9f-a49a-444f-bfca-e7c90500385d,,38.7509714031589,-9.14422729166216
+150,154,Palácio Baldaya,Benfica,0b19dc42-468c-40a1-a482-2313f9f13475,,38.750531164318,-9.20063108196388
+151,155,Biblioteca Nacional de Portugal,Alvalade,04a4ef10-8c91-4fc7-9cf7-a9d4fcb1c747,,38.7509684603801,-9.1518632389118
+152,156,Biblioteca da Faculdade de Direito da Universidade de Lisboa,Alvalade,8b57f48e-994d-4f29-87a4-d2a426219f60,,38.7521993475672,-9.15730386815259
+153,157,Centro de Documentação Europeia da Universidade de Lisboa,Alvalade,9bfba41c-ea66-4475-a679-4de76bffc8cf,,38.7522084550492,-9.15729249489963
+154,158,Biblioteca da Faculdade de Psicologia e Ciências da Educação da Universidade Nova de Lisboa,Alvalade,818cac66-18bd-4381-9168-fc4ab4590723,,38.7525813254471,-9.15571789831272
+155,159,Serviços de Documentação da Universidade de Lisboa,Alvalade,24e8e40f-2135-45ff-abe3-da970e84d5ca,,38.752743059767,-9.15819912117594
+156,160,Biblioteca Chaves Caminha,Alvalade,408a74ca-f686-4eef-a3f7-fa984fa91d6e,,38.7529852371035,-9.13783287962467
+157,161,Biblioteca Genealógica de Lisboa,Alvalade,e612764c-d798-49ed-932d-7f82b23d7609,,38.7534097474524,-9.13082028824271
+158,162,Biblioteca da Faculdade de Letras da Universidade de Lisboa,Alvalade,61bf1ed1-f1d1-49ee-8b58-01f60000925e,,38.7536907829205,-9.15791575215276
+159,163,Centro de Documentação e Informação (CDI) - Coordenação Nacional para a Infecção VIH/Sida,São Domingos de Benfica,4864b51c-6d62-49ad-acaa-50c2d088ef75,,38.7537482714365,-9.17498881415291
+160,164,Arquivo Nacional Torre do Tombo,Alvalade,ce5233bb-79cf-4c09-bcf2-7cf979c4e67b,,38.7542148887629,-9.15602398030957
+161,165,Hemeroteca Municipal de Lisboa,São Domingos de Benfica,6d583355-2776-40a4-93ab-7800133581ad,,38.7548986009489,-9.17258551116267
+162,166,Biblioteca da Faculdade de Ciências de Lisboa,Alvalade,8131ace7-eb8c-4163-b4e3-bfe572fa12a3,,38.756294855213,-9.15630016525915
+163,167,Fundação Raquel e Martin Sain,Alvalade,0597168d-f05a-4a95-bea2-d3db616eca80,,38.756432191861,-9.14261221060595
+164,168,Biblioteca Central Instituto Superior Engenharia Lisboa (ISEL),Marvila,0a2199b5-94b0-475f-a671-5b003e725037,,38.7568898204701,-9.11692017427706
+165,169,Biblioteca Jacques Delors,Alvalade,8c78537c-3d94-432c-8617-baf14caba59e,,38.7568661356397,-9.15403561687619
+166,170,Caleidoscópio,Alvalade,073056cd-747a-43eb-9a68-133fa44333d2,,38.7568669145992,-9.15398160445561
+167,171,Biblioteca Universitária Victor de Sá - Universidade Lusófona de Humanidades e Tecnologias,Alvalade,db5854c6-390e-450b-9c6c-a6599af1b21f,,38.7585659996692,-9.15386790838386
+168,173,Biblioteca Orlando Ribeiro,Lumiar,059bebf0-1a62-44dd-8330-6ab5b8c16687,,38.7597783717189,-9.16912613505569
+169,175,Biblioteca do Instituto Superior de Línguas e Administração,Carnide,0cb6c06a-110e-4748-aeaf-330b198c1ae6,,38.760156131647,-9.19327738776271
+170,176,Biblioteca dos Olivais,Olivais,f04cddd7-4a54-4fb3-9ae9-0757bb04e332,,38.7635667158892,-9.11304408829389
+171,177,Bedeteca Municipal de Lisboa,Olivais,fe2df08a-5f71-4129-abef-457eb1f32b14,,38.7636296549348,-9.1130909829686
+172,178,Centro de Documentação e Informação da Escola Nacional de Saúde Pública,Lumiar,5864d0d4-7b17-4978-a23a-08616a315e86,,38.7641133632539,-9.1630885625153
+173,179,Biblioteca Professor Morais Barbosa - ISEC,Lumiar,7575adba-ae0f-4d66-b6d4-b3022daf35ab,,38.7695927309338,-9.16037651921923
+174,180,Biblioteca Natália Correia,Carnide,2bec666b-1908-41e6-8997-6e55ac68b4ea,,38.7699046604459,-9.1912374268411
+175,181,Biblioteca Academia Portuguesa de História,Lumiar,f1b94046-10da-4c49-8dc3-24c164fb72ca,,38.770441473186,-9.1596524760667
+176,182,Biblioteca David Mourão-Ferreira,Parque das Nações,3049f6f6-05af-4ce4-ad12-9d8c1496956b,,38.7724108601142,-9.1042350125495
+177,183,Biblioteca Central do INETI,Lumiar,0df97976-0611-4df4-b502-2df12c941728,,38.7726198168754,-9.17655695967636
+178,184,Biblioteca do Museu Nacional do Teatro e da Dança,Lumiar,f5fb453a-bb0a-4d5f-8e07-e3cc5182b429,,38.7742549670297,-9.16846402399861
+179,185,Biblioteca Museu Nacional Traje,Lumiar,076a55c2-94bf-4179-9ae9-ff1c78d29418,,38.77515756282,-9.16483445782315
+180,186,Biblioteca Maria Keil,Lumiar,2e0a6192-5c41-43f5-b1a9-5c99f0934451,,38.7770013649156,-9.1522187659454
+181,187,Biblioteca do Instituto Geográfico do Exército,Olivais,be84c7eb-c741-4d01-8984-3cedaf5ca3b0,,38.7783584745839,-9.1138698838198
+182,188,Biblioteca e Centro de Documentação Inst. Superior de Gestão,Santa Clara,e91afddc-eb55-48c8-b161-aa3af24a899a,,38.7815528453781,-9.16080135013299
+183,189,Biblioteca de Alcântara,Alcântara,c17f8533-2f77-474b-9347-9b1d84ccf65d,,38.7064003129323,-9.17783766528358
+184,191,Casa do Jardim da Estrela,Estrela,d6043416-8b99-4d82-9df4-9f75bc51ebb9,,38.7151117120304,-9.15923193811284
+185,321,Biblioteca - Quiosque do Jardim da Estrela,Estrela,ef905f97-cdeb-4bb3-bb0f-6b1f6d3669b6,,38.7152115254646,-9.15816062604686
